@@ -1,0 +1,24 @@
+
+gomoku.o:	/usr/include/ansi.h
+gomoku.o:	/usr/include/ctype.h
+gomoku.o:	/usr/include/curses.h
+gomoku.o:	/usr/include/limits.h
+gomoku.o:	/usr/include/machine/interrupt.h
+gomoku.o:	/usr/include/minix/config.h
+gomoku.o:	/usr/include/minix/dir.h
+gomoku.o:	/usr/include/minix/limits.h
+gomoku.o:	/usr/include/minix/sys_config.h
+gomoku.o:	/usr/include/minix/type.h
+gomoku.o:	/usr/include/minix/types.h
+gomoku.o:	/usr/include/stdarg.h
+gomoku.o:	/usr/include/stddef.h
+gomoku.o:	/usr/include/stdint.h
+gomoku.o:	/usr/include/stdio.h
+gomoku.o:	/usr/include/stdlib.h
+gomoku.o:	/usr/include/sys/cdefs.h
+gomoku.o:	/usr/include/sys/null.h
+gomoku.o:	/usr/include/sys/types.h
+gomoku.o:	/usr/include/sys/ucred.h
+gomoku.o:	/usr/include/termios.h
+gomoku.o:	/usr/include/unistd.h
+gomoku.o:	gomoku.c

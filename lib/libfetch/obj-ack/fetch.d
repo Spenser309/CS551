@@ -1,0 +1,20 @@
+
+fetch.o:	/usr/include/ansi.h
+fetch.o:	/usr/include/ctype.h
+fetch.o:	/usr/include/errno.h
+fetch.o:	/usr/include/fetch.h
+fetch.o:	/usr/include/limits.h
+fetch.o:	/usr/include/minix/dir.h
+fetch.o:	/usr/include/minix/limits.h
+fetch.o:	/usr/include/minix/sys_config.h
+fetch.o:	/usr/include/minix/types.h
+fetch.o:	/usr/include/stddef.h
+fetch.o:	/usr/include/stdint.h
+fetch.o:	/usr/include/stdio.h
+fetch.o:	/usr/include/stdlib.h
+fetch.o:	/usr/include/string.h
+fetch.o:	/usr/include/sys/cdefs.h
+fetch.o:	/usr/include/sys/null.h
+fetch.o:	/usr/include/sys/types.h
+fetch.o:	/usr/src/lib/libfetch/common.h
+fetch.o:	/usr/src/lib/libfetch/fetch.c

@@ -1,0 +1,24 @@
+
+getopt_long.o:	/usr/include/ansi.h
+getopt_long.o:	/usr/include/assert.h
+getopt_long.o:	/usr/include/err.h
+getopt_long.o:	/usr/include/errno.h
+getopt_long.o:	/usr/include/getopt.h
+getopt_long.o:	/usr/include/limits.h
+getopt_long.o:	/usr/include/machine/interrupt.h
+getopt_long.o:	/usr/include/minix/config.h
+getopt_long.o:	/usr/include/minix/dir.h
+getopt_long.o:	/usr/include/minix/limits.h
+getopt_long.o:	/usr/include/minix/sys_config.h
+getopt_long.o:	/usr/include/minix/type.h
+getopt_long.o:	/usr/include/minix/types.h
+getopt_long.o:	/usr/include/stdarg.h
+getopt_long.o:	/usr/include/stddef.h
+getopt_long.o:	/usr/include/stdint.h
+getopt_long.o:	/usr/include/stdlib.h
+getopt_long.o:	/usr/include/string.h
+getopt_long.o:	/usr/include/sys/cdefs.h
+getopt_long.o:	/usr/include/sys/null.h
+getopt_long.o:	/usr/include/sys/ucred.h
+getopt_long.o:	/usr/include/unistd.h
+getopt_long.o:	/usr/src/lib/libc/other/getopt_long.c

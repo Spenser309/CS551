@@ -1,0 +1,24 @@
+
+log.o:	/usr/include/ansi.h
+log.o:	/usr/include/fcntl.h
+log.o:	/usr/include/limits.h
+log.o:	/usr/include/machine/interrupt.h
+log.o:	/usr/include/minix/config.h
+log.o:	/usr/include/minix/dir.h
+log.o:	/usr/include/minix/limits.h
+log.o:	/usr/include/minix/sys_config.h
+log.o:	/usr/include/minix/type.h
+log.o:	/usr/include/minix/types.h
+log.o:	/usr/include/pwd.h
+log.o:	/usr/include/stdint.h
+log.o:	/usr/include/stdio.h
+log.o:	/usr/include/string.h
+log.o:	/usr/include/sys/cdefs.h
+log.o:	/usr/include/sys/null.h
+log.o:	/usr/include/sys/types.h
+log.o:	/usr/include/sys/ucred.h
+log.o:	/usr/include/sys/utsname.h
+log.o:	/usr/include/time.h
+log.o:	/usr/include/unistd.h
+log.o:	/usr/include/utmp.h
+log.o:	log.c

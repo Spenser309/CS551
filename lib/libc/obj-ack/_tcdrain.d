@@ -1,0 +1,25 @@
+
+_tcdrain.o:	/usr/include/ansi.h
+_tcdrain.o:	/usr/include/limits.h
+_tcdrain.o:	/usr/include/minix/dir.h
+_tcdrain.o:	/usr/include/minix/ioctl.h
+_tcdrain.o:	/usr/include/minix/limits.h
+_tcdrain.o:	/usr/include/minix/sys_config.h
+_tcdrain.o:	/usr/include/minix/types.h
+_tcdrain.o:	/usr/include/net/ioctl.h
+_tcdrain.o:	/usr/include/stdint.h
+_tcdrain.o:	/usr/include/string.h
+_tcdrain.o:	/usr/include/sys/cdefs.h
+_tcdrain.o:	/usr/include/sys/ioc_cmos.h
+_tcdrain.o:	/usr/include/sys/ioc_disk.h
+_tcdrain.o:	/usr/include/sys/ioc_file.h
+_tcdrain.o:	/usr/include/sys/ioc_memory.h
+_tcdrain.o:	/usr/include/sys/ioc_scsi.h
+_tcdrain.o:	/usr/include/sys/ioc_sound.h
+_tcdrain.o:	/usr/include/sys/ioc_tape.h
+_tcdrain.o:	/usr/include/sys/ioc_tty.h
+_tcdrain.o:	/usr/include/sys/ioctl.h
+_tcdrain.o:	/usr/include/sys/null.h
+_tcdrain.o:	/usr/include/sys/un.h
+_tcdrain.o:	/usr/include/termios.h
+_tcdrain.o:	/usr/src/lib/libc/posix/_tcdrain.c

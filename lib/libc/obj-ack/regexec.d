@@ -1,0 +1,27 @@
+
+regexec.o:	/usr/include/ansi.h
+regexec.o:	/usr/include/assert.h
+regexec.o:	/usr/include/ctype.h
+regexec.o:	/usr/include/limits.h
+regexec.o:	/usr/include/machine/interrupt.h
+regexec.o:	/usr/include/minix/config.h
+regexec.o:	/usr/include/minix/dir.h
+regexec.o:	/usr/include/minix/limits.h
+regexec.o:	/usr/include/minix/sys_config.h
+regexec.o:	/usr/include/minix/type.h
+regexec.o:	/usr/include/minix/types.h
+regexec.o:	/usr/include/regex.h
+regexec.o:	/usr/include/stddef.h
+regexec.o:	/usr/include/stdint.h
+regexec.o:	/usr/include/stdio.h
+regexec.o:	/usr/include/stdlib.h
+regexec.o:	/usr/include/string.h
+regexec.o:	/usr/include/sys/cdefs.h
+regexec.o:	/usr/include/sys/null.h
+regexec.o:	/usr/include/sys/types.h
+regexec.o:	/usr/include/sys/ucred.h
+regexec.o:	/usr/include/unistd.h
+regexec.o:	/usr/src/lib/libc/regex/engine.c
+regexec.o:	/usr/src/lib/libc/regex/regex2.h
+regexec.o:	/usr/src/lib/libc/regex/regexec.c
+regexec.o:	/usr/src/lib/libc/regex/utils.h

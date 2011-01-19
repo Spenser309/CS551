@@ -1,0 +1,23 @@
+
+lsearch.o:	/usr/include/ansi.h
+lsearch.o:	/usr/include/errno.h
+lsearch.o:	/usr/include/lib.h
+lsearch.o:	/usr/include/limits.h
+lsearch.o:	/usr/include/machine/interrupt.h
+lsearch.o:	/usr/include/minix/callnr.h
+lsearch.o:	/usr/include/minix/com.h
+lsearch.o:	/usr/include/minix/config.h
+lsearch.o:	/usr/include/minix/const.h
+lsearch.o:	/usr/include/minix/dir.h
+lsearch.o:	/usr/include/minix/ipc.h
+lsearch.o:	/usr/include/minix/ipcconst.h
+lsearch.o:	/usr/include/minix/limits.h
+lsearch.o:	/usr/include/minix/sys_config.h
+lsearch.o:	/usr/include/minix/type.h
+lsearch.o:	/usr/include/minix/types.h
+lsearch.o:	/usr/include/stddef.h
+lsearch.o:	/usr/include/stdint.h
+lsearch.o:	/usr/include/string.h
+lsearch.o:	/usr/include/sys/cdefs.h
+lsearch.o:	/usr/include/sys/null.h
+lsearch.o:	/usr/src/lib/libc/other/lsearch.c

@@ -1,0 +1,24 @@
+
+__pm_findproc.o:	/usr/include/ansi.h
+__pm_findproc.o:	/usr/include/errno.h
+__pm_findproc.o:	/usr/include/lib.h
+__pm_findproc.o:	/usr/include/limits.h
+__pm_findproc.o:	/usr/include/machine/interrupt.h
+__pm_findproc.o:	/usr/include/minix/callnr.h
+__pm_findproc.o:	/usr/include/minix/com.h
+__pm_findproc.o:	/usr/include/minix/config.h
+__pm_findproc.o:	/usr/include/minix/const.h
+__pm_findproc.o:	/usr/include/minix/dir.h
+__pm_findproc.o:	/usr/include/minix/ipc.h
+__pm_findproc.o:	/usr/include/minix/ipcconst.h
+__pm_findproc.o:	/usr/include/minix/limits.h
+__pm_findproc.o:	/usr/include/minix/sys_config.h
+__pm_findproc.o:	/usr/include/minix/type.h
+__pm_findproc.o:	/usr/include/minix/types.h
+__pm_findproc.o:	/usr/include/stdint.h
+__pm_findproc.o:	/usr/include/string.h
+__pm_findproc.o:	/usr/include/sys/cdefs.h
+__pm_findproc.o:	/usr/include/sys/null.h
+__pm_findproc.o:	/usr/include/sys/ucred.h
+__pm_findproc.o:	/usr/include/unistd.h
+__pm_findproc.o:	/usr/src/lib/libc/other/__pm_findproc.c

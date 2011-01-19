@@ -1,0 +1,27 @@
+
+isoread.o:	/usr/include/ansi.h
+isoread.o:	/usr/include/ctype.h
+isoread.o:	/usr/include/errno.h
+isoread.o:	/usr/include/fcntl.h
+isoread.o:	/usr/include/limits.h
+isoread.o:	/usr/include/machine/interrupt.h
+isoread.o:	/usr/include/minix/config.h
+isoread.o:	/usr/include/minix/dir.h
+isoread.o:	/usr/include/minix/limits.h
+isoread.o:	/usr/include/minix/sys_config.h
+isoread.o:	/usr/include/minix/type.h
+isoread.o:	/usr/include/minix/types.h
+isoread.o:	/usr/include/stddef.h
+isoread.o:	/usr/include/stdint.h
+isoread.o:	/usr/include/stdio.h
+isoread.o:	/usr/include/stdlib.h
+isoread.o:	/usr/include/string.h
+isoread.o:	/usr/include/sys/cdefs.h
+isoread.o:	/usr/include/sys/null.h
+isoread.o:	/usr/include/sys/stat.h
+isoread.o:	/usr/include/sys/times.h
+isoread.o:	/usr/include/sys/types.h
+isoread.o:	/usr/include/sys/ucred.h
+isoread.o:	/usr/include/time.h
+isoread.o:	/usr/include/unistd.h
+isoread.o:	isoread.c

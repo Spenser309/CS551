@@ -1,0 +1,24 @@
+
+cat.o:	/usr/include/ansi.h
+cat.o:	/usr/include/errno.h
+cat.o:	/usr/include/fcntl.h
+cat.o:	/usr/include/limits.h
+cat.o:	/usr/include/machine/interrupt.h
+cat.o:	/usr/include/minix/config.h
+cat.o:	/usr/include/minix/dir.h
+cat.o:	/usr/include/minix/limits.h
+cat.o:	/usr/include/minix/minlib.h
+cat.o:	/usr/include/minix/sys_config.h
+cat.o:	/usr/include/minix/type.h
+cat.o:	/usr/include/minix/types.h
+cat.o:	/usr/include/stddef.h
+cat.o:	/usr/include/stdint.h
+cat.o:	/usr/include/stdio.h
+cat.o:	/usr/include/stdlib.h
+cat.o:	/usr/include/string.h
+cat.o:	/usr/include/sys/cdefs.h
+cat.o:	/usr/include/sys/null.h
+cat.o:	/usr/include/sys/types.h
+cat.o:	/usr/include/sys/ucred.h
+cat.o:	/usr/include/unistd.h
+cat.o:	cat.c

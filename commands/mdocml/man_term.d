@@ -1,0 +1,26 @@
+
+man_term.o:	/usr/include/ansi.h
+man_term.o:	/usr/include/assert.h
+man_term.o:	/usr/include/ctype.h
+man_term.o:	/usr/include/limits.h
+man_term.o:	/usr/include/minix/dir.h
+man_term.o:	/usr/include/minix/limits.h
+man_term.o:	/usr/include/minix/sys_config.h
+man_term.o:	/usr/include/minix/types.h
+man_term.o:	/usr/include/stddef.h
+man_term.o:	/usr/include/stdint.h
+man_term.o:	/usr/include/stdio.h
+man_term.o:	/usr/include/stdlib.h
+man_term.o:	/usr/include/string.h
+man_term.o:	/usr/include/sys/cdefs.h
+man_term.o:	/usr/include/sys/null.h
+man_term.o:	/usr/include/sys/types.h
+man_term.o:	/usr/include/time.h
+man_term.o:	chars.h
+man_term.o:	config.h
+man_term.o:	main.h
+man_term.o:	man.h
+man_term.o:	man_term.c
+man_term.o:	mandoc.h
+man_term.o:	out.h
+man_term.o:	term.h

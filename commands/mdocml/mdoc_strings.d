@@ -1,0 +1,22 @@
+
+mdoc_strings.o:	/usr/include/ansi.h
+mdoc_strings.o:	/usr/include/assert.h
+mdoc_strings.o:	/usr/include/limits.h
+mdoc_strings.o:	/usr/include/minix/dir.h
+mdoc_strings.o:	/usr/include/minix/limits.h
+mdoc_strings.o:	/usr/include/minix/sys_config.h
+mdoc_strings.o:	/usr/include/minix/types.h
+mdoc_strings.o:	/usr/include/stddef.h
+mdoc_strings.o:	/usr/include/stdint.h
+mdoc_strings.o:	/usr/include/stdio.h
+mdoc_strings.o:	/usr/include/stdlib.h
+mdoc_strings.o:	/usr/include/string.h
+mdoc_strings.o:	/usr/include/sys/cdefs.h
+mdoc_strings.o:	/usr/include/sys/null.h
+mdoc_strings.o:	/usr/include/sys/types.h
+mdoc_strings.o:	/usr/include/time.h
+mdoc_strings.o:	config.h
+mdoc_strings.o:	libmdoc.h
+mdoc_strings.o:	mandoc.h
+mdoc_strings.o:	mdoc.h
+mdoc_strings.o:	mdoc_strings.c

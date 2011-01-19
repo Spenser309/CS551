@@ -1,0 +1,20 @@
+
+nodes.o:	/usr/include/ansi.h
+nodes.o:	/usr/include/limits.h
+nodes.o:	/usr/include/minix/dir.h
+nodes.o:	/usr/include/minix/limits.h
+nodes.o:	/usr/include/minix/sys_config.h
+nodes.o:	/usr/include/minix/types.h
+nodes.o:	/usr/include/stddef.h
+nodes.o:	/usr/include/stdint.h
+nodes.o:	/usr/include/stdlib.h
+nodes.o:	/usr/include/string.h
+nodes.o:	/usr/include/sys/cdefs.h
+nodes.o:	/usr/include/sys/null.h
+nodes.o:	/usr/include/sys/types.h
+nodes.o:	machdep.h
+nodes.o:	memalloc.h
+nodes.o:	mystring.h
+nodes.o:	nodes.c
+nodes.o:	nodes.h
+nodes.o:	shell.h

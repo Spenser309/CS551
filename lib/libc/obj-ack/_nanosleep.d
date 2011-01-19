@@ -1,0 +1,27 @@
+
+_nanosleep.o:	/usr/include/ansi.h
+_nanosleep.o:	/usr/include/errno.h
+_nanosleep.o:	/usr/include/lib.h
+_nanosleep.o:	/usr/include/limits.h
+_nanosleep.o:	/usr/include/machine/interrupt.h
+_nanosleep.o:	/usr/include/minix/callnr.h
+_nanosleep.o:	/usr/include/minix/com.h
+_nanosleep.o:	/usr/include/minix/config.h
+_nanosleep.o:	/usr/include/minix/const.h
+_nanosleep.o:	/usr/include/minix/dir.h
+_nanosleep.o:	/usr/include/minix/ipc.h
+_nanosleep.o:	/usr/include/minix/ipcconst.h
+_nanosleep.o:	/usr/include/minix/limits.h
+_nanosleep.o:	/usr/include/minix/sys_config.h
+_nanosleep.o:	/usr/include/minix/type.h
+_nanosleep.o:	/usr/include/minix/types.h
+_nanosleep.o:	/usr/include/stdint.h
+_nanosleep.o:	/usr/include/string.h
+_nanosleep.o:	/usr/include/sys/cdefs.h
+_nanosleep.o:	/usr/include/sys/null.h
+_nanosleep.o:	/usr/include/sys/select.h
+_nanosleep.o:	/usr/include/sys/time.h
+_nanosleep.o:	/usr/include/sys/ucred.h
+_nanosleep.o:	/usr/include/time.h
+_nanosleep.o:	/usr/include/unistd.h
+_nanosleep.o:	/usr/src/lib/libc/posix/_nanosleep.c

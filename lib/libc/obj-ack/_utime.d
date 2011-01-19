@@ -1,0 +1,23 @@
+
+_utime.o:	/usr/include/ansi.h
+_utime.o:	/usr/include/errno.h
+_utime.o:	/usr/include/lib.h
+_utime.o:	/usr/include/limits.h
+_utime.o:	/usr/include/machine/interrupt.h
+_utime.o:	/usr/include/minix/callnr.h
+_utime.o:	/usr/include/minix/com.h
+_utime.o:	/usr/include/minix/config.h
+_utime.o:	/usr/include/minix/const.h
+_utime.o:	/usr/include/minix/dir.h
+_utime.o:	/usr/include/minix/ipc.h
+_utime.o:	/usr/include/minix/ipcconst.h
+_utime.o:	/usr/include/minix/limits.h
+_utime.o:	/usr/include/minix/sys_config.h
+_utime.o:	/usr/include/minix/type.h
+_utime.o:	/usr/include/minix/types.h
+_utime.o:	/usr/include/stdint.h
+_utime.o:	/usr/include/string.h
+_utime.o:	/usr/include/sys/cdefs.h
+_utime.o:	/usr/include/sys/null.h
+_utime.o:	/usr/include/utime.h
+_utime.o:	/usr/src/lib/libc/posix/_utime.c

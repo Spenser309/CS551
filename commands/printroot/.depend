@@ -1,0 +1,25 @@
+
+printroot.o:	/usr/include/ansi.h
+printroot.o:	/usr/include/dirent.h
+printroot.o:	/usr/include/fcntl.h
+printroot.o:	/usr/include/limits.h
+printroot.o:	/usr/include/machine/interrupt.h
+printroot.o:	/usr/include/minix/config.h
+printroot.o:	/usr/include/minix/dir.h
+printroot.o:	/usr/include/minix/dirent.h
+printroot.o:	/usr/include/minix/limits.h
+printroot.o:	/usr/include/minix/minlib.h
+printroot.o:	/usr/include/minix/sys_config.h
+printroot.o:	/usr/include/minix/type.h
+printroot.o:	/usr/include/minix/types.h
+printroot.o:	/usr/include/stddef.h
+printroot.o:	/usr/include/stdint.h
+printroot.o:	/usr/include/stdlib.h
+printroot.o:	/usr/include/string.h
+printroot.o:	/usr/include/sys/cdefs.h
+printroot.o:	/usr/include/sys/null.h
+printroot.o:	/usr/include/sys/stat.h
+printroot.o:	/usr/include/sys/types.h
+printroot.o:	/usr/include/sys/ucred.h
+printroot.o:	/usr/include/unistd.h
+printroot.o:	printroot.c

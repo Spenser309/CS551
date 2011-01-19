@@ -1,0 +1,21 @@
+
+od.o:	/usr/include/ansi.h
+od.o:	/usr/include/fcntl.h
+od.o:	/usr/include/limits.h
+od.o:	/usr/include/machine/interrupt.h
+od.o:	/usr/include/minix/config.h
+od.o:	/usr/include/minix/dir.h
+od.o:	/usr/include/minix/limits.h
+od.o:	/usr/include/minix/sys_config.h
+od.o:	/usr/include/minix/type.h
+od.o:	/usr/include/minix/types.h
+od.o:	/usr/include/stddef.h
+od.o:	/usr/include/stdint.h
+od.o:	/usr/include/stdio.h
+od.o:	/usr/include/stdlib.h
+od.o:	/usr/include/sys/cdefs.h
+od.o:	/usr/include/sys/null.h
+od.o:	/usr/include/sys/types.h
+od.o:	/usr/include/sys/ucred.h
+od.o:	/usr/include/unistd.h
+od.o:	od.c

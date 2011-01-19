@@ -1,0 +1,25 @@
+
+local.o:	/usr/include/ansi.h
+local.o:	/usr/include/errno.h
+local.o:	/usr/include/limits.h
+local.o:	/usr/include/machine/interrupt.h
+local.o:	/usr/include/minix/config.h
+local.o:	/usr/include/minix/dir.h
+local.o:	/usr/include/minix/limits.h
+local.o:	/usr/include/minix/sys_config.h
+local.o:	/usr/include/minix/type.h
+local.o:	/usr/include/minix/types.h
+local.o:	/usr/include/stddef.h
+local.o:	/usr/include/stdint.h
+local.o:	/usr/include/stdio.h
+local.o:	/usr/include/stdlib.h
+local.o:	/usr/include/string.h
+local.o:	/usr/include/sys/cdefs.h
+local.o:	/usr/include/sys/null.h
+local.o:	/usr/include/sys/stat.h
+local.o:	/usr/include/sys/types.h
+local.o:	/usr/include/sys/ucred.h
+local.o:	/usr/include/unistd.h
+local.o:	ftp.h
+local.o:	local.c
+local.o:	local.h

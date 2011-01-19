@@ -1,0 +1,25 @@
+
+man_html.o:	/usr/include/ansi.h
+man_html.o:	/usr/include/assert.h
+man_html.o:	/usr/include/ctype.h
+man_html.o:	/usr/include/limits.h
+man_html.o:	/usr/include/minix/dir.h
+man_html.o:	/usr/include/minix/limits.h
+man_html.o:	/usr/include/minix/sys_config.h
+man_html.o:	/usr/include/minix/types.h
+man_html.o:	/usr/include/stddef.h
+man_html.o:	/usr/include/stdint.h
+man_html.o:	/usr/include/stdio.h
+man_html.o:	/usr/include/stdlib.h
+man_html.o:	/usr/include/string.h
+man_html.o:	/usr/include/sys/cdefs.h
+man_html.o:	/usr/include/sys/null.h
+man_html.o:	/usr/include/sys/types.h
+man_html.o:	/usr/include/time.h
+man_html.o:	config.h
+man_html.o:	html.h
+man_html.o:	main.h
+man_html.o:	man.h
+man_html.o:	man_html.c
+man_html.o:	mandoc.h
+man_html.o:	out.h

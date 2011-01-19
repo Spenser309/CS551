@@ -1,0 +1,25 @@
+
+other.o:	/usr/include/ansi.h
+other.o:	/usr/include/ctype.h
+other.o:	/usr/include/limits.h
+other.o:	/usr/include/machine/interrupt.h
+other.o:	/usr/include/minix/config.h
+other.o:	/usr/include/minix/dir.h
+other.o:	/usr/include/minix/limits.h
+other.o:	/usr/include/minix/sys_config.h
+other.o:	/usr/include/minix/type.h
+other.o:	/usr/include/minix/types.h
+other.o:	/usr/include/stddef.h
+other.o:	/usr/include/stdint.h
+other.o:	/usr/include/stdio.h
+other.o:	/usr/include/stdlib.h
+other.o:	/usr/include/string.h
+other.o:	/usr/include/sys/cdefs.h
+other.o:	/usr/include/sys/null.h
+other.o:	/usr/include/sys/types.h
+other.o:	/usr/include/sys/ucred.h
+other.o:	/usr/include/termios.h
+other.o:	/usr/include/unistd.h
+other.o:	ftp.h
+other.o:	other.c
+other.o:	other.h

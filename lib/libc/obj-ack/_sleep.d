@@ -1,0 +1,27 @@
+
+_sleep.o:	/usr/include/ansi.h
+_sleep.o:	/usr/include/errno.h
+_sleep.o:	/usr/include/lib.h
+_sleep.o:	/usr/include/limits.h
+_sleep.o:	/usr/include/machine/interrupt.h
+_sleep.o:	/usr/include/minix/callnr.h
+_sleep.o:	/usr/include/minix/com.h
+_sleep.o:	/usr/include/minix/config.h
+_sleep.o:	/usr/include/minix/const.h
+_sleep.o:	/usr/include/minix/dir.h
+_sleep.o:	/usr/include/minix/ipc.h
+_sleep.o:	/usr/include/minix/ipcconst.h
+_sleep.o:	/usr/include/minix/limits.h
+_sleep.o:	/usr/include/minix/sys_config.h
+_sleep.o:	/usr/include/minix/type.h
+_sleep.o:	/usr/include/minix/types.h
+_sleep.o:	/usr/include/stdint.h
+_sleep.o:	/usr/include/string.h
+_sleep.o:	/usr/include/sys/cdefs.h
+_sleep.o:	/usr/include/sys/null.h
+_sleep.o:	/usr/include/sys/select.h
+_sleep.o:	/usr/include/sys/time.h
+_sleep.o:	/usr/include/sys/ucred.h
+_sleep.o:	/usr/include/time.h
+_sleep.o:	/usr/include/unistd.h
+_sleep.o:	/usr/src/lib/libc/posix/_sleep.c

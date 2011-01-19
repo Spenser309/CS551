@@ -1,0 +1,21 @@
+
+ffs.o:	/usr/include/ansi.h
+ffs.o:	/usr/include/errno.h
+ffs.o:	/usr/include/lib.h
+ffs.o:	/usr/include/limits.h
+ffs.o:	/usr/include/machine/interrupt.h
+ffs.o:	/usr/include/minix/callnr.h
+ffs.o:	/usr/include/minix/com.h
+ffs.o:	/usr/include/minix/config.h
+ffs.o:	/usr/include/minix/const.h
+ffs.o:	/usr/include/minix/dir.h
+ffs.o:	/usr/include/minix/ipc.h
+ffs.o:	/usr/include/minix/ipcconst.h
+ffs.o:	/usr/include/minix/limits.h
+ffs.o:	/usr/include/minix/sys_config.h
+ffs.o:	/usr/include/minix/type.h
+ffs.o:	/usr/include/minix/types.h
+ffs.o:	/usr/include/stdint.h
+ffs.o:	/usr/include/sys/cdefs.h
+ffs.o:	/usr/include/sys/null.h
+ffs.o:	/usr/src/lib/libc/other/ffs.c

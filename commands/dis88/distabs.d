@@ -1,0 +1,25 @@
+
+distabs.o:	/usr/include/a.out.h
+distabs.o:	/usr/include/ansi.h
+distabs.o:	/usr/include/fcntl.h
+distabs.o:	/usr/include/limits.h
+distabs.o:	/usr/include/machine/interrupt.h
+distabs.o:	/usr/include/minix/a.out.h
+distabs.o:	/usr/include/minix/config.h
+distabs.o:	/usr/include/minix/dir.h
+distabs.o:	/usr/include/minix/limits.h
+distabs.o:	/usr/include/minix/sys_config.h
+distabs.o:	/usr/include/minix/type.h
+distabs.o:	/usr/include/minix/types.h
+distabs.o:	/usr/include/stddef.h
+distabs.o:	/usr/include/stdint.h
+distabs.o:	/usr/include/stdio.h
+distabs.o:	/usr/include/stdlib.h
+distabs.o:	/usr/include/string.h
+distabs.o:	/usr/include/sys/cdefs.h
+distabs.o:	/usr/include/sys/null.h
+distabs.o:	/usr/include/sys/types.h
+distabs.o:	/usr/include/sys/ucred.h
+distabs.o:	/usr/include/unistd.h
+distabs.o:	dis.h
+distabs.o:	distabs.c

@@ -1,0 +1,24 @@
+
+_svrctl.o:	/usr/include/ansi.h
+_svrctl.o:	/usr/include/errno.h
+_svrctl.o:	/usr/include/lib.h
+_svrctl.o:	/usr/include/limits.h
+_svrctl.o:	/usr/include/machine/interrupt.h
+_svrctl.o:	/usr/include/minix/callnr.h
+_svrctl.o:	/usr/include/minix/com.h
+_svrctl.o:	/usr/include/minix/config.h
+_svrctl.o:	/usr/include/minix/const.h
+_svrctl.o:	/usr/include/minix/dir.h
+_svrctl.o:	/usr/include/minix/ioctl.h
+_svrctl.o:	/usr/include/minix/ipc.h
+_svrctl.o:	/usr/include/minix/ipcconst.h
+_svrctl.o:	/usr/include/minix/limits.h
+_svrctl.o:	/usr/include/minix/sys_config.h
+_svrctl.o:	/usr/include/minix/type.h
+_svrctl.o:	/usr/include/minix/types.h
+_svrctl.o:	/usr/include/stdint.h
+_svrctl.o:	/usr/include/stdio.h
+_svrctl.o:	/usr/include/sys/cdefs.h
+_svrctl.o:	/usr/include/sys/null.h
+_svrctl.o:	/usr/include/sys/svrctl.h
+_svrctl.o:	/usr/src/lib/libc/other/_svrctl.c

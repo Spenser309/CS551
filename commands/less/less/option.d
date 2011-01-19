@@ -1,0 +1,27 @@
+
+option.o:	/usr/include/ansi.h
+option.o:	/usr/include/ctype.h
+option.o:	/usr/include/fcntl.h
+option.o:	/usr/include/limits.h
+option.o:	/usr/include/machine/interrupt.h
+option.o:	/usr/include/minix/config.h
+option.o:	/usr/include/minix/dir.h
+option.o:	/usr/include/minix/limits.h
+option.o:	/usr/include/minix/sys_config.h
+option.o:	/usr/include/minix/type.h
+option.o:	/usr/include/minix/types.h
+option.o:	/usr/include/stddef.h
+option.o:	/usr/include/stdint.h
+option.o:	/usr/include/stdio.h
+option.o:	/usr/include/stdlib.h
+option.o:	/usr/include/string.h
+option.o:	/usr/include/sys/cdefs.h
+option.o:	/usr/include/sys/null.h
+option.o:	/usr/include/sys/types.h
+option.o:	/usr/include/sys/ucred.h
+option.o:	/usr/include/unistd.h
+option.o:	/usr/src/commands/less/less/defines.h
+option.o:	funcs.h
+option.o:	less.h
+option.o:	option.c
+option.o:	option.h

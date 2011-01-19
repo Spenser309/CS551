@@ -1,0 +1,23 @@
+
+rev.o:	/usr/include/ansi.h
+rev.o:	/usr/include/errno.h
+rev.o:	/usr/include/limits.h
+rev.o:	/usr/include/locale.h
+rev.o:	/usr/include/machine/interrupt.h
+rev.o:	/usr/include/minix/config.h
+rev.o:	/usr/include/minix/dir.h
+rev.o:	/usr/include/minix/limits.h
+rev.o:	/usr/include/minix/sys_config.h
+rev.o:	/usr/include/minix/type.h
+rev.o:	/usr/include/minix/types.h
+rev.o:	/usr/include/stddef.h
+rev.o:	/usr/include/stdint.h
+rev.o:	/usr/include/stdio.h
+rev.o:	/usr/include/stdlib.h
+rev.o:	/usr/include/string.h
+rev.o:	/usr/include/sys/cdefs.h
+rev.o:	/usr/include/sys/null.h
+rev.o:	/usr/include/sys/types.h
+rev.o:	/usr/include/sys/ucred.h
+rev.o:	/usr/include/unistd.h
+rev.o:	rev.c

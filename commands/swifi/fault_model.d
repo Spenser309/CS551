@@ -1,0 +1,26 @@
+
+fault_model.o:	/usr/include/a.out.h
+fault_model.o:	/usr/include/ansi.h
+fault_model.o:	/usr/include/assert.h
+fault_model.o:	/usr/include/errno.h
+fault_model.o:	/usr/include/limits.h
+fault_model.o:	/usr/include/minix/a.out.h
+fault_model.o:	/usr/include/minix/dir.h
+fault_model.o:	/usr/include/minix/limits.h
+fault_model.o:	/usr/include/minix/sys_config.h
+fault_model.o:	/usr/include/minix/types.h
+fault_model.o:	/usr/include/stddef.h
+fault_model.o:	/usr/include/stdint.h
+fault_model.o:	/usr/include/stdio.h
+fault_model.o:	/usr/include/stdlib.h
+fault_model.o:	/usr/include/string.h
+fault_model.o:	/usr/include/sys/cdefs.h
+fault_model.o:	/usr/include/sys/null.h
+fault_model.o:	/usr/include/sys/types.h
+fault_model.o:	db_machdep.h
+fault_model.o:	db_sym.h
+fault_model.o:	ddb.h
+fault_model.o:	extra.h
+fault_model.o:	fault_model.c
+fault_model.o:	swifi-user.h
+fault_model.o:	swifi.h

@@ -1,0 +1,24 @@
+
+mkdir.o:	/usr/include/ansi.h
+mkdir.o:	/usr/include/errno.h
+mkdir.o:	/usr/include/limits.h
+mkdir.o:	/usr/include/machine/interrupt.h
+mkdir.o:	/usr/include/minix/config.h
+mkdir.o:	/usr/include/minix/dir.h
+mkdir.o:	/usr/include/minix/limits.h
+mkdir.o:	/usr/include/minix/minlib.h
+mkdir.o:	/usr/include/minix/sys_config.h
+mkdir.o:	/usr/include/minix/type.h
+mkdir.o:	/usr/include/minix/types.h
+mkdir.o:	/usr/include/stddef.h
+mkdir.o:	/usr/include/stdint.h
+mkdir.o:	/usr/include/stdio.h
+mkdir.o:	/usr/include/stdlib.h
+mkdir.o:	/usr/include/string.h
+mkdir.o:	/usr/include/sys/cdefs.h
+mkdir.o:	/usr/include/sys/null.h
+mkdir.o:	/usr/include/sys/stat.h
+mkdir.o:	/usr/include/sys/types.h
+mkdir.o:	/usr/include/sys/ucred.h
+mkdir.o:	/usr/include/unistd.h
+mkdir.o:	mkdir.c

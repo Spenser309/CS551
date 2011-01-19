@@ -1,0 +1,23 @@
+
+_pipe.o:	/usr/include/ansi.h
+_pipe.o:	/usr/include/errno.h
+_pipe.o:	/usr/include/lib.h
+_pipe.o:	/usr/include/limits.h
+_pipe.o:	/usr/include/machine/interrupt.h
+_pipe.o:	/usr/include/minix/callnr.h
+_pipe.o:	/usr/include/minix/com.h
+_pipe.o:	/usr/include/minix/config.h
+_pipe.o:	/usr/include/minix/const.h
+_pipe.o:	/usr/include/minix/dir.h
+_pipe.o:	/usr/include/minix/ipc.h
+_pipe.o:	/usr/include/minix/ipcconst.h
+_pipe.o:	/usr/include/minix/limits.h
+_pipe.o:	/usr/include/minix/sys_config.h
+_pipe.o:	/usr/include/minix/type.h
+_pipe.o:	/usr/include/minix/types.h
+_pipe.o:	/usr/include/stdint.h
+_pipe.o:	/usr/include/sys/cdefs.h
+_pipe.o:	/usr/include/sys/null.h
+_pipe.o:	/usr/include/sys/ucred.h
+_pipe.o:	/usr/include/unistd.h
+_pipe.o:	/usr/src/lib/libc/posix/_pipe.c

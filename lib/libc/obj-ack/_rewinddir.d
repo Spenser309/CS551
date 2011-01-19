@@ -1,0 +1,24 @@
+
+_rewinddir.o:	/usr/include/ansi.h
+_rewinddir.o:	/usr/include/dirent.h
+_rewinddir.o:	/usr/include/errno.h
+_rewinddir.o:	/usr/include/lib.h
+_rewinddir.o:	/usr/include/limits.h
+_rewinddir.o:	/usr/include/machine/interrupt.h
+_rewinddir.o:	/usr/include/minix/callnr.h
+_rewinddir.o:	/usr/include/minix/com.h
+_rewinddir.o:	/usr/include/minix/config.h
+_rewinddir.o:	/usr/include/minix/const.h
+_rewinddir.o:	/usr/include/minix/dir.h
+_rewinddir.o:	/usr/include/minix/dirent.h
+_rewinddir.o:	/usr/include/minix/ipc.h
+_rewinddir.o:	/usr/include/minix/ipcconst.h
+_rewinddir.o:	/usr/include/minix/limits.h
+_rewinddir.o:	/usr/include/minix/sys_config.h
+_rewinddir.o:	/usr/include/minix/type.h
+_rewinddir.o:	/usr/include/minix/types.h
+_rewinddir.o:	/usr/include/stdint.h
+_rewinddir.o:	/usr/include/sys/cdefs.h
+_rewinddir.o:	/usr/include/sys/null.h
+_rewinddir.o:	/usr/include/sys/types.h
+_rewinddir.o:	/usr/src/lib/libc/posix/_rewinddir.c

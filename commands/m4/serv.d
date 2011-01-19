@@ -1,0 +1,25 @@
+
+serv.o:	/usr/include/ansi.h
+serv.o:	/usr/include/ctype.h
+serv.o:	/usr/include/limits.h
+serv.o:	/usr/include/machine/interrupt.h
+serv.o:	/usr/include/minix/config.h
+serv.o:	/usr/include/minix/dir.h
+serv.o:	/usr/include/minix/limits.h
+serv.o:	/usr/include/minix/sys_config.h
+serv.o:	/usr/include/minix/type.h
+serv.o:	/usr/include/minix/types.h
+serv.o:	/usr/include/signal.h
+serv.o:	/usr/include/stddef.h
+serv.o:	/usr/include/stdint.h
+serv.o:	/usr/include/stdio.h
+serv.o:	/usr/include/stdlib.h
+serv.o:	/usr/include/string.h
+serv.o:	/usr/include/sys/cdefs.h
+serv.o:	/usr/include/sys/null.h
+serv.o:	/usr/include/sys/types.h
+serv.o:	/usr/include/sys/ucred.h
+serv.o:	/usr/include/unistd.h
+serv.o:	extr.h
+serv.o:	mdef.h
+serv.o:	serv.c

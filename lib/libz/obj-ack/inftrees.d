@@ -1,0 +1,19 @@
+
+inftrees.o:	/usr/include/ansi.h
+inftrees.o:	/usr/include/limits.h
+inftrees.o:	/usr/include/minix/dir.h
+inftrees.o:	/usr/include/minix/limits.h
+inftrees.o:	/usr/include/minix/sys_config.h
+inftrees.o:	/usr/include/minix/types.h
+inftrees.o:	/usr/include/stddef.h
+inftrees.o:	/usr/include/stdint.h
+inftrees.o:	/usr/include/stdlib.h
+inftrees.o:	/usr/include/string.h
+inftrees.o:	/usr/include/sys/cdefs.h
+inftrees.o:	/usr/include/sys/null.h
+inftrees.o:	/usr/include/sys/types.h
+inftrees.o:	/usr/src/lib/libz/inftrees.c
+inftrees.o:	/usr/src/lib/libz/inftrees.h
+inftrees.o:	/usr/src/lib/libz/zconf.h
+inftrees.o:	/usr/src/lib/libz/zlib.h
+inftrees.o:	/usr/src/lib/libz/zutil.h

@@ -1,0 +1,19 @@
+
+libmain.o:	/usr/include/ansi.h
+libmain.o:	/usr/include/ctype.h
+libmain.o:	/usr/include/limits.h
+libmain.o:	/usr/include/minix/dir.h
+libmain.o:	/usr/include/minix/limits.h
+libmain.o:	/usr/include/minix/sys_config.h
+libmain.o:	/usr/include/minix/types.h
+libmain.o:	/usr/include/stddef.h
+libmain.o:	/usr/include/stdint.h
+libmain.o:	/usr/include/stdio.h
+libmain.o:	/usr/include/stdlib.h
+libmain.o:	/usr/include/string.h
+libmain.o:	/usr/include/sys/cdefs.h
+libmain.o:	/usr/include/sys/null.h
+libmain.o:	/usr/include/sys/types.h
+libmain.o:	/usr/src/commands/lex/config.h
+libmain.o:	/usr/src/commands/lex/flexdef.h
+libmain.o:	/usr/src/commands/lex/libmain.c

@@ -1,0 +1,26 @@
+
+linenum.o:	/usr/include/ansi.h
+linenum.o:	/usr/include/ctype.h
+linenum.o:	/usr/include/fcntl.h
+linenum.o:	/usr/include/limits.h
+linenum.o:	/usr/include/machine/interrupt.h
+linenum.o:	/usr/include/minix/config.h
+linenum.o:	/usr/include/minix/dir.h
+linenum.o:	/usr/include/minix/limits.h
+linenum.o:	/usr/include/minix/sys_config.h
+linenum.o:	/usr/include/minix/type.h
+linenum.o:	/usr/include/minix/types.h
+linenum.o:	/usr/include/stddef.h
+linenum.o:	/usr/include/stdint.h
+linenum.o:	/usr/include/stdio.h
+linenum.o:	/usr/include/stdlib.h
+linenum.o:	/usr/include/string.h
+linenum.o:	/usr/include/sys/cdefs.h
+linenum.o:	/usr/include/sys/null.h
+linenum.o:	/usr/include/sys/types.h
+linenum.o:	/usr/include/sys/ucred.h
+linenum.o:	/usr/include/unistd.h
+linenum.o:	/usr/src/commands/less/less/defines.h
+linenum.o:	funcs.h
+linenum.o:	less.h
+linenum.o:	linenum.c

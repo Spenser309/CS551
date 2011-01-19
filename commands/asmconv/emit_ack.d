@@ -1,0 +1,21 @@
+
+emit_ack.o:	/usr/include/ansi.h
+emit_ack.o:	/usr/include/assert.h
+emit_ack.o:	/usr/include/limits.h
+emit_ack.o:	/usr/include/minix/dir.h
+emit_ack.o:	/usr/include/minix/limits.h
+emit_ack.o:	/usr/include/minix/sys_config.h
+emit_ack.o:	/usr/include/minix/types.h
+emit_ack.o:	/usr/include/stdarg.h
+emit_ack.o:	/usr/include/stddef.h
+emit_ack.o:	/usr/include/stdint.h
+emit_ack.o:	/usr/include/stdio.h
+emit_ack.o:	/usr/include/stdlib.h
+emit_ack.o:	/usr/include/string.h
+emit_ack.o:	/usr/include/sys/cdefs.h
+emit_ack.o:	/usr/include/sys/null.h
+emit_ack.o:	asm86.h
+emit_ack.o:	asmconv.h
+emit_ack.o:	emit_ack.c
+emit_ack.o:	languages.h
+emit_ack.o:	token.h

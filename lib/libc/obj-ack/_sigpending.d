@@ -1,0 +1,22 @@
+
+_sigpending.o:	/usr/include/ansi.h
+_sigpending.o:	/usr/include/errno.h
+_sigpending.o:	/usr/include/lib.h
+_sigpending.o:	/usr/include/limits.h
+_sigpending.o:	/usr/include/machine/interrupt.h
+_sigpending.o:	/usr/include/minix/callnr.h
+_sigpending.o:	/usr/include/minix/com.h
+_sigpending.o:	/usr/include/minix/config.h
+_sigpending.o:	/usr/include/minix/const.h
+_sigpending.o:	/usr/include/minix/dir.h
+_sigpending.o:	/usr/include/minix/ipc.h
+_sigpending.o:	/usr/include/minix/ipcconst.h
+_sigpending.o:	/usr/include/minix/limits.h
+_sigpending.o:	/usr/include/minix/sys_config.h
+_sigpending.o:	/usr/include/minix/type.h
+_sigpending.o:	/usr/include/minix/types.h
+_sigpending.o:	/usr/include/signal.h
+_sigpending.o:	/usr/include/stdint.h
+_sigpending.o:	/usr/include/sys/cdefs.h
+_sigpending.o:	/usr/include/sys/null.h
+_sigpending.o:	/usr/src/lib/libc/posix/_sigpending.c

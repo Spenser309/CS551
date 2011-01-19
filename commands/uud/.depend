@@ -1,0 +1,23 @@
+
+uud.o:	/usr/include/ansi.h
+uud.o:	/usr/include/limits.h
+uud.o:	/usr/include/machine/interrupt.h
+uud.o:	/usr/include/minix/config.h
+uud.o:	/usr/include/minix/dir.h
+uud.o:	/usr/include/minix/limits.h
+uud.o:	/usr/include/minix/sys_config.h
+uud.o:	/usr/include/minix/type.h
+uud.o:	/usr/include/minix/types.h
+uud.o:	/usr/include/stdarg.h
+uud.o:	/usr/include/stddef.h
+uud.o:	/usr/include/stdint.h
+uud.o:	/usr/include/stdio.h
+uud.o:	/usr/include/stdlib.h
+uud.o:	/usr/include/string.h
+uud.o:	/usr/include/sys/cdefs.h
+uud.o:	/usr/include/sys/null.h
+uud.o:	/usr/include/sys/stat.h
+uud.o:	/usr/include/sys/types.h
+uud.o:	/usr/include/sys/ucred.h
+uud.o:	/usr/include/unistd.h
+uud.o:	uud.c

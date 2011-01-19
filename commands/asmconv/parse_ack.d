@@ -1,0 +1,20 @@
+
+parse_ack.o:	/usr/include/ansi.h
+parse_ack.o:	/usr/include/assert.h
+parse_ack.o:	/usr/include/limits.h
+parse_ack.o:	/usr/include/minix/dir.h
+parse_ack.o:	/usr/include/minix/limits.h
+parse_ack.o:	/usr/include/minix/sys_config.h
+parse_ack.o:	/usr/include/minix/types.h
+parse_ack.o:	/usr/include/stddef.h
+parse_ack.o:	/usr/include/stdint.h
+parse_ack.o:	/usr/include/stdio.h
+parse_ack.o:	/usr/include/stdlib.h
+parse_ack.o:	/usr/include/string.h
+parse_ack.o:	/usr/include/sys/cdefs.h
+parse_ack.o:	/usr/include/sys/null.h
+parse_ack.o:	asm86.h
+parse_ack.o:	asmconv.h
+parse_ack.o:	languages.h
+parse_ack.o:	parse_ack.c
+parse_ack.o:	token.h

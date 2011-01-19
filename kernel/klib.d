@@ -1,0 +1,19 @@
+
+klib.o:	/usr/include/ansi.h
+klib.o:	/usr/include/i386/vm.h
+klib.o:	/usr/include/machine/asm.h
+klib.o:	/usr/include/machine/interrupt.h
+klib.o:	/usr/include/machine/memory.h
+klib.o:	/usr/include/minix/bitmap.h
+klib.o:	/usr/include/minix/config.h
+klib.o:	/usr/include/minix/const.h
+klib.o:	/usr/include/minix/debug.h
+klib.o:	/usr/include/minix/sys_config.h
+klib.o:	/usr/include/sys/null.h
+klib.o:	/usr/src/kernel/arch/i386/include/archconst.h
+klib.o:	/usr/src/kernel/arch/i386/klib.S
+klib.o:	/usr/src/kernel/arch/i386/multiboot.h
+klib.o:	/usr/src/kernel/arch/i386/sconst.h
+klib.o:	/usr/src/kernel/config.h
+klib.o:	/usr/src/kernel/const.h
+klib.o:	/usr/src/kernel/debug.h

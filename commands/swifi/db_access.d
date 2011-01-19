@@ -1,0 +1,20 @@
+
+db_access.o:	/usr/include/a.out.h
+db_access.o:	/usr/include/ansi.h
+db_access.o:	/usr/include/errno.h
+db_access.o:	/usr/include/limits.h
+db_access.o:	/usr/include/minix/a.out.h
+db_access.o:	/usr/include/minix/dir.h
+db_access.o:	/usr/include/minix/limits.h
+db_access.o:	/usr/include/minix/sys_config.h
+db_access.o:	/usr/include/minix/types.h
+db_access.o:	/usr/include/stdint.h
+db_access.o:	/usr/include/string.h
+db_access.o:	/usr/include/sys/cdefs.h
+db_access.o:	/usr/include/sys/null.h
+db_access.o:	/usr/include/sys/types.h
+db_access.o:	db_access.c
+db_access.o:	db_access.h
+db_access.o:	db_machdep.h
+db_access.o:	ddb.h
+db_access.o:	extra.h

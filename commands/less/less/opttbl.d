@@ -1,0 +1,27 @@
+
+opttbl.o:	/usr/include/ansi.h
+opttbl.o:	/usr/include/ctype.h
+opttbl.o:	/usr/include/fcntl.h
+opttbl.o:	/usr/include/limits.h
+opttbl.o:	/usr/include/machine/interrupt.h
+opttbl.o:	/usr/include/minix/config.h
+opttbl.o:	/usr/include/minix/dir.h
+opttbl.o:	/usr/include/minix/limits.h
+opttbl.o:	/usr/include/minix/sys_config.h
+opttbl.o:	/usr/include/minix/type.h
+opttbl.o:	/usr/include/minix/types.h
+opttbl.o:	/usr/include/stddef.h
+opttbl.o:	/usr/include/stdint.h
+opttbl.o:	/usr/include/stdio.h
+opttbl.o:	/usr/include/stdlib.h
+opttbl.o:	/usr/include/string.h
+opttbl.o:	/usr/include/sys/cdefs.h
+opttbl.o:	/usr/include/sys/null.h
+opttbl.o:	/usr/include/sys/types.h
+opttbl.o:	/usr/include/sys/ucred.h
+opttbl.o:	/usr/include/unistd.h
+opttbl.o:	/usr/src/commands/less/less/defines.h
+opttbl.o:	funcs.h
+opttbl.o:	less.h
+opttbl.o:	option.h
+opttbl.o:	opttbl.c

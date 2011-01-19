@@ -1,0 +1,26 @@
+
+halt.o:	/usr/include/ansi.h
+halt.o:	/usr/include/errno.h
+halt.o:	/usr/include/fcntl.h
+halt.o:	/usr/include/limits.h
+halt.o:	/usr/include/machine/interrupt.h
+halt.o:	/usr/include/minix/config.h
+halt.o:	/usr/include/minix/dir.h
+halt.o:	/usr/include/minix/limits.h
+halt.o:	/usr/include/minix/sys_config.h
+halt.o:	/usr/include/minix/type.h
+halt.o:	/usr/include/minix/types.h
+halt.o:	/usr/include/signal.h
+halt.o:	/usr/include/stddef.h
+halt.o:	/usr/include/stdint.h
+halt.o:	/usr/include/stdio.h
+halt.o:	/usr/include/stdlib.h
+halt.o:	/usr/include/string.h
+halt.o:	/usr/include/sys/cdefs.h
+halt.o:	/usr/include/sys/null.h
+halt.o:	/usr/include/sys/stat.h
+halt.o:	/usr/include/sys/types.h
+halt.o:	/usr/include/sys/ucred.h
+halt.o:	/usr/include/sys/wait.h
+halt.o:	/usr/include/unistd.h
+halt.o:	halt.c

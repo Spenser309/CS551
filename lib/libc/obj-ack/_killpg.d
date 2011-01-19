@@ -1,0 +1,22 @@
+
+_killpg.o:	/usr/include/ansi.h
+_killpg.o:	/usr/include/errno.h
+_killpg.o:	/usr/include/lib.h
+_killpg.o:	/usr/include/limits.h
+_killpg.o:	/usr/include/machine/interrupt.h
+_killpg.o:	/usr/include/minix/callnr.h
+_killpg.o:	/usr/include/minix/com.h
+_killpg.o:	/usr/include/minix/config.h
+_killpg.o:	/usr/include/minix/const.h
+_killpg.o:	/usr/include/minix/dir.h
+_killpg.o:	/usr/include/minix/ipc.h
+_killpg.o:	/usr/include/minix/ipcconst.h
+_killpg.o:	/usr/include/minix/limits.h
+_killpg.o:	/usr/include/minix/sys_config.h
+_killpg.o:	/usr/include/minix/type.h
+_killpg.o:	/usr/include/minix/types.h
+_killpg.o:	/usr/include/signal.h
+_killpg.o:	/usr/include/stdint.h
+_killpg.o:	/usr/include/sys/cdefs.h
+_killpg.o:	/usr/include/sys/null.h
+_killpg.o:	/usr/src/lib/libc/posix/_killpg.c

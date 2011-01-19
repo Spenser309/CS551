@@ -1,0 +1,25 @@
+
+term_ascii.o:	/usr/include/ansi.h
+term_ascii.o:	/usr/include/assert.h
+term_ascii.o:	/usr/include/limits.h
+term_ascii.o:	/usr/include/machine/interrupt.h
+term_ascii.o:	/usr/include/minix/config.h
+term_ascii.o:	/usr/include/minix/dir.h
+term_ascii.o:	/usr/include/minix/limits.h
+term_ascii.o:	/usr/include/minix/sys_config.h
+term_ascii.o:	/usr/include/minix/type.h
+term_ascii.o:	/usr/include/minix/types.h
+term_ascii.o:	/usr/include/stddef.h
+term_ascii.o:	/usr/include/stdint.h
+term_ascii.o:	/usr/include/stdio.h
+term_ascii.o:	/usr/include/stdlib.h
+term_ascii.o:	/usr/include/sys/cdefs.h
+term_ascii.o:	/usr/include/sys/null.h
+term_ascii.o:	/usr/include/sys/types.h
+term_ascii.o:	/usr/include/sys/ucred.h
+term_ascii.o:	/usr/include/unistd.h
+term_ascii.o:	config.h
+term_ascii.o:	main.h
+term_ascii.o:	out.h
+term_ascii.o:	term.h
+term_ascii.o:	term_ascii.c

@@ -1,0 +1,23 @@
+
+_brk.o:	/usr/include/ansi.h
+_brk.o:	/usr/include/errno.h
+_brk.o:	/usr/include/lib.h
+_brk.o:	/usr/include/limits.h
+_brk.o:	/usr/include/machine/interrupt.h
+_brk.o:	/usr/include/minix/callnr.h
+_brk.o:	/usr/include/minix/com.h
+_brk.o:	/usr/include/minix/config.h
+_brk.o:	/usr/include/minix/const.h
+_brk.o:	/usr/include/minix/dir.h
+_brk.o:	/usr/include/minix/ipc.h
+_brk.o:	/usr/include/minix/ipcconst.h
+_brk.o:	/usr/include/minix/limits.h
+_brk.o:	/usr/include/minix/sys_config.h
+_brk.o:	/usr/include/minix/type.h
+_brk.o:	/usr/include/minix/types.h
+_brk.o:	/usr/include/stdint.h
+_brk.o:	/usr/include/sys/cdefs.h
+_brk.o:	/usr/include/sys/null.h
+_brk.o:	/usr/include/sys/ucred.h
+_brk.o:	/usr/include/unistd.h
+_brk.o:	/usr/src/lib/libc/other/_brk.c

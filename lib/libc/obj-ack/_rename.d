@@ -1,0 +1,23 @@
+
+_rename.o:	/usr/include/ansi.h
+_rename.o:	/usr/include/errno.h
+_rename.o:	/usr/include/lib.h
+_rename.o:	/usr/include/limits.h
+_rename.o:	/usr/include/machine/interrupt.h
+_rename.o:	/usr/include/minix/callnr.h
+_rename.o:	/usr/include/minix/com.h
+_rename.o:	/usr/include/minix/config.h
+_rename.o:	/usr/include/minix/const.h
+_rename.o:	/usr/include/minix/dir.h
+_rename.o:	/usr/include/minix/ipc.h
+_rename.o:	/usr/include/minix/ipcconst.h
+_rename.o:	/usr/include/minix/limits.h
+_rename.o:	/usr/include/minix/sys_config.h
+_rename.o:	/usr/include/minix/type.h
+_rename.o:	/usr/include/minix/types.h
+_rename.o:	/usr/include/stdint.h
+_rename.o:	/usr/include/stdio.h
+_rename.o:	/usr/include/string.h
+_rename.o:	/usr/include/sys/cdefs.h
+_rename.o:	/usr/include/sys/null.h
+_rename.o:	/usr/src/lib/libc/posix/_rename.c

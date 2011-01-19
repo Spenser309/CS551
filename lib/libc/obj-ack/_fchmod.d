@@ -1,0 +1,22 @@
+
+_fchmod.o:	/usr/include/ansi.h
+_fchmod.o:	/usr/include/errno.h
+_fchmod.o:	/usr/include/lib.h
+_fchmod.o:	/usr/include/limits.h
+_fchmod.o:	/usr/include/machine/interrupt.h
+_fchmod.o:	/usr/include/minix/callnr.h
+_fchmod.o:	/usr/include/minix/com.h
+_fchmod.o:	/usr/include/minix/config.h
+_fchmod.o:	/usr/include/minix/const.h
+_fchmod.o:	/usr/include/minix/dir.h
+_fchmod.o:	/usr/include/minix/ipc.h
+_fchmod.o:	/usr/include/minix/ipcconst.h
+_fchmod.o:	/usr/include/minix/limits.h
+_fchmod.o:	/usr/include/minix/sys_config.h
+_fchmod.o:	/usr/include/minix/type.h
+_fchmod.o:	/usr/include/minix/types.h
+_fchmod.o:	/usr/include/stdint.h
+_fchmod.o:	/usr/include/sys/cdefs.h
+_fchmod.o:	/usr/include/sys/null.h
+_fchmod.o:	/usr/include/sys/stat.h
+_fchmod.o:	/usr/src/lib/libc/posix/_fchmod.c

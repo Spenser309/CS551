@@ -1,0 +1,27 @@
+
+finduser.o:	/usr/include/ansi.h
+finduser.o:	/usr/include/fcntl.h
+finduser.o:	/usr/include/limits.h
+finduser.o:	/usr/include/machine/interrupt.h
+finduser.o:	/usr/include/minix/config.h
+finduser.o:	/usr/include/minix/dir.h
+finduser.o:	/usr/include/minix/limits.h
+finduser.o:	/usr/include/minix/sys_config.h
+finduser.o:	/usr/include/minix/type.h
+finduser.o:	/usr/include/minix/types.h
+finduser.o:	/usr/include/net/gen/in.h
+finduser.o:	/usr/include/stddef.h
+finduser.o:	/usr/include/stdint.h
+finduser.o:	/usr/include/stdio.h
+finduser.o:	/usr/include/stdlib.h
+finduser.o:	/usr/include/string.h
+finduser.o:	/usr/include/sys/cdefs.h
+finduser.o:	/usr/include/sys/null.h
+finduser.o:	/usr/include/sys/types.h
+finduser.o:	/usr/include/sys/ucred.h
+finduser.o:	/usr/include/time.h
+finduser.o:	/usr/include/unistd.h
+finduser.o:	/usr/include/utmp.h
+finduser.o:	finduser.c
+finduser.o:	finduser.h
+finduser.o:	talk.h

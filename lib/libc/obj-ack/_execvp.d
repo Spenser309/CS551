@@ -1,0 +1,27 @@
+
+_execvp.o:	/usr/include/ansi.h
+_execvp.o:	/usr/include/errno.h
+_execvp.o:	/usr/include/lib.h
+_execvp.o:	/usr/include/limits.h
+_execvp.o:	/usr/include/machine/interrupt.h
+_execvp.o:	/usr/include/minix/callnr.h
+_execvp.o:	/usr/include/minix/com.h
+_execvp.o:	/usr/include/minix/config.h
+_execvp.o:	/usr/include/minix/const.h
+_execvp.o:	/usr/include/minix/dir.h
+_execvp.o:	/usr/include/minix/ipc.h
+_execvp.o:	/usr/include/minix/ipcconst.h
+_execvp.o:	/usr/include/minix/limits.h
+_execvp.o:	/usr/include/minix/sys_config.h
+_execvp.o:	/usr/include/minix/type.h
+_execvp.o:	/usr/include/minix/types.h
+_execvp.o:	/usr/include/stddef.h
+_execvp.o:	/usr/include/stdint.h
+_execvp.o:	/usr/include/stdlib.h
+_execvp.o:	/usr/include/string.h
+_execvp.o:	/usr/include/sys/cdefs.h
+_execvp.o:	/usr/include/sys/null.h
+_execvp.o:	/usr/include/sys/stat.h
+_execvp.o:	/usr/include/sys/ucred.h
+_execvp.o:	/usr/include/unistd.h
+_execvp.o:	/usr/src/lib/libc/posix/_execvp.c

@@ -1,0 +1,25 @@
+
+hexsyntax.o:	/usr/include/ansi.h
+hexsyntax.o:	/usr/include/err.h
+hexsyntax.o:	/usr/include/limits.h
+hexsyntax.o:	/usr/include/machine/interrupt.h
+hexsyntax.o:	/usr/include/minix/config.h
+hexsyntax.o:	/usr/include/minix/dir.h
+hexsyntax.o:	/usr/include/minix/limits.h
+hexsyntax.o:	/usr/include/minix/sys_config.h
+hexsyntax.o:	/usr/include/minix/type.h
+hexsyntax.o:	/usr/include/minix/types.h
+hexsyntax.o:	/usr/include/minix/u64.h
+hexsyntax.o:	/usr/include/stdarg.h
+hexsyntax.o:	/usr/include/stddef.h
+hexsyntax.o:	/usr/include/stdint.h
+hexsyntax.o:	/usr/include/stdio.h
+hexsyntax.o:	/usr/include/stdlib.h
+hexsyntax.o:	/usr/include/string.h
+hexsyntax.o:	/usr/include/sys/cdefs.h
+hexsyntax.o:	/usr/include/sys/null.h
+hexsyntax.o:	/usr/include/sys/types.h
+hexsyntax.o:	/usr/include/sys/ucred.h
+hexsyntax.o:	/usr/include/unistd.h
+hexsyntax.o:	hexdump.h
+hexsyntax.o:	hexsyntax.c

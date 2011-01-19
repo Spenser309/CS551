@@ -1,0 +1,27 @@
+
+eeques.o:	/usr/include/ansi.h
+eeques.o:	/usr/include/limits.h
+eeques.o:	/usr/include/machine/interrupt.h
+eeques.o:	/usr/include/minix/config.h
+eeques.o:	/usr/include/minix/dir.h
+eeques.o:	/usr/include/minix/limits.h
+eeques.o:	/usr/include/minix/sys_config.h
+eeques.o:	/usr/include/minix/type.h
+eeques.o:	/usr/include/minix/types.h
+eeques.o:	/usr/include/setjmp.h
+eeques.o:	/usr/include/stdint.h
+eeques.o:	/usr/include/stdio.h
+eeques.o:	/usr/include/string.h
+eeques.o:	/usr/include/sys/cdefs.h
+eeques.o:	/usr/include/sys/null.h
+eeques.o:	/usr/include/sys/types.h
+eeques.o:	/usr/include/sys/ucred.h
+eeques.o:	/usr/include/unistd.h
+eeques.o:	eefidx.h
+eeques.o:	eeprof.h
+eeques.o:	eeproto.h
+eeques.o:	eeques.c
+eeques.o:	eesite.h
+eeques.o:	elle.h
+eeques.o:	sb.h
+eeques.o:	sbproto.h

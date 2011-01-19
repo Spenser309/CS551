@@ -1,0 +1,22 @@
+
+rec_search.o:	/usr/include/ansi.h
+rec_search.o:	/usr/include/assert.h
+rec_search.o:	/usr/include/db.h
+rec_search.o:	/usr/include/errno.h
+rec_search.o:	/usr/include/limits.h
+rec_search.o:	/usr/include/minix/dir.h
+rec_search.o:	/usr/include/minix/limits.h
+rec_search.o:	/usr/include/minix/sys_config.h
+rec_search.o:	/usr/include/minix/types.h
+rec_search.o:	/usr/include/mpool.h
+rec_search.o:	/usr/include/stdint.h
+rec_search.o:	/usr/include/stdio.h
+rec_search.o:	/usr/include/sys/cdefs.h
+rec_search.o:	/usr/include/sys/null.h
+rec_search.o:	/usr/include/sys/queue.h
+rec_search.o:	/usr/include/sys/types.h
+rec_search.o:	/usr/src/lib/libc/db/recno/../btree/btree.h
+rec_search.o:	/usr/src/lib/libc/db/recno/../btree/extern.h
+rec_search.o:	/usr/src/lib/libc/db/recno/extern.h
+rec_search.o:	/usr/src/lib/libc/db/recno/rec_search.c
+rec_search.o:	/usr/src/lib/libc/db/recno/recno.h

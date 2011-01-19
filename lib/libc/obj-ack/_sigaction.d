@@ -1,0 +1,22 @@
+
+_sigaction.o:	/usr/include/ansi.h
+_sigaction.o:	/usr/include/errno.h
+_sigaction.o:	/usr/include/lib.h
+_sigaction.o:	/usr/include/limits.h
+_sigaction.o:	/usr/include/machine/interrupt.h
+_sigaction.o:	/usr/include/minix/callnr.h
+_sigaction.o:	/usr/include/minix/com.h
+_sigaction.o:	/usr/include/minix/config.h
+_sigaction.o:	/usr/include/minix/const.h
+_sigaction.o:	/usr/include/minix/dir.h
+_sigaction.o:	/usr/include/minix/ipc.h
+_sigaction.o:	/usr/include/minix/ipcconst.h
+_sigaction.o:	/usr/include/minix/limits.h
+_sigaction.o:	/usr/include/minix/sys_config.h
+_sigaction.o:	/usr/include/minix/type.h
+_sigaction.o:	/usr/include/minix/types.h
+_sigaction.o:	/usr/include/signal.h
+_sigaction.o:	/usr/include/stdint.h
+_sigaction.o:	/usr/include/sys/cdefs.h
+_sigaction.o:	/usr/include/sys/null.h
+_sigaction.o:	/usr/src/lib/libc/posix/_sigaction.c

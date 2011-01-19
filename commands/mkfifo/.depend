@@ -1,0 +1,23 @@
+
+mkfifo.o:	/usr/include/ansi.h
+mkfifo.o:	/usr/include/limits.h
+mkfifo.o:	/usr/include/machine/interrupt.h
+mkfifo.o:	/usr/include/minix/config.h
+mkfifo.o:	/usr/include/minix/dir.h
+mkfifo.o:	/usr/include/minix/limits.h
+mkfifo.o:	/usr/include/minix/minlib.h
+mkfifo.o:	/usr/include/minix/sys_config.h
+mkfifo.o:	/usr/include/minix/type.h
+mkfifo.o:	/usr/include/minix/types.h
+mkfifo.o:	/usr/include/stddef.h
+mkfifo.o:	/usr/include/stdint.h
+mkfifo.o:	/usr/include/stdio.h
+mkfifo.o:	/usr/include/stdlib.h
+mkfifo.o:	/usr/include/string.h
+mkfifo.o:	/usr/include/sys/cdefs.h
+mkfifo.o:	/usr/include/sys/null.h
+mkfifo.o:	/usr/include/sys/stat.h
+mkfifo.o:	/usr/include/sys/types.h
+mkfifo.o:	/usr/include/sys/ucred.h
+mkfifo.o:	/usr/include/unistd.h
+mkfifo.o:	mkfifo.c

@@ -1,0 +1,23 @@
+
+co.o:	/usr/include/ansi.h
+co.o:	/usr/include/limits.h
+co.o:	/usr/include/machine/interrupt.h
+co.o:	/usr/include/minix/config.h
+co.o:	/usr/include/minix/dir.h
+co.o:	/usr/include/minix/limits.h
+co.o:	/usr/include/minix/sys_config.h
+co.o:	/usr/include/minix/type.h
+co.o:	/usr/include/minix/types.h
+co.o:	/usr/include/pwd.h
+co.o:	/usr/include/stddef.h
+co.o:	/usr/include/stdint.h
+co.o:	/usr/include/stdio.h
+co.o:	/usr/include/stdlib.h
+co.o:	/usr/include/string.h
+co.o:	/usr/include/sys/cdefs.h
+co.o:	/usr/include/sys/null.h
+co.o:	/usr/include/sys/stat.h
+co.o:	/usr/include/sys/types.h
+co.o:	/usr/include/sys/ucred.h
+co.o:	/usr/include/unistd.h
+co.o:	co.c

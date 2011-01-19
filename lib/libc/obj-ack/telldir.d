@@ -1,0 +1,26 @@
+
+telldir.o:	/usr/include/ansi.h
+telldir.o:	/usr/include/dirent.h
+telldir.o:	/usr/include/errno.h
+telldir.o:	/usr/include/lib.h
+telldir.o:	/usr/include/limits.h
+telldir.o:	/usr/include/machine/interrupt.h
+telldir.o:	/usr/include/minix/callnr.h
+telldir.o:	/usr/include/minix/com.h
+telldir.o:	/usr/include/minix/config.h
+telldir.o:	/usr/include/minix/const.h
+telldir.o:	/usr/include/minix/dir.h
+telldir.o:	/usr/include/minix/dirent.h
+telldir.o:	/usr/include/minix/ipc.h
+telldir.o:	/usr/include/minix/ipcconst.h
+telldir.o:	/usr/include/minix/limits.h
+telldir.o:	/usr/include/minix/sys_config.h
+telldir.o:	/usr/include/minix/type.h
+telldir.o:	/usr/include/minix/types.h
+telldir.o:	/usr/include/stdint.h
+telldir.o:	/usr/include/sys/cdefs.h
+telldir.o:	/usr/include/sys/null.h
+telldir.o:	/usr/include/sys/types.h
+telldir.o:	/usr/include/sys/ucred.h
+telldir.o:	/usr/include/unistd.h
+telldir.o:	/usr/src/lib/libc/other/telldir.c

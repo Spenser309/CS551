@@ -1,0 +1,24 @@
+
+lp.o:	/usr/include/ansi.h
+lp.o:	/usr/include/errno.h
+lp.o:	/usr/include/fcntl.h
+lp.o:	/usr/include/limits.h
+lp.o:	/usr/include/machine/interrupt.h
+lp.o:	/usr/include/minix/config.h
+lp.o:	/usr/include/minix/dir.h
+lp.o:	/usr/include/minix/limits.h
+lp.o:	/usr/include/minix/sys_config.h
+lp.o:	/usr/include/minix/type.h
+lp.o:	/usr/include/minix/types.h
+lp.o:	/usr/include/stddef.h
+lp.o:	/usr/include/stdint.h
+lp.o:	/usr/include/stdio.h
+lp.o:	/usr/include/stdlib.h
+lp.o:	/usr/include/string.h
+lp.o:	/usr/include/sys/cdefs.h
+lp.o:	/usr/include/sys/null.h
+lp.o:	/usr/include/sys/types.h
+lp.o:	/usr/include/sys/ucred.h
+lp.o:	/usr/include/sys/wait.h
+lp.o:	/usr/include/unistd.h
+lp.o:	lp.c

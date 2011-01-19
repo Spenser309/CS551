@@ -1,0 +1,23 @@
+
+_mkdir.o:	/usr/include/ansi.h
+_mkdir.o:	/usr/include/errno.h
+_mkdir.o:	/usr/include/lib.h
+_mkdir.o:	/usr/include/limits.h
+_mkdir.o:	/usr/include/machine/interrupt.h
+_mkdir.o:	/usr/include/minix/callnr.h
+_mkdir.o:	/usr/include/minix/com.h
+_mkdir.o:	/usr/include/minix/config.h
+_mkdir.o:	/usr/include/minix/const.h
+_mkdir.o:	/usr/include/minix/dir.h
+_mkdir.o:	/usr/include/minix/ipc.h
+_mkdir.o:	/usr/include/minix/ipcconst.h
+_mkdir.o:	/usr/include/minix/limits.h
+_mkdir.o:	/usr/include/minix/sys_config.h
+_mkdir.o:	/usr/include/minix/type.h
+_mkdir.o:	/usr/include/minix/types.h
+_mkdir.o:	/usr/include/stdint.h
+_mkdir.o:	/usr/include/string.h
+_mkdir.o:	/usr/include/sys/cdefs.h
+_mkdir.o:	/usr/include/sys/null.h
+_mkdir.o:	/usr/include/sys/stat.h
+_mkdir.o:	/usr/src/lib/libc/posix/_mkdir.c

@@ -1,0 +1,21 @@
+
+lrand.o:	/usr/include/ansi.h
+lrand.o:	/usr/include/errno.h
+lrand.o:	/usr/include/lib.h
+lrand.o:	/usr/include/limits.h
+lrand.o:	/usr/include/machine/interrupt.h
+lrand.o:	/usr/include/minix/callnr.h
+lrand.o:	/usr/include/minix/com.h
+lrand.o:	/usr/include/minix/config.h
+lrand.o:	/usr/include/minix/const.h
+lrand.o:	/usr/include/minix/dir.h
+lrand.o:	/usr/include/minix/ipc.h
+lrand.o:	/usr/include/minix/ipcconst.h
+lrand.o:	/usr/include/minix/limits.h
+lrand.o:	/usr/include/minix/sys_config.h
+lrand.o:	/usr/include/minix/type.h
+lrand.o:	/usr/include/minix/types.h
+lrand.o:	/usr/include/stdint.h
+lrand.o:	/usr/include/sys/cdefs.h
+lrand.o:	/usr/include/sys/null.h
+lrand.o:	/usr/src/lib/libc/other/lrand.c

@@ -1,0 +1,23 @@
+
+comm.o:	/usr/include/ansi.h
+comm.o:	/usr/include/fcntl.h
+comm.o:	/usr/include/limits.h
+comm.o:	/usr/include/machine/interrupt.h
+comm.o:	/usr/include/minix/config.h
+comm.o:	/usr/include/minix/dir.h
+comm.o:	/usr/include/minix/limits.h
+comm.o:	/usr/include/minix/minlib.h
+comm.o:	/usr/include/minix/sys_config.h
+comm.o:	/usr/include/minix/type.h
+comm.o:	/usr/include/minix/types.h
+comm.o:	/usr/include/stddef.h
+comm.o:	/usr/include/stdint.h
+comm.o:	/usr/include/stdio.h
+comm.o:	/usr/include/stdlib.h
+comm.o:	/usr/include/string.h
+comm.o:	/usr/include/sys/cdefs.h
+comm.o:	/usr/include/sys/null.h
+comm.o:	/usr/include/sys/types.h
+comm.o:	/usr/include/sys/ucred.h
+comm.o:	/usr/include/unistd.h
+comm.o:	comm.c

@@ -1,0 +1,22 @@
+
+crypt.o:	/usr/include/ansi.h
+crypt.o:	/usr/include/errno.h
+crypt.o:	/usr/include/limits.h
+crypt.o:	/usr/include/machine/interrupt.h
+crypt.o:	/usr/include/minix/config.h
+crypt.o:	/usr/include/minix/dir.h
+crypt.o:	/usr/include/minix/limits.h
+crypt.o:	/usr/include/minix/sys_config.h
+crypt.o:	/usr/include/minix/type.h
+crypt.o:	/usr/include/minix/types.h
+crypt.o:	/usr/include/stdarg.h
+crypt.o:	/usr/include/stdint.h
+crypt.o:	/usr/include/stdio.h
+crypt.o:	/usr/include/string.h
+crypt.o:	/usr/include/sys/cdefs.h
+crypt.o:	/usr/include/sys/null.h
+crypt.o:	/usr/include/sys/types.h
+crypt.o:	/usr/include/sys/ucred.h
+crypt.o:	/usr/include/sys/wait.h
+crypt.o:	/usr/include/unistd.h
+crypt.o:	/usr/src/lib/libc/other/crypt.c

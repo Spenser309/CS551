@@ -1,0 +1,21 @@
+
+pwd.o:	/usr/include/ansi.h
+pwd.o:	/usr/include/limits.h
+pwd.o:	/usr/include/machine/interrupt.h
+pwd.o:	/usr/include/minix/config.h
+pwd.o:	/usr/include/minix/dir.h
+pwd.o:	/usr/include/minix/limits.h
+pwd.o:	/usr/include/minix/sys_config.h
+pwd.o:	/usr/include/minix/type.h
+pwd.o:	/usr/include/minix/types.h
+pwd.o:	/usr/include/stddef.h
+pwd.o:	/usr/include/stdint.h
+pwd.o:	/usr/include/stdio.h
+pwd.o:	/usr/include/stdlib.h
+pwd.o:	/usr/include/string.h
+pwd.o:	/usr/include/sys/cdefs.h
+pwd.o:	/usr/include/sys/null.h
+pwd.o:	/usr/include/sys/types.h
+pwd.o:	/usr/include/sys/ucred.h
+pwd.o:	/usr/include/unistd.h
+pwd.o:	pwd.c

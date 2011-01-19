@@ -1,0 +1,22 @@
+
+mpx.o:	/usr/include/ansi.h
+mpx.o:	/usr/include/machine/asm.h
+mpx.o:	/usr/include/machine/interrupt.h
+mpx.o:	/usr/include/machine/memory.h
+mpx.o:	/usr/include/machine/vm.h
+mpx.o:	/usr/include/minix/bitmap.h
+mpx.o:	/usr/include/minix/com.h
+mpx.o:	/usr/include/minix/config.h
+mpx.o:	/usr/include/minix/const.h
+mpx.o:	/usr/include/minix/debug.h
+mpx.o:	/usr/include/minix/sys_config.h
+mpx.o:	/usr/include/sys/null.h
+mpx.o:	/usr/src/kernel/arch/i386/include/archconst.h
+mpx.o:	/usr/src/kernel/arch/i386/mpx.S
+mpx.o:	/usr/src/kernel/arch/i386/multiboot.h
+mpx.o:	/usr/src/kernel/arch/i386/sconst.h
+mpx.o:	/usr/src/kernel/config.h
+mpx.o:	/usr/src/kernel/const.h
+mpx.o:	/usr/src/kernel/debug.h
+mpx.o:	/usr/src/kernel/kernel.h
+mpx.o:	/usr/src/kernel/proc.h

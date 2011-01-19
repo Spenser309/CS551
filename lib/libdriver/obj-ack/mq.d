@@ -1,0 +1,19 @@
+
+mq.o:	/usr/include/ansi.h
+mq.o:	/usr/include/assert.h
+mq.o:	/usr/include/limits.h
+mq.o:	/usr/include/machine/interrupt.h
+mq.o:	/usr/include/minix/config.h
+mq.o:	/usr/include/minix/const.h
+mq.o:	/usr/include/minix/dir.h
+mq.o:	/usr/include/minix/ipc.h
+mq.o:	/usr/include/minix/ipcconst.h
+mq.o:	/usr/include/minix/limits.h
+mq.o:	/usr/include/minix/mq.h
+mq.o:	/usr/include/minix/sys_config.h
+mq.o:	/usr/include/minix/type.h
+mq.o:	/usr/include/minix/types.h
+mq.o:	/usr/include/stdint.h
+mq.o:	/usr/include/sys/cdefs.h
+mq.o:	/usr/include/sys/null.h
+mq.o:	/usr/src/lib/libdriver/mq.c

@@ -1,0 +1,23 @@
+
+__exit.o:	/usr/include/ansi.h
+__exit.o:	/usr/include/errno.h
+__exit.o:	/usr/include/lib.h
+__exit.o:	/usr/include/limits.h
+__exit.o:	/usr/include/machine/interrupt.h
+__exit.o:	/usr/include/minix/callnr.h
+__exit.o:	/usr/include/minix/com.h
+__exit.o:	/usr/include/minix/config.h
+__exit.o:	/usr/include/minix/const.h
+__exit.o:	/usr/include/minix/dir.h
+__exit.o:	/usr/include/minix/ipc.h
+__exit.o:	/usr/include/minix/ipcconst.h
+__exit.o:	/usr/include/minix/limits.h
+__exit.o:	/usr/include/minix/sys_config.h
+__exit.o:	/usr/include/minix/type.h
+__exit.o:	/usr/include/minix/types.h
+__exit.o:	/usr/include/stdint.h
+__exit.o:	/usr/include/sys/cdefs.h
+__exit.o:	/usr/include/sys/null.h
+__exit.o:	/usr/include/sys/ucred.h
+__exit.o:	/usr/include/unistd.h
+__exit.o:	/usr/src/lib/libc/posix/__exit.c

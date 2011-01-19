@@ -1,0 +1,22 @@
+
+_wait.o:	/usr/include/ansi.h
+_wait.o:	/usr/include/errno.h
+_wait.o:	/usr/include/lib.h
+_wait.o:	/usr/include/limits.h
+_wait.o:	/usr/include/machine/interrupt.h
+_wait.o:	/usr/include/minix/callnr.h
+_wait.o:	/usr/include/minix/com.h
+_wait.o:	/usr/include/minix/config.h
+_wait.o:	/usr/include/minix/const.h
+_wait.o:	/usr/include/minix/dir.h
+_wait.o:	/usr/include/minix/ipc.h
+_wait.o:	/usr/include/minix/ipcconst.h
+_wait.o:	/usr/include/minix/limits.h
+_wait.o:	/usr/include/minix/sys_config.h
+_wait.o:	/usr/include/minix/type.h
+_wait.o:	/usr/include/minix/types.h
+_wait.o:	/usr/include/stdint.h
+_wait.o:	/usr/include/sys/cdefs.h
+_wait.o:	/usr/include/sys/null.h
+_wait.o:	/usr/include/sys/wait.h
+_wait.o:	/usr/src/lib/libc/posix/_wait.c

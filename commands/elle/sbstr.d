@@ -1,0 +1,24 @@
+
+sbstr.o:	/usr/include/ansi.h
+sbstr.o:	/usr/include/fcntl.h
+sbstr.o:	/usr/include/limits.h
+sbstr.o:	/usr/include/machine/interrupt.h
+sbstr.o:	/usr/include/minix/config.h
+sbstr.o:	/usr/include/minix/dir.h
+sbstr.o:	/usr/include/minix/limits.h
+sbstr.o:	/usr/include/minix/sys_config.h
+sbstr.o:	/usr/include/minix/type.h
+sbstr.o:	/usr/include/minix/types.h
+sbstr.o:	/usr/include/stdint.h
+sbstr.o:	/usr/include/stdio.h
+sbstr.o:	/usr/include/string.h
+sbstr.o:	/usr/include/sys/cdefs.h
+sbstr.o:	/usr/include/sys/null.h
+sbstr.o:	/usr/include/sys/stat.h
+sbstr.o:	/usr/include/sys/types.h
+sbstr.o:	/usr/include/sys/ucred.h
+sbstr.o:	/usr/include/unistd.h
+sbstr.o:	eesite.h
+sbstr.o:	sb.h
+sbstr.o:	sbproto.h
+sbstr.o:	sbstr.c

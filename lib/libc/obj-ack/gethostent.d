@@ -1,0 +1,22 @@
+
+gethostent.o:	/usr/include/ansi.h
+gethostent.o:	/usr/include/inttypes.h
+gethostent.o:	/usr/include/limits.h
+gethostent.o:	/usr/include/minix/dir.h
+gethostent.o:	/usr/include/minix/limits.h
+gethostent.o:	/usr/include/minix/sys_config.h
+gethostent.o:	/usr/include/minix/types.h
+gethostent.o:	/usr/include/net/gen/in.h
+gethostent.o:	/usr/include/net/gen/inet.h
+gethostent.o:	/usr/include/net/gen/netdb.h
+gethostent.o:	/usr/include/net/gen/socket.h
+gethostent.o:	/usr/include/netinet/in.h
+gethostent.o:	/usr/include/stdint.h
+gethostent.o:	/usr/include/stdio.h
+gethostent.o:	/usr/include/string.h
+gethostent.o:	/usr/include/sys/cdefs.h
+gethostent.o:	/usr/include/sys/null.h
+gethostent.o:	/usr/include/sys/socket.h
+gethostent.o:	/usr/include/sys/types.h
+gethostent.o:	/usr/include/sys/ucred.h
+gethostent.o:	/usr/src/lib/libc/ip/gethostent.c

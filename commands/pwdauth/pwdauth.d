@@ -1,0 +1,22 @@
+
+pwdauth.o:	/usr/include/ansi.h
+pwdauth.o:	/usr/include/limits.h
+pwdauth.o:	/usr/include/machine/interrupt.h
+pwdauth.o:	/usr/include/minix/config.h
+pwdauth.o:	/usr/include/minix/dir.h
+pwdauth.o:	/usr/include/minix/limits.h
+pwdauth.o:	/usr/include/minix/sys_config.h
+pwdauth.o:	/usr/include/minix/type.h
+pwdauth.o:	/usr/include/minix/types.h
+pwdauth.o:	/usr/include/pwd.h
+pwdauth.o:	/usr/include/stddef.h
+pwdauth.o:	/usr/include/stdint.h
+pwdauth.o:	/usr/include/stdio.h
+pwdauth.o:	/usr/include/stdlib.h
+pwdauth.o:	/usr/include/string.h
+pwdauth.o:	/usr/include/sys/cdefs.h
+pwdauth.o:	/usr/include/sys/null.h
+pwdauth.o:	/usr/include/sys/types.h
+pwdauth.o:	/usr/include/sys/ucred.h
+pwdauth.o:	/usr/include/unistd.h
+pwdauth.o:	pwdauth.c

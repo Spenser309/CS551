@@ -1,0 +1,22 @@
+
+mystring.o:	/usr/include/ansi.h
+mystring.o:	/usr/include/ctype.h
+mystring.o:	/usr/include/limits.h
+mystring.o:	/usr/include/minix/dir.h
+mystring.o:	/usr/include/minix/limits.h
+mystring.o:	/usr/include/minix/sys_config.h
+mystring.o:	/usr/include/minix/types.h
+mystring.o:	/usr/include/setjmp.h
+mystring.o:	/usr/include/signal.h
+mystring.o:	/usr/include/stddef.h
+mystring.o:	/usr/include/stdint.h
+mystring.o:	/usr/include/stdlib.h
+mystring.o:	/usr/include/string.h
+mystring.o:	/usr/include/sys/cdefs.h
+mystring.o:	/usr/include/sys/null.h
+mystring.o:	/usr/include/sys/types.h
+mystring.o:	error.h
+mystring.o:	mystring.c
+mystring.o:	mystring.h
+mystring.o:	shell.h
+mystring.o:	syntax.h

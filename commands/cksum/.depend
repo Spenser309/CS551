@@ -1,0 +1,19 @@
+
+cksum.o:	/usr/include/ansi.h
+cksum.o:	/usr/include/fcntl.h
+cksum.o:	/usr/include/limits.h
+cksum.o:	/usr/include/machine/interrupt.h
+cksum.o:	/usr/include/minix/config.h
+cksum.o:	/usr/include/minix/dir.h
+cksum.o:	/usr/include/minix/limits.h
+cksum.o:	/usr/include/minix/sys_config.h
+cksum.o:	/usr/include/minix/type.h
+cksum.o:	/usr/include/minix/types.h
+cksum.o:	/usr/include/stdint.h
+cksum.o:	/usr/include/stdio.h
+cksum.o:	/usr/include/sys/cdefs.h
+cksum.o:	/usr/include/sys/null.h
+cksum.o:	/usr/include/sys/types.h
+cksum.o:	/usr/include/sys/ucred.h
+cksum.o:	/usr/include/unistd.h
+cksum.o:	cksum.c

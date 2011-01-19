@@ -1,0 +1,28 @@
+
+lessecho.o:	/usr/include/ansi.h
+lessecho.o:	/usr/include/ctype.h
+lessecho.o:	/usr/include/fcntl.h
+lessecho.o:	/usr/include/limits.h
+lessecho.o:	/usr/include/machine/interrupt.h
+lessecho.o:	/usr/include/minix/config.h
+lessecho.o:	/usr/include/minix/dir.h
+lessecho.o:	/usr/include/minix/limits.h
+lessecho.o:	/usr/include/minix/sys_config.h
+lessecho.o:	/usr/include/minix/type.h
+lessecho.o:	/usr/include/minix/types.h
+lessecho.o:	/usr/include/stddef.h
+lessecho.o:	/usr/include/stdint.h
+lessecho.o:	/usr/include/stdio.h
+lessecho.o:	/usr/include/stdlib.h
+lessecho.o:	/usr/include/string.h
+lessecho.o:	/usr/include/sys/cdefs.h
+lessecho.o:	/usr/include/sys/null.h
+lessecho.o:	/usr/include/sys/types.h
+lessecho.o:	/usr/include/sys/ucred.h
+lessecho.o:	/usr/include/unistd.h
+lessecho.o:	/usr/src/commands/less/lessecho/../less/defines.h
+lessecho.o:	/usr/src/commands/less/lessecho/../less/funcs.h
+lessecho.o:	/usr/src/commands/less/lessecho/../less/less.h
+lessecho.o:	lessecho.c
+
+version.o:	/usr/src/commands/less/lessecho/../less/version.c

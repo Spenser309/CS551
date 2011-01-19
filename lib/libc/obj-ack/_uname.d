@@ -1,0 +1,21 @@
+
+_uname.o:	/usr/include/ansi.h
+_uname.o:	/usr/include/errno.h
+_uname.o:	/usr/include/fcntl.h
+_uname.o:	/usr/include/limits.h
+_uname.o:	/usr/include/machine/interrupt.h
+_uname.o:	/usr/include/minix/config.h
+_uname.o:	/usr/include/minix/dir.h
+_uname.o:	/usr/include/minix/limits.h
+_uname.o:	/usr/include/minix/sys_config.h
+_uname.o:	/usr/include/minix/type.h
+_uname.o:	/usr/include/minix/types.h
+_uname.o:	/usr/include/stdint.h
+_uname.o:	/usr/include/string.h
+_uname.o:	/usr/include/sys/cdefs.h
+_uname.o:	/usr/include/sys/null.h
+_uname.o:	/usr/include/sys/types.h
+_uname.o:	/usr/include/sys/ucred.h
+_uname.o:	/usr/include/sys/utsname.h
+_uname.o:	/usr/include/unistd.h
+_uname.o:	/usr/src/lib/libc/posix/_uname.c

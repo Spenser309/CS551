@@ -1,0 +1,23 @@
+
+truncate.o:	/usr/include/ansi.h
+truncate.o:	/usr/include/ctype.h
+truncate.o:	/usr/include/errno.h
+truncate.o:	/usr/include/fcntl.h
+truncate.o:	/usr/include/limits.h
+truncate.o:	/usr/include/machine/interrupt.h
+truncate.o:	/usr/include/minix/config.h
+truncate.o:	/usr/include/minix/dir.h
+truncate.o:	/usr/include/minix/limits.h
+truncate.o:	/usr/include/minix/sys_config.h
+truncate.o:	/usr/include/minix/type.h
+truncate.o:	/usr/include/minix/types.h
+truncate.o:	/usr/include/stddef.h
+truncate.o:	/usr/include/stdint.h
+truncate.o:	/usr/include/stdio.h
+truncate.o:	/usr/include/stdlib.h
+truncate.o:	/usr/include/sys/cdefs.h
+truncate.o:	/usr/include/sys/null.h
+truncate.o:	/usr/include/sys/stat.h
+truncate.o:	/usr/include/sys/ucred.h
+truncate.o:	/usr/include/unistd.h
+truncate.o:	truncate.c

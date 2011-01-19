@@ -1,0 +1,22 @@
+
+eebit.o:	/usr/include/ansi.h
+eebit.o:	/usr/include/limits.h
+eebit.o:	/usr/include/machine/interrupt.h
+eebit.o:	/usr/include/minix/config.h
+eebit.o:	/usr/include/minix/dir.h
+eebit.o:	/usr/include/minix/limits.h
+eebit.o:	/usr/include/minix/sys_config.h
+eebit.o:	/usr/include/minix/type.h
+eebit.o:	/usr/include/minix/types.h
+eebit.o:	/usr/include/stdint.h
+eebit.o:	/usr/include/stdio.h
+eebit.o:	/usr/include/string.h
+eebit.o:	/usr/include/sys/cdefs.h
+eebit.o:	/usr/include/sys/null.h
+eebit.o:	/usr/include/sys/types.h
+eebit.o:	/usr/include/sys/ucred.h
+eebit.o:	/usr/include/unistd.h
+eebit.o:	eebit.c
+eebit.o:	eesite.h
+eebit.o:	sb.h
+eebit.o:	sbproto.h

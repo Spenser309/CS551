@@ -1,0 +1,20 @@
+
+parse_bas.o:	/usr/include/ansi.h
+parse_bas.o:	/usr/include/assert.h
+parse_bas.o:	/usr/include/limits.h
+parse_bas.o:	/usr/include/minix/dir.h
+parse_bas.o:	/usr/include/minix/limits.h
+parse_bas.o:	/usr/include/minix/sys_config.h
+parse_bas.o:	/usr/include/minix/types.h
+parse_bas.o:	/usr/include/stddef.h
+parse_bas.o:	/usr/include/stdint.h
+parse_bas.o:	/usr/include/stdio.h
+parse_bas.o:	/usr/include/stdlib.h
+parse_bas.o:	/usr/include/string.h
+parse_bas.o:	/usr/include/sys/cdefs.h
+parse_bas.o:	/usr/include/sys/null.h
+parse_bas.o:	asm86.h
+parse_bas.o:	asmconv.h
+parse_bas.o:	languages.h
+parse_bas.o:	parse_bas.c
+parse_bas.o:	token.h

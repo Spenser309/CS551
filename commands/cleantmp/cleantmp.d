@@ -1,0 +1,27 @@
+
+cleantmp.o:	/usr/include/ansi.h
+cleantmp.o:	/usr/include/assert.h
+cleantmp.o:	/usr/include/dirent.h
+cleantmp.o:	/usr/include/errno.h
+cleantmp.o:	/usr/include/limits.h
+cleantmp.o:	/usr/include/machine/interrupt.h
+cleantmp.o:	/usr/include/minix/config.h
+cleantmp.o:	/usr/include/minix/dir.h
+cleantmp.o:	/usr/include/minix/dirent.h
+cleantmp.o:	/usr/include/minix/limits.h
+cleantmp.o:	/usr/include/minix/sys_config.h
+cleantmp.o:	/usr/include/minix/type.h
+cleantmp.o:	/usr/include/minix/types.h
+cleantmp.o:	/usr/include/stddef.h
+cleantmp.o:	/usr/include/stdint.h
+cleantmp.o:	/usr/include/stdio.h
+cleantmp.o:	/usr/include/stdlib.h
+cleantmp.o:	/usr/include/string.h
+cleantmp.o:	/usr/include/sys/cdefs.h
+cleantmp.o:	/usr/include/sys/null.h
+cleantmp.o:	/usr/include/sys/stat.h
+cleantmp.o:	/usr/include/sys/types.h
+cleantmp.o:	/usr/include/sys/ucred.h
+cleantmp.o:	/usr/include/time.h
+cleantmp.o:	/usr/include/unistd.h
+cleantmp.o:	cleantmp.c

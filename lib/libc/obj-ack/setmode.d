@@ -1,0 +1,25 @@
+
+setmode.o:	/usr/include/ansi.h
+setmode.o:	/usr/include/assert.h
+setmode.o:	/usr/include/ctype.h
+setmode.o:	/usr/include/errno.h
+setmode.o:	/usr/include/limits.h
+setmode.o:	/usr/include/machine/interrupt.h
+setmode.o:	/usr/include/minix/config.h
+setmode.o:	/usr/include/minix/dir.h
+setmode.o:	/usr/include/minix/limits.h
+setmode.o:	/usr/include/minix/sys_config.h
+setmode.o:	/usr/include/minix/type.h
+setmode.o:	/usr/include/minix/types.h
+setmode.o:	/usr/include/signal.h
+setmode.o:	/usr/include/stddef.h
+setmode.o:	/usr/include/stdint.h
+setmode.o:	/usr/include/stdlib.h
+setmode.o:	/usr/include/sys/cdefs.h
+setmode.o:	/usr/include/sys/null.h
+setmode.o:	/usr/include/sys/stat.h
+setmode.o:	/usr/include/sys/types.h
+setmode.o:	/usr/include/sys/ucred.h
+setmode.o:	/usr/include/unistd.h
+setmode.o:	/usr/src/lib/libc/other/namespace.h
+setmode.o:	/usr/src/lib/libc/other/setmode.c

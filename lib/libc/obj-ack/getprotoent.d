@@ -1,0 +1,21 @@
+
+getprotoent.o:	/usr/include/ansi.h
+getprotoent.o:	/usr/include/ctype.h
+getprotoent.o:	/usr/include/inttypes.h
+getprotoent.o:	/usr/include/limits.h
+getprotoent.o:	/usr/include/minix/dir.h
+getprotoent.o:	/usr/include/minix/limits.h
+getprotoent.o:	/usr/include/minix/sys_config.h
+getprotoent.o:	/usr/include/minix/types.h
+getprotoent.o:	/usr/include/net/gen/netdb.h
+getprotoent.o:	/usr/include/net/gen/socket.h
+getprotoent.o:	/usr/include/netinet/in.h
+getprotoent.o:	/usr/include/stddef.h
+getprotoent.o:	/usr/include/stdint.h
+getprotoent.o:	/usr/include/stdio.h
+getprotoent.o:	/usr/include/stdlib.h
+getprotoent.o:	/usr/include/sys/cdefs.h
+getprotoent.o:	/usr/include/sys/null.h
+getprotoent.o:	/usr/include/sys/socket.h
+getprotoent.o:	/usr/include/sys/ucred.h
+getprotoent.o:	/usr/src/lib/libc/ip/getprotoent.c

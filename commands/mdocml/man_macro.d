@@ -1,0 +1,22 @@
+
+man_macro.o:	/usr/include/ansi.h
+man_macro.o:	/usr/include/assert.h
+man_macro.o:	/usr/include/ctype.h
+man_macro.o:	/usr/include/limits.h
+man_macro.o:	/usr/include/minix/dir.h
+man_macro.o:	/usr/include/minix/limits.h
+man_macro.o:	/usr/include/minix/sys_config.h
+man_macro.o:	/usr/include/minix/types.h
+man_macro.o:	/usr/include/stddef.h
+man_macro.o:	/usr/include/stdint.h
+man_macro.o:	/usr/include/stdlib.h
+man_macro.o:	/usr/include/string.h
+man_macro.o:	/usr/include/sys/cdefs.h
+man_macro.o:	/usr/include/sys/null.h
+man_macro.o:	/usr/include/sys/types.h
+man_macro.o:	/usr/include/time.h
+man_macro.o:	config.h
+man_macro.o:	libman.h
+man_macro.o:	man.h
+man_macro.o:	man_macro.c
+man_macro.o:	mandoc.h

@@ -1,0 +1,21 @@
+
+arch.o:	/usr/include/ansi.h
+arch.o:	/usr/include/limits.h
+arch.o:	/usr/include/minix/dir.h
+arch.o:	/usr/include/minix/limits.h
+arch.o:	/usr/include/minix/sys_config.h
+arch.o:	/usr/include/minix/types.h
+arch.o:	/usr/include/stddef.h
+arch.o:	/usr/include/stdint.h
+arch.o:	/usr/include/stdlib.h
+arch.o:	/usr/include/string.h
+arch.o:	/usr/include/sys/cdefs.h
+arch.o:	/usr/include/sys/null.h
+arch.o:	/usr/include/sys/types.h
+arch.o:	/usr/include/time.h
+arch.o:	arch.c
+arch.o:	arch.in
+arch.o:	config.h
+arch.o:	libmdoc.h
+arch.o:	mandoc.h
+arch.o:	mdoc.h

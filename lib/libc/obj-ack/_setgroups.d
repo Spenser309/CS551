@@ -1,0 +1,23 @@
+
+_setgroups.o:	/usr/include/ansi.h
+_setgroups.o:	/usr/include/errno.h
+_setgroups.o:	/usr/include/lib.h
+_setgroups.o:	/usr/include/limits.h
+_setgroups.o:	/usr/include/machine/interrupt.h
+_setgroups.o:	/usr/include/minix/callnr.h
+_setgroups.o:	/usr/include/minix/com.h
+_setgroups.o:	/usr/include/minix/config.h
+_setgroups.o:	/usr/include/minix/const.h
+_setgroups.o:	/usr/include/minix/dir.h
+_setgroups.o:	/usr/include/minix/ipc.h
+_setgroups.o:	/usr/include/minix/ipcconst.h
+_setgroups.o:	/usr/include/minix/limits.h
+_setgroups.o:	/usr/include/minix/sys_config.h
+_setgroups.o:	/usr/include/minix/type.h
+_setgroups.o:	/usr/include/minix/types.h
+_setgroups.o:	/usr/include/stdint.h
+_setgroups.o:	/usr/include/sys/cdefs.h
+_setgroups.o:	/usr/include/sys/null.h
+_setgroups.o:	/usr/include/sys/ucred.h
+_setgroups.o:	/usr/include/unistd.h
+_setgroups.o:	/usr/src/lib/libc/other/_setgroups.c

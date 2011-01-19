@@ -1,0 +1,20 @@
+
+getttyent.o:	/usr/include/ansi.h
+getttyent.o:	/usr/include/fcntl.h
+getttyent.o:	/usr/include/limits.h
+getttyent.o:	/usr/include/machine/interrupt.h
+getttyent.o:	/usr/include/minix/config.h
+getttyent.o:	/usr/include/minix/dir.h
+getttyent.o:	/usr/include/minix/limits.h
+getttyent.o:	/usr/include/minix/sys_config.h
+getttyent.o:	/usr/include/minix/type.h
+getttyent.o:	/usr/include/minix/types.h
+getttyent.o:	/usr/include/stdint.h
+getttyent.o:	/usr/include/string.h
+getttyent.o:	/usr/include/sys/cdefs.h
+getttyent.o:	/usr/include/sys/null.h
+getttyent.o:	/usr/include/sys/types.h
+getttyent.o:	/usr/include/sys/ucred.h
+getttyent.o:	/usr/include/ttyent.h
+getttyent.o:	/usr/include/unistd.h
+getttyent.o:	/usr/src/lib/libc/other/getttyent.c

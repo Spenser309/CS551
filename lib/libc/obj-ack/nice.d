@@ -1,0 +1,21 @@
+
+nice.o:	/usr/include/ansi.h
+nice.o:	/usr/include/errno.h
+nice.o:	/usr/include/limits.h
+nice.o:	/usr/include/machine/interrupt.h
+nice.o:	/usr/include/minix/config.h
+nice.o:	/usr/include/minix/dir.h
+nice.o:	/usr/include/minix/limits.h
+nice.o:	/usr/include/minix/sys_config.h
+nice.o:	/usr/include/minix/type.h
+nice.o:	/usr/include/minix/types.h
+nice.o:	/usr/include/stdint.h
+nice.o:	/usr/include/string.h
+nice.o:	/usr/include/sys/cdefs.h
+nice.o:	/usr/include/sys/null.h
+nice.o:	/usr/include/sys/resource.h
+nice.o:	/usr/include/sys/select.h
+nice.o:	/usr/include/sys/time.h
+nice.o:	/usr/include/sys/ucred.h
+nice.o:	/usr/include/unistd.h
+nice.o:	/usr/src/lib/libc/posix/nice.c

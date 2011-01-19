@@ -1,0 +1,21 @@
+
+rlimit.o:	/usr/include/ansi.h
+rlimit.o:	/usr/include/errno.h
+rlimit.o:	/usr/include/limits.h
+rlimit.o:	/usr/include/machine/interrupt.h
+rlimit.o:	/usr/include/minix/config.h
+rlimit.o:	/usr/include/minix/dir.h
+rlimit.o:	/usr/include/minix/limits.h
+rlimit.o:	/usr/include/minix/sys_config.h
+rlimit.o:	/usr/include/minix/type.h
+rlimit.o:	/usr/include/minix/types.h
+rlimit.o:	/usr/include/stdint.h
+rlimit.o:	/usr/include/string.h
+rlimit.o:	/usr/include/sys/cdefs.h
+rlimit.o:	/usr/include/sys/null.h
+rlimit.o:	/usr/include/sys/resource.h
+rlimit.o:	/usr/include/sys/select.h
+rlimit.o:	/usr/include/sys/time.h
+rlimit.o:	/usr/include/sys/ucred.h
+rlimit.o:	/usr/include/unistd.h
+rlimit.o:	/usr/src/lib/libc/other/rlimit.c

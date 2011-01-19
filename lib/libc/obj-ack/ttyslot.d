@@ -1,0 +1,19 @@
+
+ttyslot.o:	/usr/include/ansi.h
+ttyslot.o:	/usr/include/limits.h
+ttyslot.o:	/usr/include/machine/interrupt.h
+ttyslot.o:	/usr/include/minix/config.h
+ttyslot.o:	/usr/include/minix/dir.h
+ttyslot.o:	/usr/include/minix/limits.h
+ttyslot.o:	/usr/include/minix/sys_config.h
+ttyslot.o:	/usr/include/minix/type.h
+ttyslot.o:	/usr/include/minix/types.h
+ttyslot.o:	/usr/include/stdint.h
+ttyslot.o:	/usr/include/string.h
+ttyslot.o:	/usr/include/sys/cdefs.h
+ttyslot.o:	/usr/include/sys/null.h
+ttyslot.o:	/usr/include/sys/types.h
+ttyslot.o:	/usr/include/sys/ucred.h
+ttyslot.o:	/usr/include/ttyent.h
+ttyslot.o:	/usr/include/unistd.h
+ttyslot.o:	/usr/src/lib/libc/other/ttyslot.c

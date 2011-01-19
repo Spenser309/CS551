@@ -1,0 +1,19 @@
+
+args.o:	/usr/include/ansi.h
+args.o:	/usr/include/ctype.h
+args.o:	/usr/include/limits.h
+args.o:	/usr/include/minix/dir.h
+args.o:	/usr/include/minix/limits.h
+args.o:	/usr/include/minix/sys_config.h
+args.o:	/usr/include/minix/types.h
+args.o:	/usr/include/stddef.h
+args.o:	/usr/include/stdint.h
+args.o:	/usr/include/stdio.h
+args.o:	/usr/include/stdlib.h
+args.o:	/usr/include/string.h
+args.o:	/usr/include/sys/cdefs.h
+args.o:	/usr/include/sys/null.h
+args.o:	/usr/include/sys/types.h
+args.o:	args.c
+args.o:	globs.h
+args.o:	proto.h

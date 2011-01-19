@@ -1,0 +1,27 @@
+
+de_stdin.o:	/usr/include/ansi.h
+de_stdin.o:	/usr/include/dirent.h
+de_stdin.o:	/usr/include/limits.h
+de_stdin.o:	/usr/include/machine/interrupt.h
+de_stdin.o:	/usr/include/minix/config.h
+de_stdin.o:	/usr/include/minix/const.h
+de_stdin.o:	/usr/include/minix/dir.h
+de_stdin.o:	/usr/include/minix/dirent.h
+de_stdin.o:	/usr/include/minix/limits.h
+de_stdin.o:	/usr/include/minix/sys_config.h
+de_stdin.o:	/usr/include/minix/type.h
+de_stdin.o:	/usr/include/minix/types.h
+de_stdin.o:	/usr/include/signal.h
+de_stdin.o:	/usr/include/stdint.h
+de_stdin.o:	/usr/include/stdio.h
+de_stdin.o:	/usr/include/sys/cdefs.h
+de_stdin.o:	/usr/include/sys/null.h
+de_stdin.o:	/usr/include/sys/queue.h
+de_stdin.o:	/usr/include/sys/types.h
+de_stdin.o:	/usr/include/sys/ucred.h
+de_stdin.o:	/usr/include/termios.h
+de_stdin.o:	/usr/include/unistd.h
+de_stdin.o:	/usr/src/servers/mfs/const.h
+de_stdin.o:	/usr/src/servers/mfs/inode.h
+de_stdin.o:	de.h
+de_stdin.o:	de_stdin.c

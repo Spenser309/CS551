@@ -1,0 +1,24 @@
+
+sort.o:	/usr/include/ansi.h
+sort.o:	/usr/include/fcntl.h
+sort.o:	/usr/include/limits.h
+sort.o:	/usr/include/machine/interrupt.h
+sort.o:	/usr/include/minix/config.h
+sort.o:	/usr/include/minix/dir.h
+sort.o:	/usr/include/minix/limits.h
+sort.o:	/usr/include/minix/sys_config.h
+sort.o:	/usr/include/minix/type.h
+sort.o:	/usr/include/minix/types.h
+sort.o:	/usr/include/signal.h
+sort.o:	/usr/include/stddef.h
+sort.o:	/usr/include/stdint.h
+sort.o:	/usr/include/stdio.h
+sort.o:	/usr/include/stdlib.h
+sort.o:	/usr/include/string.h
+sort.o:	/usr/include/sys/cdefs.h
+sort.o:	/usr/include/sys/null.h
+sort.o:	/usr/include/sys/stat.h
+sort.o:	/usr/include/sys/types.h
+sort.o:	/usr/include/sys/ucred.h
+sort.o:	/usr/include/unistd.h
+sort.o:	sort.c

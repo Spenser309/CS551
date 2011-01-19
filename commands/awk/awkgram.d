@@ -1,0 +1,19 @@
+
+awkgram.o:	/usr/include/ansi.h
+awkgram.o:	/usr/include/assert.h
+awkgram.o:	/usr/include/limits.h
+awkgram.o:	/usr/include/minix/dir.h
+awkgram.o:	/usr/include/minix/limits.h
+awkgram.o:	/usr/include/minix/sys_config.h
+awkgram.o:	/usr/include/minix/types.h
+awkgram.o:	/usr/include/stddef.h
+awkgram.o:	/usr/include/stdint.h
+awkgram.o:	/usr/include/stdio.h
+awkgram.o:	/usr/include/stdlib.h
+awkgram.o:	/usr/include/string.h
+awkgram.o:	/usr/include/sys/cdefs.h
+awkgram.o:	/usr/include/sys/null.h
+awkgram.o:	awk.h
+awkgram.o:	awkgram.c
+awkgram.o:	awkgram.y
+awkgram.o:	proto.h

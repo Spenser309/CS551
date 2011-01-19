@@ -1,0 +1,27 @@
+
+pwcache.o:	/usr/include/ansi.h
+pwcache.o:	/usr/include/assert.h
+pwcache.o:	/usr/include/grp.h
+pwcache.o:	/usr/include/limits.h
+pwcache.o:	/usr/include/machine/interrupt.h
+pwcache.o:	/usr/include/minix/config.h
+pwcache.o:	/usr/include/minix/dir.h
+pwcache.o:	/usr/include/minix/limits.h
+pwcache.o:	/usr/include/minix/sys_config.h
+pwcache.o:	/usr/include/minix/type.h
+pwcache.o:	/usr/include/minix/types.h
+pwcache.o:	/usr/include/pwd.h
+pwcache.o:	/usr/include/stddef.h
+pwcache.o:	/usr/include/stdint.h
+pwcache.o:	/usr/include/stdio.h
+pwcache.o:	/usr/include/stdlib.h
+pwcache.o:	/usr/include/string.h
+pwcache.o:	/usr/include/sys/cdefs.h
+pwcache.o:	/usr/include/sys/null.h
+pwcache.o:	/usr/include/sys/param.h
+pwcache.o:	/usr/include/sys/types.h
+pwcache.o:	/usr/include/sys/ucred.h
+pwcache.o:	/usr/include/unistd.h
+pwcache.o:	/usr/src/lib/libc/other/namespace.h
+pwcache.o:	/usr/src/lib/libc/other/pwcache.c
+pwcache.o:	/usr/src/lib/libc/other/pwcache.h

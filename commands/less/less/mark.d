@@ -1,0 +1,26 @@
+
+mark.o:	/usr/include/ansi.h
+mark.o:	/usr/include/ctype.h
+mark.o:	/usr/include/fcntl.h
+mark.o:	/usr/include/limits.h
+mark.o:	/usr/include/machine/interrupt.h
+mark.o:	/usr/include/minix/config.h
+mark.o:	/usr/include/minix/dir.h
+mark.o:	/usr/include/minix/limits.h
+mark.o:	/usr/include/minix/sys_config.h
+mark.o:	/usr/include/minix/type.h
+mark.o:	/usr/include/minix/types.h
+mark.o:	/usr/include/stddef.h
+mark.o:	/usr/include/stdint.h
+mark.o:	/usr/include/stdio.h
+mark.o:	/usr/include/stdlib.h
+mark.o:	/usr/include/string.h
+mark.o:	/usr/include/sys/cdefs.h
+mark.o:	/usr/include/sys/null.h
+mark.o:	/usr/include/sys/types.h
+mark.o:	/usr/include/sys/ucred.h
+mark.o:	/usr/include/unistd.h
+mark.o:	/usr/src/commands/less/less/defines.h
+mark.o:	funcs.h
+mark.o:	less.h
+mark.o:	mark.c

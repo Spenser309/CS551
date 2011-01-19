@@ -1,0 +1,22 @@
+
+mdoc_hash.o:	/usr/include/ansi.h
+mdoc_hash.o:	/usr/include/assert.h
+mdoc_hash.o:	/usr/include/ctype.h
+mdoc_hash.o:	/usr/include/limits.h
+mdoc_hash.o:	/usr/include/minix/dir.h
+mdoc_hash.o:	/usr/include/minix/limits.h
+mdoc_hash.o:	/usr/include/minix/sys_config.h
+mdoc_hash.o:	/usr/include/minix/types.h
+mdoc_hash.o:	/usr/include/stddef.h
+mdoc_hash.o:	/usr/include/stdint.h
+mdoc_hash.o:	/usr/include/stdio.h
+mdoc_hash.o:	/usr/include/stdlib.h
+mdoc_hash.o:	/usr/include/string.h
+mdoc_hash.o:	/usr/include/sys/cdefs.h
+mdoc_hash.o:	/usr/include/sys/null.h
+mdoc_hash.o:	/usr/include/sys/types.h
+mdoc_hash.o:	config.h
+mdoc_hash.o:	libmdoc.h
+mdoc_hash.o:	mandoc.h
+mdoc_hash.o:	mdoc.h
+mdoc_hash.o:	mdoc_hash.c

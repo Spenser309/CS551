@@ -1,0 +1,26 @@
+
+_seekdir.o:	/usr/include/ansi.h
+_seekdir.o:	/usr/include/dirent.h
+_seekdir.o:	/usr/include/errno.h
+_seekdir.o:	/usr/include/lib.h
+_seekdir.o:	/usr/include/limits.h
+_seekdir.o:	/usr/include/machine/interrupt.h
+_seekdir.o:	/usr/include/minix/callnr.h
+_seekdir.o:	/usr/include/minix/com.h
+_seekdir.o:	/usr/include/minix/config.h
+_seekdir.o:	/usr/include/minix/const.h
+_seekdir.o:	/usr/include/minix/dir.h
+_seekdir.o:	/usr/include/minix/dirent.h
+_seekdir.o:	/usr/include/minix/ipc.h
+_seekdir.o:	/usr/include/minix/ipcconst.h
+_seekdir.o:	/usr/include/minix/limits.h
+_seekdir.o:	/usr/include/minix/sys_config.h
+_seekdir.o:	/usr/include/minix/type.h
+_seekdir.o:	/usr/include/minix/types.h
+_seekdir.o:	/usr/include/stdint.h
+_seekdir.o:	/usr/include/sys/cdefs.h
+_seekdir.o:	/usr/include/sys/null.h
+_seekdir.o:	/usr/include/sys/types.h
+_seekdir.o:	/usr/include/sys/ucred.h
+_seekdir.o:	/usr/include/unistd.h
+_seekdir.o:	/usr/src/lib/libc/other/_seekdir.c

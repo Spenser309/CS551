@@ -1,0 +1,22 @@
+
+tinyhalt.o:	/usr/include/ansi.h
+tinyhalt.o:	/usr/include/fcntl.h
+tinyhalt.o:	/usr/include/limits.h
+tinyhalt.o:	/usr/include/machine/interrupt.h
+tinyhalt.o:	/usr/include/minix/config.h
+tinyhalt.o:	/usr/include/minix/dir.h
+tinyhalt.o:	/usr/include/minix/limits.h
+tinyhalt.o:	/usr/include/minix/sys_config.h
+tinyhalt.o:	/usr/include/minix/type.h
+tinyhalt.o:	/usr/include/minix/types.h
+tinyhalt.o:	/usr/include/signal.h
+tinyhalt.o:	/usr/include/stddef.h
+tinyhalt.o:	/usr/include/stdint.h
+tinyhalt.o:	/usr/include/stdlib.h
+tinyhalt.o:	/usr/include/string.h
+tinyhalt.o:	/usr/include/sys/cdefs.h
+tinyhalt.o:	/usr/include/sys/null.h
+tinyhalt.o:	/usr/include/sys/types.h
+tinyhalt.o:	/usr/include/sys/ucred.h
+tinyhalt.o:	/usr/include/unistd.h
+tinyhalt.o:	tinyhalt.c

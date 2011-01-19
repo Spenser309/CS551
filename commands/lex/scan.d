@@ -1,0 +1,20 @@
+
+scan.o:	/usr/include/ansi.h
+scan.o:	/usr/include/ctype.h
+scan.o:	/usr/include/limits.h
+scan.o:	/usr/include/minix/dir.h
+scan.o:	/usr/include/minix/limits.h
+scan.o:	/usr/include/minix/sys_config.h
+scan.o:	/usr/include/minix/types.h
+scan.o:	/usr/include/stddef.h
+scan.o:	/usr/include/stdint.h
+scan.o:	/usr/include/stdio.h
+scan.o:	/usr/include/stdlib.h
+scan.o:	/usr/include/string.h
+scan.o:	/usr/include/sys/cdefs.h
+scan.o:	/usr/include/sys/null.h
+scan.o:	/usr/include/sys/types.h
+scan.o:	config.h
+scan.o:	flexdef.h
+scan.o:	scan.c
+scan.o:	scan.l

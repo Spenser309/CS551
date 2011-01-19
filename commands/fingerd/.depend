@@ -1,0 +1,23 @@
+
+fingerd.o:	/usr/include/ansi.h
+fingerd.o:	/usr/include/ctype.h
+fingerd.o:	/usr/include/limits.h
+fingerd.o:	/usr/include/machine/interrupt.h
+fingerd.o:	/usr/include/minix/config.h
+fingerd.o:	/usr/include/minix/dir.h
+fingerd.o:	/usr/include/minix/limits.h
+fingerd.o:	/usr/include/minix/sys_config.h
+fingerd.o:	/usr/include/minix/type.h
+fingerd.o:	/usr/include/minix/types.h
+fingerd.o:	/usr/include/stddef.h
+fingerd.o:	/usr/include/stdint.h
+fingerd.o:	/usr/include/stdio.h
+fingerd.o:	/usr/include/stdlib.h
+fingerd.o:	/usr/include/string.h
+fingerd.o:	/usr/include/sys/cdefs.h
+fingerd.o:	/usr/include/sys/null.h
+fingerd.o:	/usr/include/sys/types.h
+fingerd.o:	/usr/include/sys/ucred.h
+fingerd.o:	/usr/include/sys/wait.h
+fingerd.o:	/usr/include/unistd.h
+fingerd.o:	fingerd.c

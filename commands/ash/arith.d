@@ -1,0 +1,22 @@
+
+arith.o:	/usr/include/ansi.h
+arith.o:	/usr/include/limits.h
+arith.o:	/usr/include/minix/dir.h
+arith.o:	/usr/include/minix/limits.h
+arith.o:	/usr/include/minix/types.h
+arith.o:	/usr/include/setjmp.h
+arith.o:	/usr/include/signal.h
+arith.o:	/usr/include/stdarg.h
+arith.o:	/usr/include/stddef.h
+arith.o:	/usr/include/stdio.h
+arith.o:	/usr/include/stdlib.h
+arith.o:	/usr/include/sys/null.h
+arith.o:	/usr/include/sys/types.h
+arith.o:	arith.c
+arith.o:	arith.y
+arith.o:	error.h
+arith.o:	expand.h
+arith.o:	memalloc.h
+arith.o:	output.h
+arith.o:	shell.h
+arith.o:	var.h

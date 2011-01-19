@@ -1,0 +1,24 @@
+
+profile.o:	/usr/include/ansi.h
+profile.o:	/usr/include/errno.h
+profile.o:	/usr/include/fcntl.h
+profile.o:	/usr/include/limits.h
+profile.o:	/usr/include/machine/interrupt.h
+profile.o:	/usr/include/minix/config.h
+profile.o:	/usr/include/minix/dir.h
+profile.o:	/usr/include/minix/limits.h
+profile.o:	/usr/include/minix/profile.h
+profile.o:	/usr/include/minix/sys_config.h
+profile.o:	/usr/include/minix/type.h
+profile.o:	/usr/include/minix/types.h
+profile.o:	/usr/include/stddef.h
+profile.o:	/usr/include/stdint.h
+profile.o:	/usr/include/stdio.h
+profile.o:	/usr/include/stdlib.h
+profile.o:	/usr/include/string.h
+profile.o:	/usr/include/sys/cdefs.h
+profile.o:	/usr/include/sys/null.h
+profile.o:	/usr/include/sys/stat.h
+profile.o:	/usr/include/sys/ucred.h
+profile.o:	/usr/include/unistd.h
+profile.o:	profile.c

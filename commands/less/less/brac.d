@@ -1,0 +1,27 @@
+
+brac.o:	/usr/include/ansi.h
+brac.o:	/usr/include/ctype.h
+brac.o:	/usr/include/fcntl.h
+brac.o:	/usr/include/limits.h
+brac.o:	/usr/include/machine/interrupt.h
+brac.o:	/usr/include/minix/config.h
+brac.o:	/usr/include/minix/dir.h
+brac.o:	/usr/include/minix/limits.h
+brac.o:	/usr/include/minix/sys_config.h
+brac.o:	/usr/include/minix/type.h
+brac.o:	/usr/include/minix/types.h
+brac.o:	/usr/include/stddef.h
+brac.o:	/usr/include/stdint.h
+brac.o:	/usr/include/stdio.h
+brac.o:	/usr/include/stdlib.h
+brac.o:	/usr/include/string.h
+brac.o:	/usr/include/sys/cdefs.h
+brac.o:	/usr/include/sys/null.h
+brac.o:	/usr/include/sys/types.h
+brac.o:	/usr/include/sys/ucred.h
+brac.o:	/usr/include/unistd.h
+brac.o:	/usr/src/commands/less/less/defines.h
+brac.o:	brac.c
+brac.o:	funcs.h
+brac.o:	less.h
+brac.o:	position.h

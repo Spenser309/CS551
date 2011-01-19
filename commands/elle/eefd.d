@@ -1,0 +1,27 @@
+
+eefd.o:	/usr/include/ansi.h
+eefd.o:	/usr/include/limits.h
+eefd.o:	/usr/include/machine/interrupt.h
+eefd.o:	/usr/include/minix/config.h
+eefd.o:	/usr/include/minix/dir.h
+eefd.o:	/usr/include/minix/limits.h
+eefd.o:	/usr/include/minix/sys_config.h
+eefd.o:	/usr/include/minix/type.h
+eefd.o:	/usr/include/minix/types.h
+eefd.o:	/usr/include/setjmp.h
+eefd.o:	/usr/include/stdint.h
+eefd.o:	/usr/include/stdio.h
+eefd.o:	/usr/include/string.h
+eefd.o:	/usr/include/sys/cdefs.h
+eefd.o:	/usr/include/sys/null.h
+eefd.o:	/usr/include/sys/types.h
+eefd.o:	/usr/include/sys/ucred.h
+eefd.o:	/usr/include/unistd.h
+eefd.o:	eefd.c
+eefd.o:	eefidx.h
+eefd.o:	eeprof.h
+eefd.o:	eeproto.h
+eefd.o:	eesite.h
+eefd.o:	elle.h
+eefd.o:	sb.h
+eefd.o:	sbproto.h

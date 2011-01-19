@@ -1,0 +1,19 @@
+
+err.o:	/usr/include/ansi.h
+err.o:	/usr/include/limits.h
+err.o:	/usr/include/minix/dir.h
+err.o:	/usr/include/minix/limits.h
+err.o:	/usr/include/minix/sys_config.h
+err.o:	/usr/include/minix/types.h
+err.o:	/usr/include/stdarg.h
+err.o:	/usr/include/stddef.h
+err.o:	/usr/include/stdint.h
+err.o:	/usr/include/stdio.h
+err.o:	/usr/include/stdlib.h
+err.o:	/usr/include/string.h
+err.o:	/usr/include/sys/cdefs.h
+err.o:	/usr/include/sys/null.h
+err.o:	/usr/src/commands/tar/config.h
+err.o:	/usr/src/commands/tar/libarchive_fe/err.c
+err.o:	/usr/src/commands/tar/libarchive_fe/err.h
+err.o:	/usr/src/commands/tar/libarchive_fe/lafe_platform.h

@@ -1,0 +1,27 @@
+
+format.o:	/usr/include/ansi.h
+format.o:	/usr/include/errno.h
+format.o:	/usr/include/fcntl.h
+format.o:	/usr/include/limits.h
+format.o:	/usr/include/machine/diskparm.h
+format.o:	/usr/include/machine/interrupt.h
+format.o:	/usr/include/minix/config.h
+format.o:	/usr/include/minix/dir.h
+format.o:	/usr/include/minix/limits.h
+format.o:	/usr/include/minix/minlib.h
+format.o:	/usr/include/minix/sys_config.h
+format.o:	/usr/include/minix/type.h
+format.o:	/usr/include/minix/types.h
+format.o:	/usr/include/stddef.h
+format.o:	/usr/include/stdint.h
+format.o:	/usr/include/stdio.h
+format.o:	/usr/include/stdlib.h
+format.o:	/usr/include/string.h
+format.o:	/usr/include/sys/cdefs.h
+format.o:	/usr/include/sys/null.h
+format.o:	/usr/include/sys/stat.h
+format.o:	/usr/include/sys/types.h
+format.o:	/usr/include/sys/ucred.h
+format.o:	/usr/include/time.h
+format.o:	/usr/include/unistd.h
+format.o:	format.c

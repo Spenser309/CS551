@@ -1,0 +1,22 @@
+
+_kill.o:	/usr/include/ansi.h
+_kill.o:	/usr/include/errno.h
+_kill.o:	/usr/include/lib.h
+_kill.o:	/usr/include/limits.h
+_kill.o:	/usr/include/machine/interrupt.h
+_kill.o:	/usr/include/minix/callnr.h
+_kill.o:	/usr/include/minix/com.h
+_kill.o:	/usr/include/minix/config.h
+_kill.o:	/usr/include/minix/const.h
+_kill.o:	/usr/include/minix/dir.h
+_kill.o:	/usr/include/minix/ipc.h
+_kill.o:	/usr/include/minix/ipcconst.h
+_kill.o:	/usr/include/minix/limits.h
+_kill.o:	/usr/include/minix/sys_config.h
+_kill.o:	/usr/include/minix/type.h
+_kill.o:	/usr/include/minix/types.h
+_kill.o:	/usr/include/signal.h
+_kill.o:	/usr/include/stdint.h
+_kill.o:	/usr/include/sys/cdefs.h
+_kill.o:	/usr/include/sys/null.h
+_kill.o:	/usr/src/lib/libc/posix/_kill.c

@@ -1,0 +1,20 @@
+
+decomp16.o:	/usr/include/ansi.h
+decomp16.o:	/usr/include/fcntl.h
+decomp16.o:	/usr/include/limits.h
+decomp16.o:	/usr/include/machine/interrupt.h
+decomp16.o:	/usr/include/minix/config.h
+decomp16.o:	/usr/include/minix/dir.h
+decomp16.o:	/usr/include/minix/limits.h
+decomp16.o:	/usr/include/minix/sys_config.h
+decomp16.o:	/usr/include/minix/type.h
+decomp16.o:	/usr/include/minix/types.h
+decomp16.o:	/usr/include/stddef.h
+decomp16.o:	/usr/include/stdint.h
+decomp16.o:	/usr/include/stdlib.h
+decomp16.o:	/usr/include/sys/cdefs.h
+decomp16.o:	/usr/include/sys/null.h
+decomp16.o:	/usr/include/sys/types.h
+decomp16.o:	/usr/include/sys/ucred.h
+decomp16.o:	/usr/include/unistd.h
+decomp16.o:	decomp16.c

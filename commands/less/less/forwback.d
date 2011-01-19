@@ -1,0 +1,27 @@
+
+forwback.o:	/usr/include/ansi.h
+forwback.o:	/usr/include/ctype.h
+forwback.o:	/usr/include/fcntl.h
+forwback.o:	/usr/include/limits.h
+forwback.o:	/usr/include/machine/interrupt.h
+forwback.o:	/usr/include/minix/config.h
+forwback.o:	/usr/include/minix/dir.h
+forwback.o:	/usr/include/minix/limits.h
+forwback.o:	/usr/include/minix/sys_config.h
+forwback.o:	/usr/include/minix/type.h
+forwback.o:	/usr/include/minix/types.h
+forwback.o:	/usr/include/stddef.h
+forwback.o:	/usr/include/stdint.h
+forwback.o:	/usr/include/stdio.h
+forwback.o:	/usr/include/stdlib.h
+forwback.o:	/usr/include/string.h
+forwback.o:	/usr/include/sys/cdefs.h
+forwback.o:	/usr/include/sys/null.h
+forwback.o:	/usr/include/sys/types.h
+forwback.o:	/usr/include/sys/ucred.h
+forwback.o:	/usr/include/unistd.h
+forwback.o:	/usr/src/commands/less/less/defines.h
+forwback.o:	forwback.c
+forwback.o:	funcs.h
+forwback.o:	less.h
+forwback.o:	position.h

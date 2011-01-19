@@ -1,0 +1,26 @@
+
+glob.o:	/usr/include/ansi.h
+glob.o:	/usr/include/dirent.h
+glob.o:	/usr/include/errno.h
+glob.o:	/usr/include/glob.h
+glob.o:	/usr/include/limits.h
+glob.o:	/usr/include/machine/interrupt.h
+glob.o:	/usr/include/minix/config.h
+glob.o:	/usr/include/minix/dir.h
+glob.o:	/usr/include/minix/dirent.h
+glob.o:	/usr/include/minix/limits.h
+glob.o:	/usr/include/minix/sys_config.h
+glob.o:	/usr/include/minix/type.h
+glob.o:	/usr/include/minix/types.h
+glob.o:	/usr/include/pwd.h
+glob.o:	/usr/include/stddef.h
+glob.o:	/usr/include/stdint.h
+glob.o:	/usr/include/stdio.h
+glob.o:	/usr/include/stdlib.h
+glob.o:	/usr/include/string.h
+glob.o:	/usr/include/sys/cdefs.h
+glob.o:	/usr/include/sys/null.h
+glob.o:	/usr/include/sys/stat.h
+glob.o:	/usr/include/sys/ucred.h
+glob.o:	/usr/include/unistd.h
+glob.o:	/usr/src/lib/libc/posix/glob.c

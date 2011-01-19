@@ -1,0 +1,24 @@
+
+mdbdis86.o:	/usr/include/ansi.h
+mdbdis86.o:	/usr/include/errno.h
+mdbdis86.o:	/usr/include/limits.h
+mdbdis86.o:	/usr/include/machine/interrupt.h
+mdbdis86.o:	/usr/include/minix/config.h
+mdbdis86.o:	/usr/include/minix/const.h
+mdbdis86.o:	/usr/include/minix/dir.h
+mdbdis86.o:	/usr/include/minix/ipc.h
+mdbdis86.o:	/usr/include/minix/ipcconst.h
+mdbdis86.o:	/usr/include/minix/limits.h
+mdbdis86.o:	/usr/include/minix/sys_config.h
+mdbdis86.o:	/usr/include/minix/type.h
+mdbdis86.o:	/usr/include/minix/types.h
+mdbdis86.o:	/usr/include/stddef.h
+mdbdis86.o:	/usr/include/stdint.h
+mdbdis86.o:	/usr/include/stdio.h
+mdbdis86.o:	/usr/include/sys/cdefs.h
+mdbdis86.o:	/usr/include/sys/null.h
+mdbdis86.o:	/usr/include/sys/types.h
+mdbdis86.o:	/usr/include/timers.h
+mdbdis86.o:	mdb.h
+mdbdis86.o:	mdbdis86.c
+mdbdis86.o:	proto.h

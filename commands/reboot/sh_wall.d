@@ -1,0 +1,25 @@
+
+sh_wall.o:	/usr/include/ansi.h
+sh_wall.o:	/usr/include/fcntl.h
+sh_wall.o:	/usr/include/limits.h
+sh_wall.o:	/usr/include/machine/interrupt.h
+sh_wall.o:	/usr/include/minix/config.h
+sh_wall.o:	/usr/include/minix/dir.h
+sh_wall.o:	/usr/include/minix/limits.h
+sh_wall.o:	/usr/include/minix/sys_config.h
+sh_wall.o:	/usr/include/minix/type.h
+sh_wall.o:	/usr/include/minix/types.h
+sh_wall.o:	/usr/include/pwd.h
+sh_wall.o:	/usr/include/stdint.h
+sh_wall.o:	/usr/include/stdio.h
+sh_wall.o:	/usr/include/string.h
+sh_wall.o:	/usr/include/sys/cdefs.h
+sh_wall.o:	/usr/include/sys/null.h
+sh_wall.o:	/usr/include/sys/stat.h
+sh_wall.o:	/usr/include/sys/types.h
+sh_wall.o:	/usr/include/sys/ucred.h
+sh_wall.o:	/usr/include/sys/utsname.h
+sh_wall.o:	/usr/include/time.h
+sh_wall.o:	/usr/include/unistd.h
+sh_wall.o:	/usr/include/utmp.h
+sh_wall.o:	sh_wall.c

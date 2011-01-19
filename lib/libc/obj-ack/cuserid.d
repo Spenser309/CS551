@@ -1,0 +1,26 @@
+
+cuserid.o:	/usr/include/ansi.h
+cuserid.o:	/usr/include/errno.h
+cuserid.o:	/usr/include/lib.h
+cuserid.o:	/usr/include/limits.h
+cuserid.o:	/usr/include/machine/interrupt.h
+cuserid.o:	/usr/include/minix/callnr.h
+cuserid.o:	/usr/include/minix/com.h
+cuserid.o:	/usr/include/minix/config.h
+cuserid.o:	/usr/include/minix/const.h
+cuserid.o:	/usr/include/minix/dir.h
+cuserid.o:	/usr/include/minix/ipc.h
+cuserid.o:	/usr/include/minix/ipcconst.h
+cuserid.o:	/usr/include/minix/limits.h
+cuserid.o:	/usr/include/minix/sys_config.h
+cuserid.o:	/usr/include/minix/type.h
+cuserid.o:	/usr/include/minix/types.h
+cuserid.o:	/usr/include/pwd.h
+cuserid.o:	/usr/include/stdint.h
+cuserid.o:	/usr/include/stdio.h
+cuserid.o:	/usr/include/string.h
+cuserid.o:	/usr/include/sys/cdefs.h
+cuserid.o:	/usr/include/sys/null.h
+cuserid.o:	/usr/include/sys/ucred.h
+cuserid.o:	/usr/include/unistd.h
+cuserid.o:	/usr/src/lib/libc/other/cuserid.c

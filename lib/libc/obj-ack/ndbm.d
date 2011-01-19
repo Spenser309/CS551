@@ -1,0 +1,20 @@
+
+ndbm.o:	/usr/include/ansi.h
+ndbm.o:	/usr/include/assert.h
+ndbm.o:	/usr/include/db.h
+ndbm.o:	/usr/include/fcntl.h
+ndbm.o:	/usr/include/limits.h
+ndbm.o:	/usr/include/minix/dir.h
+ndbm.o:	/usr/include/minix/limits.h
+ndbm.o:	/usr/include/minix/sys_config.h
+ndbm.o:	/usr/include/minix/types.h
+ndbm.o:	/usr/include/ndbm.h
+ndbm.o:	/usr/include/stdint.h
+ndbm.o:	/usr/include/stdio.h
+ndbm.o:	/usr/include/string.h
+ndbm.o:	/usr/include/sys/cdefs.h
+ndbm.o:	/usr/include/sys/null.h
+ndbm.o:	/usr/include/sys/param.h
+ndbm.o:	/usr/include/sys/types.h
+ndbm.o:	/usr/src/lib/libc/db/hash/hash.h
+ndbm.o:	/usr/src/lib/libc/db/hash/ndbm.c

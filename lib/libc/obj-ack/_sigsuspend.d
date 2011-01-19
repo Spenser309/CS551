@@ -1,0 +1,22 @@
+
+_sigsuspend.o:	/usr/include/ansi.h
+_sigsuspend.o:	/usr/include/errno.h
+_sigsuspend.o:	/usr/include/lib.h
+_sigsuspend.o:	/usr/include/limits.h
+_sigsuspend.o:	/usr/include/machine/interrupt.h
+_sigsuspend.o:	/usr/include/minix/callnr.h
+_sigsuspend.o:	/usr/include/minix/com.h
+_sigsuspend.o:	/usr/include/minix/config.h
+_sigsuspend.o:	/usr/include/minix/const.h
+_sigsuspend.o:	/usr/include/minix/dir.h
+_sigsuspend.o:	/usr/include/minix/ipc.h
+_sigsuspend.o:	/usr/include/minix/ipcconst.h
+_sigsuspend.o:	/usr/include/minix/limits.h
+_sigsuspend.o:	/usr/include/minix/sys_config.h
+_sigsuspend.o:	/usr/include/minix/type.h
+_sigsuspend.o:	/usr/include/minix/types.h
+_sigsuspend.o:	/usr/include/signal.h
+_sigsuspend.o:	/usr/include/stdint.h
+_sigsuspend.o:	/usr/include/sys/cdefs.h
+_sigsuspend.o:	/usr/include/sys/null.h
+_sigsuspend.o:	/usr/src/lib/libc/posix/_sigsuspend.c

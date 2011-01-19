@@ -1,0 +1,20 @@
+
+yes.o:	/usr/include/ansi.h
+yes.o:	/usr/include/limits.h
+yes.o:	/usr/include/machine/interrupt.h
+yes.o:	/usr/include/minix/config.h
+yes.o:	/usr/include/minix/dir.h
+yes.o:	/usr/include/minix/limits.h
+yes.o:	/usr/include/minix/sys_config.h
+yes.o:	/usr/include/minix/type.h
+yes.o:	/usr/include/minix/types.h
+yes.o:	/usr/include/stddef.h
+yes.o:	/usr/include/stdint.h
+yes.o:	/usr/include/stdlib.h
+yes.o:	/usr/include/string.h
+yes.o:	/usr/include/sys/cdefs.h
+yes.o:	/usr/include/sys/null.h
+yes.o:	/usr/include/sys/types.h
+yes.o:	/usr/include/sys/ucred.h
+yes.o:	/usr/include/unistd.h
+yes.o:	yes.c

@@ -1,0 +1,21 @@
+
+tty.o:	/usr/include/ansi.h
+tty.o:	/usr/include/limits.h
+tty.o:	/usr/include/machine/interrupt.h
+tty.o:	/usr/include/minix/config.h
+tty.o:	/usr/include/minix/dir.h
+tty.o:	/usr/include/minix/limits.h
+tty.o:	/usr/include/minix/sys_config.h
+tty.o:	/usr/include/minix/type.h
+tty.o:	/usr/include/minix/types.h
+tty.o:	/usr/include/stddef.h
+tty.o:	/usr/include/stdint.h
+tty.o:	/usr/include/stdio.h
+tty.o:	/usr/include/stdlib.h
+tty.o:	/usr/include/string.h
+tty.o:	/usr/include/sys/cdefs.h
+tty.o:	/usr/include/sys/null.h
+tty.o:	/usr/include/sys/types.h
+tty.o:	/usr/include/sys/ucred.h
+tty.o:	/usr/include/unistd.h
+tty.o:	tty.c

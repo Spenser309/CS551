@@ -1,0 +1,27 @@
+
+eebuff.o:	/usr/include/ansi.h
+eebuff.o:	/usr/include/limits.h
+eebuff.o:	/usr/include/machine/interrupt.h
+eebuff.o:	/usr/include/minix/config.h
+eebuff.o:	/usr/include/minix/dir.h
+eebuff.o:	/usr/include/minix/limits.h
+eebuff.o:	/usr/include/minix/sys_config.h
+eebuff.o:	/usr/include/minix/type.h
+eebuff.o:	/usr/include/minix/types.h
+eebuff.o:	/usr/include/setjmp.h
+eebuff.o:	/usr/include/stdint.h
+eebuff.o:	/usr/include/stdio.h
+eebuff.o:	/usr/include/string.h
+eebuff.o:	/usr/include/sys/cdefs.h
+eebuff.o:	/usr/include/sys/null.h
+eebuff.o:	/usr/include/sys/types.h
+eebuff.o:	/usr/include/sys/ucred.h
+eebuff.o:	/usr/include/unistd.h
+eebuff.o:	eebuff.c
+eebuff.o:	eefidx.h
+eebuff.o:	eeprof.h
+eebuff.o:	eeproto.h
+eebuff.o:	eesite.h
+eebuff.o:	elle.h
+eebuff.o:	sb.h
+eebuff.o:	sbproto.h

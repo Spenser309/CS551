@@ -1,0 +1,21 @@
+
+asmconv.o:	/usr/include/ansi.h
+asmconv.o:	/usr/include/assert.h
+asmconv.o:	/usr/include/errno.h
+asmconv.o:	/usr/include/limits.h
+asmconv.o:	/usr/include/minix/dir.h
+asmconv.o:	/usr/include/minix/limits.h
+asmconv.o:	/usr/include/minix/sys_config.h
+asmconv.o:	/usr/include/minix/types.h
+asmconv.o:	/usr/include/stdarg.h
+asmconv.o:	/usr/include/stddef.h
+asmconv.o:	/usr/include/stdint.h
+asmconv.o:	/usr/include/stdio.h
+asmconv.o:	/usr/include/stdlib.h
+asmconv.o:	/usr/include/string.h
+asmconv.o:	/usr/include/sys/cdefs.h
+asmconv.o:	/usr/include/sys/null.h
+asmconv.o:	asm86.h
+asmconv.o:	asmconv.c
+asmconv.o:	asmconv.h
+asmconv.o:	languages.h

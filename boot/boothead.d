@@ -1,0 +1,2 @@
+
+boothead.o:	boothead.s

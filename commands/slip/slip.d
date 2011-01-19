@@ -1,0 +1,27 @@
+
+slip.o:	/usr/include/ansi.h
+slip.o:	/usr/include/errno.h
+slip.o:	/usr/include/fcntl.h
+slip.o:	/usr/include/limits.h
+slip.o:	/usr/include/machine/interrupt.h
+slip.o:	/usr/include/minix/config.h
+slip.o:	/usr/include/minix/dir.h
+slip.o:	/usr/include/minix/limits.h
+slip.o:	/usr/include/minix/sys_config.h
+slip.o:	/usr/include/minix/type.h
+slip.o:	/usr/include/minix/types.h
+slip.o:	/usr/include/signal.h
+slip.o:	/usr/include/stdarg.h
+slip.o:	/usr/include/stddef.h
+slip.o:	/usr/include/stdint.h
+slip.o:	/usr/include/stdlib.h
+slip.o:	/usr/include/string.h
+slip.o:	/usr/include/sys/asynchio.h
+slip.o:	/usr/include/sys/cdefs.h
+slip.o:	/usr/include/sys/null.h
+slip.o:	/usr/include/sys/select.h
+slip.o:	/usr/include/sys/time.h
+slip.o:	/usr/include/sys/types.h
+slip.o:	/usr/include/sys/ucred.h
+slip.o:	/usr/include/unistd.h
+slip.o:	slip.c

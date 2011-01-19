@@ -1,0 +1,21 @@
+
+macsup.o:	/usr/include/ansi.h
+macsup.o:	/usr/include/limits.h
+macsup.o:	/usr/include/minix/dir.h
+macsup.o:	/usr/include/minix/limits.h
+macsup.o:	/usr/include/minix/sys_config.h
+macsup.o:	/usr/include/minix/types.h
+macsup.o:	/usr/include/stddef.h
+macsup.o:	/usr/include/stdint.h
+macsup.o:	/usr/include/stdio.h
+macsup.o:	/usr/include/stdlib.h
+macsup.o:	/usr/include/string.h
+macsup.o:	/usr/include/sys/cdefs.h
+macsup.o:	/usr/include/sys/null.h
+macsup.o:	/usr/include/sys/types.h
+macsup.o:	ansi.h
+macsup.o:	cawf.h
+macsup.o:	cawflib.h
+macsup.o:	macsup.c
+macsup.o:	proto.h
+macsup.o:	regexp.h

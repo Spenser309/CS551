@@ -1,0 +1,26 @@
+
+asctime.o:	/usr/include/ansi.h
+asctime.o:	/usr/include/errno.h
+asctime.o:	/usr/include/limits.h
+asctime.o:	/usr/include/machine/interrupt.h
+asctime.o:	/usr/include/minix/config.h
+asctime.o:	/usr/include/minix/dir.h
+asctime.o:	/usr/include/minix/limits.h
+asctime.o:	/usr/include/minix/sys_config.h
+asctime.o:	/usr/include/minix/type.h
+asctime.o:	/usr/include/minix/types.h
+asctime.o:	/usr/include/stddef.h
+asctime.o:	/usr/include/stdint.h
+asctime.o:	/usr/include/stdio.h
+asctime.o:	/usr/include/stdlib.h
+asctime.o:	/usr/include/string.h
+asctime.o:	/usr/include/sys/cdefs.h
+asctime.o:	/usr/include/sys/null.h
+asctime.o:	/usr/include/sys/types.h
+asctime.o:	/usr/include/sys/ucred.h
+asctime.o:	/usr/include/sys/wait.h
+asctime.o:	/usr/include/time.h
+asctime.o:	/usr/include/tzfile.h
+asctime.o:	/usr/include/unistd.h
+asctime.o:	/usr/src/lib/libc/stdtime/asctime.c
+asctime.o:	/usr/src/lib/libc/stdtime/private.h

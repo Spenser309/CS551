@@ -1,0 +1,23 @@
+
+_fstatfs.o:	/usr/include/ansi.h
+_fstatfs.o:	/usr/include/errno.h
+_fstatfs.o:	/usr/include/lib.h
+_fstatfs.o:	/usr/include/limits.h
+_fstatfs.o:	/usr/include/machine/interrupt.h
+_fstatfs.o:	/usr/include/minix/callnr.h
+_fstatfs.o:	/usr/include/minix/com.h
+_fstatfs.o:	/usr/include/minix/config.h
+_fstatfs.o:	/usr/include/minix/const.h
+_fstatfs.o:	/usr/include/minix/dir.h
+_fstatfs.o:	/usr/include/minix/ipc.h
+_fstatfs.o:	/usr/include/minix/ipcconst.h
+_fstatfs.o:	/usr/include/minix/limits.h
+_fstatfs.o:	/usr/include/minix/sys_config.h
+_fstatfs.o:	/usr/include/minix/type.h
+_fstatfs.o:	/usr/include/minix/types.h
+_fstatfs.o:	/usr/include/stdint.h
+_fstatfs.o:	/usr/include/sys/cdefs.h
+_fstatfs.o:	/usr/include/sys/null.h
+_fstatfs.o:	/usr/include/sys/stat.h
+_fstatfs.o:	/usr/include/sys/statfs.h
+_fstatfs.o:	/usr/src/lib/libc/posix/_fstatfs.c

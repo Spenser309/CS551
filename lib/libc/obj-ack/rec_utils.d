@@ -1,0 +1,25 @@
+
+rec_utils.o:	/usr/include/ansi.h
+rec_utils.o:	/usr/include/assert.h
+rec_utils.o:	/usr/include/db.h
+rec_utils.o:	/usr/include/limits.h
+rec_utils.o:	/usr/include/minix/dir.h
+rec_utils.o:	/usr/include/minix/limits.h
+rec_utils.o:	/usr/include/minix/sys_config.h
+rec_utils.o:	/usr/include/minix/types.h
+rec_utils.o:	/usr/include/mpool.h
+rec_utils.o:	/usr/include/stddef.h
+rec_utils.o:	/usr/include/stdint.h
+rec_utils.o:	/usr/include/stdio.h
+rec_utils.o:	/usr/include/stdlib.h
+rec_utils.o:	/usr/include/string.h
+rec_utils.o:	/usr/include/sys/cdefs.h
+rec_utils.o:	/usr/include/sys/null.h
+rec_utils.o:	/usr/include/sys/param.h
+rec_utils.o:	/usr/include/sys/queue.h
+rec_utils.o:	/usr/include/sys/types.h
+rec_utils.o:	/usr/src/lib/libc/db/recno/../btree/btree.h
+rec_utils.o:	/usr/src/lib/libc/db/recno/../btree/extern.h
+rec_utils.o:	/usr/src/lib/libc/db/recno/extern.h
+rec_utils.o:	/usr/src/lib/libc/db/recno/rec_utils.c
+rec_utils.o:	/usr/src/lib/libc/db/recno/recno.h

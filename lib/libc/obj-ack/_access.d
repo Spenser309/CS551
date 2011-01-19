@@ -1,0 +1,23 @@
+
+_access.o:	/usr/include/ansi.h
+_access.o:	/usr/include/errno.h
+_access.o:	/usr/include/lib.h
+_access.o:	/usr/include/limits.h
+_access.o:	/usr/include/machine/interrupt.h
+_access.o:	/usr/include/minix/callnr.h
+_access.o:	/usr/include/minix/com.h
+_access.o:	/usr/include/minix/config.h
+_access.o:	/usr/include/minix/const.h
+_access.o:	/usr/include/minix/dir.h
+_access.o:	/usr/include/minix/ipc.h
+_access.o:	/usr/include/minix/ipcconst.h
+_access.o:	/usr/include/minix/limits.h
+_access.o:	/usr/include/minix/sys_config.h
+_access.o:	/usr/include/minix/type.h
+_access.o:	/usr/include/minix/types.h
+_access.o:	/usr/include/stdint.h
+_access.o:	/usr/include/sys/cdefs.h
+_access.o:	/usr/include/sys/null.h
+_access.o:	/usr/include/sys/ucred.h
+_access.o:	/usr/include/unistd.h
+_access.o:	/usr/src/lib/libc/posix/_access.c

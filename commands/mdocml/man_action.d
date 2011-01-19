@@ -1,0 +1,22 @@
+
+man_action.o:	/usr/include/ansi.h
+man_action.o:	/usr/include/assert.h
+man_action.o:	/usr/include/limits.h
+man_action.o:	/usr/include/minix/dir.h
+man_action.o:	/usr/include/minix/limits.h
+man_action.o:	/usr/include/minix/sys_config.h
+man_action.o:	/usr/include/minix/types.h
+man_action.o:	/usr/include/stddef.h
+man_action.o:	/usr/include/stdint.h
+man_action.o:	/usr/include/stdlib.h
+man_action.o:	/usr/include/string.h
+man_action.o:	/usr/include/sys/cdefs.h
+man_action.o:	/usr/include/sys/null.h
+man_action.o:	/usr/include/sys/types.h
+man_action.o:	/usr/include/time.h
+man_action.o:	config.h
+man_action.o:	libman.h
+man_action.o:	libmandoc.h
+man_action.o:	man.h
+man_action.o:	man_action.c
+man_action.o:	mandoc.h

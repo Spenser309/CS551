@@ -1,0 +1,20 @@
+
+sethostent.o:	/usr/include/ansi.h
+sethostent.o:	/usr/include/inttypes.h
+sethostent.o:	/usr/include/limits.h
+sethostent.o:	/usr/include/minix/dir.h
+sethostent.o:	/usr/include/minix/limits.h
+sethostent.o:	/usr/include/minix/sys_config.h
+sethostent.o:	/usr/include/minix/types.h
+sethostent.o:	/usr/include/net/gen/in.h
+sethostent.o:	/usr/include/net/gen/nameser.h
+sethostent.o:	/usr/include/net/gen/netdb.h
+sethostent.o:	/usr/include/net/gen/resolv.h
+sethostent.o:	/usr/include/net/gen/socket.h
+sethostent.o:	/usr/include/netinet/in.h
+sethostent.o:	/usr/include/stdint.h
+sethostent.o:	/usr/include/sys/cdefs.h
+sethostent.o:	/usr/include/sys/socket.h
+sethostent.o:	/usr/include/sys/types.h
+sethostent.o:	/usr/include/sys/ucred.h
+sethostent.o:	/usr/src/lib/libc/ip/sethostent.c

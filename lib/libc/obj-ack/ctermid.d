@@ -1,0 +1,23 @@
+
+ctermid.o:	/usr/include/ansi.h
+ctermid.o:	/usr/include/errno.h
+ctermid.o:	/usr/include/lib.h
+ctermid.o:	/usr/include/limits.h
+ctermid.o:	/usr/include/machine/interrupt.h
+ctermid.o:	/usr/include/minix/callnr.h
+ctermid.o:	/usr/include/minix/com.h
+ctermid.o:	/usr/include/minix/config.h
+ctermid.o:	/usr/include/minix/const.h
+ctermid.o:	/usr/include/minix/dir.h
+ctermid.o:	/usr/include/minix/ipc.h
+ctermid.o:	/usr/include/minix/ipcconst.h
+ctermid.o:	/usr/include/minix/limits.h
+ctermid.o:	/usr/include/minix/sys_config.h
+ctermid.o:	/usr/include/minix/type.h
+ctermid.o:	/usr/include/minix/types.h
+ctermid.o:	/usr/include/stdint.h
+ctermid.o:	/usr/include/stdio.h
+ctermid.o:	/usr/include/string.h
+ctermid.o:	/usr/include/sys/cdefs.h
+ctermid.o:	/usr/include/sys/null.h
+ctermid.o:	/usr/src/lib/libc/other/ctermid.c

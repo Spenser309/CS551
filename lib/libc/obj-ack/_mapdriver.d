@@ -1,0 +1,24 @@
+
+_mapdriver.o:	/usr/include/ansi.h
+_mapdriver.o:	/usr/include/errno.h
+_mapdriver.o:	/usr/include/lib.h
+_mapdriver.o:	/usr/include/limits.h
+_mapdriver.o:	/usr/include/machine/interrupt.h
+_mapdriver.o:	/usr/include/minix/callnr.h
+_mapdriver.o:	/usr/include/minix/com.h
+_mapdriver.o:	/usr/include/minix/config.h
+_mapdriver.o:	/usr/include/minix/const.h
+_mapdriver.o:	/usr/include/minix/dir.h
+_mapdriver.o:	/usr/include/minix/ipc.h
+_mapdriver.o:	/usr/include/minix/ipcconst.h
+_mapdriver.o:	/usr/include/minix/limits.h
+_mapdriver.o:	/usr/include/minix/sys_config.h
+_mapdriver.o:	/usr/include/minix/type.h
+_mapdriver.o:	/usr/include/minix/types.h
+_mapdriver.o:	/usr/include/stdint.h
+_mapdriver.o:	/usr/include/string.h
+_mapdriver.o:	/usr/include/sys/cdefs.h
+_mapdriver.o:	/usr/include/sys/null.h
+_mapdriver.o:	/usr/include/sys/ucred.h
+_mapdriver.o:	/usr/include/unistd.h
+_mapdriver.o:	/usr/src/lib/libc/other/_mapdriver.c

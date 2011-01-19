@@ -1,0 +1,23 @@
+
+pread.o:	/usr/include/ansi.h
+pread.o:	/usr/include/errno.h
+pread.o:	/usr/include/lib.h
+pread.o:	/usr/include/limits.h
+pread.o:	/usr/include/machine/interrupt.h
+pread.o:	/usr/include/minix/callnr.h
+pread.o:	/usr/include/minix/com.h
+pread.o:	/usr/include/minix/config.h
+pread.o:	/usr/include/minix/const.h
+pread.o:	/usr/include/minix/dir.h
+pread.o:	/usr/include/minix/ipc.h
+pread.o:	/usr/include/minix/ipcconst.h
+pread.o:	/usr/include/minix/limits.h
+pread.o:	/usr/include/minix/sys_config.h
+pread.o:	/usr/include/minix/type.h
+pread.o:	/usr/include/minix/types.h
+pread.o:	/usr/include/stdint.h
+pread.o:	/usr/include/sys/cdefs.h
+pread.o:	/usr/include/sys/null.h
+pread.o:	/usr/include/sys/ucred.h
+pread.o:	/usr/include/unistd.h
+pread.o:	/usr/src/lib/libc/posix/pread.c

@@ -1,0 +1,27 @@
+
+ftp.o:	/usr/include/ansi.h
+ftp.o:	/usr/include/ctype.h
+ftp.o:	/usr/include/limits.h
+ftp.o:	/usr/include/machine/interrupt.h
+ftp.o:	/usr/include/minix/config.h
+ftp.o:	/usr/include/minix/dir.h
+ftp.o:	/usr/include/minix/limits.h
+ftp.o:	/usr/include/minix/sys_config.h
+ftp.o:	/usr/include/minix/type.h
+ftp.o:	/usr/include/minix/types.h
+ftp.o:	/usr/include/stddef.h
+ftp.o:	/usr/include/stdint.h
+ftp.o:	/usr/include/stdio.h
+ftp.o:	/usr/include/stdlib.h
+ftp.o:	/usr/include/string.h
+ftp.o:	/usr/include/sys/cdefs.h
+ftp.o:	/usr/include/sys/null.h
+ftp.o:	/usr/include/sys/types.h
+ftp.o:	/usr/include/sys/ucred.h
+ftp.o:	/usr/include/unistd.h
+ftp.o:	file.h
+ftp.o:	ftp.c
+ftp.o:	ftp.h
+ftp.o:	local.h
+ftp.o:	net.h
+ftp.o:	other.h

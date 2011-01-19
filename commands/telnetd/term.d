@@ -1,0 +1,25 @@
+
+term.o:	/usr/include/ansi.h
+term.o:	/usr/include/errno.h
+term.o:	/usr/include/limits.h
+term.o:	/usr/include/machine/interrupt.h
+term.o:	/usr/include/minix/config.h
+term.o:	/usr/include/minix/dir.h
+term.o:	/usr/include/minix/limits.h
+term.o:	/usr/include/minix/sys_config.h
+term.o:	/usr/include/minix/type.h
+term.o:	/usr/include/minix/types.h
+term.o:	/usr/include/signal.h
+term.o:	/usr/include/stddef.h
+term.o:	/usr/include/stdint.h
+term.o:	/usr/include/stdio.h
+term.o:	/usr/include/stdlib.h
+term.o:	/usr/include/string.h
+term.o:	/usr/include/sys/cdefs.h
+term.o:	/usr/include/sys/null.h
+term.o:	/usr/include/sys/types.h
+term.o:	/usr/include/sys/ucred.h
+term.o:	/usr/include/unistd.h
+term.o:	telnet.h
+term.o:	telnetd.h
+term.o:	term.c

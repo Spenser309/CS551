@@ -1,0 +1,21 @@
+
+swab.o:	/usr/include/ansi.h
+swab.o:	/usr/include/errno.h
+swab.o:	/usr/include/lib.h
+swab.o:	/usr/include/limits.h
+swab.o:	/usr/include/machine/interrupt.h
+swab.o:	/usr/include/minix/callnr.h
+swab.o:	/usr/include/minix/com.h
+swab.o:	/usr/include/minix/config.h
+swab.o:	/usr/include/minix/const.h
+swab.o:	/usr/include/minix/dir.h
+swab.o:	/usr/include/minix/ipc.h
+swab.o:	/usr/include/minix/ipcconst.h
+swab.o:	/usr/include/minix/limits.h
+swab.o:	/usr/include/minix/sys_config.h
+swab.o:	/usr/include/minix/type.h
+swab.o:	/usr/include/minix/types.h
+swab.o:	/usr/include/stdint.h
+swab.o:	/usr/include/sys/cdefs.h
+swab.o:	/usr/include/sys/null.h
+swab.o:	/usr/src/lib/libc/other/swab.c

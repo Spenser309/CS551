@@ -1,0 +1,22 @@
+
+bt_split.o:	/usr/include/ansi.h
+bt_split.o:	/usr/include/assert.h
+bt_split.o:	/usr/include/db.h
+bt_split.o:	/usr/include/limits.h
+bt_split.o:	/usr/include/minix/dir.h
+bt_split.o:	/usr/include/minix/limits.h
+bt_split.o:	/usr/include/minix/sys_config.h
+bt_split.o:	/usr/include/minix/types.h
+bt_split.o:	/usr/include/mpool.h
+bt_split.o:	/usr/include/stddef.h
+bt_split.o:	/usr/include/stdint.h
+bt_split.o:	/usr/include/stdio.h
+bt_split.o:	/usr/include/stdlib.h
+bt_split.o:	/usr/include/string.h
+bt_split.o:	/usr/include/sys/cdefs.h
+bt_split.o:	/usr/include/sys/null.h
+bt_split.o:	/usr/include/sys/queue.h
+bt_split.o:	/usr/include/sys/types.h
+bt_split.o:	/usr/src/lib/libc/db/btree/bt_split.c
+bt_split.o:	/usr/src/lib/libc/db/btree/btree.h
+bt_split.o:	/usr/src/lib/libc/db/btree/extern.h

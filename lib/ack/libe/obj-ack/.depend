@@ -1,0 +1,93 @@
+
+em_adi.o:	/usr/src/lib/ack/libe/arch/i386/em/em_adi.s
+
+em_and.o:	/usr/src/lib/ack/libe/arch/i386/em/em_and.s
+
+em_blm.o:	/usr/src/lib/ack/libe/arch/i386/em/em_blm.s
+
+em_cii.o:	/usr/src/lib/ack/libe/arch/i386/em/em_cii.s
+
+em_cms.o:	/usr/src/lib/ack/libe/arch/i386/em/em_cms.s
+
+em_com.o:	/usr/src/lib/ack/libe/arch/i386/em/em_com.s
+
+em_csa4.o:	/usr/src/lib/ack/libe/arch/i386/em/em_csa4.s
+
+em_csb4.o:	/usr/src/lib/ack/libe/arch/i386/em/em_csb4.s
+
+em_cuu.o:	/usr/src/lib/ack/libe/arch/i386/em/em_cuu.s
+
+em_dup.o:	/usr/src/lib/ack/libe/arch/i386/em/em_dup.s
+
+em_dvi.o:	/usr/src/lib/ack/libe/arch/i386/em/em_dvi.s
+
+em_dvu.o:	/usr/src/lib/ack/libe/arch/i386/em/em_dvu.s
+
+em_error.o:	/usr/src/lib/ack/libe/arch/i386/em/em_error.s
+
+em_exg.o:	/usr/src/lib/ack/libe/arch/i386/em/em_exg.s
+
+em_fat.o:	/usr/src/lib/ack/libe/arch/i386/em/em_fat.s
+
+em_fp8087.o:	/usr/src/lib/ack/libe/arch/i386/em/em_fp8087.s
+
+em_gto.o:	/usr/src/lib/ack/libe/arch/i386/em/em_gto.s
+
+em_head.o:	/usr/src/lib/ack/libe/arch/i386/head/em_abs.h
+em_head.o:	/usr/src/lib/ack/libe/arch/i386/head/em_head.s
+
+em_hol0.o:	/usr/src/lib/ack/libe/arch/i386/em/em_hol0.s
+
+em_iaar.o:	/usr/src/lib/ack/libe/arch/i386/em/em_iaar.s
+
+em_ilar.o:	/usr/src/lib/ack/libe/arch/i386/em/em_ilar.s
+
+em_inn.o:	/usr/src/lib/ack/libe/arch/i386/em/em_inn.s
+
+em_ior.o:	/usr/src/lib/ack/libe/arch/i386/em/em_ior.s
+
+em_isar.o:	/usr/src/lib/ack/libe/arch/i386/em/em_isar.s
+
+em_lar4.o:	/usr/src/lib/ack/libe/arch/i386/em/em_lar4.s
+
+em_loi.o:	/usr/src/lib/ack/libe/arch/i386/em/em_loi.s
+
+em_mli.o:	/usr/src/lib/ack/libe/arch/i386/em/em_mli.s
+
+em_mon.o:	/usr/src/lib/ack/libe/arch/i386/em/em_mon.s
+
+em_ngi.o:	/usr/src/lib/ack/libe/arch/i386/em/em_ngi.s
+
+em_nop.o:	/usr/src/lib/ack/libe/arch/i386/em/em_nop.s
+
+em_print.o:	/usr/src/lib/ack/libe/arch/i386/em/em_print.s
+
+em_rck.o:	/usr/src/lib/ack/libe/arch/i386/em/em_rck.s
+
+em_rmi.o:	/usr/src/lib/ack/libe/arch/i386/em/em_rmi.s
+
+em_rmu.o:	/usr/src/lib/ack/libe/arch/i386/em/em_rmu.s
+
+em_rol.o:	/usr/src/lib/ack/libe/arch/i386/em/em_rol.s
+
+em_ror.o:	/usr/src/lib/ack/libe/arch/i386/em/em_ror.s
+
+em_sar4.o:	/usr/src/lib/ack/libe/arch/i386/em/em_sar4.s
+
+em_sbi.o:	/usr/src/lib/ack/libe/arch/i386/em/em_sbi.s
+
+em_set.o:	/usr/src/lib/ack/libe/arch/i386/em/em_set.s
+
+em_sli.o:	/usr/src/lib/ack/libe/arch/i386/em/em_sli.s
+
+em_sri.o:	/usr/src/lib/ack/libe/arch/i386/em/em_sri.s
+
+em_sti.o:	/usr/src/lib/ack/libe/arch/i386/em/em_sti.s
+
+em_stop.o:	/usr/src/lib/ack/libe/arch/i386/em/em_stop.s
+
+em_trp.o:	/usr/src/lib/ack/libe/arch/i386/em/em_trp.s
+
+em_unknown.o:	/usr/src/lib/ack/libe/arch/i386/em/em_unknown.s
+
+em_xor.o:	/usr/src/lib/ack/libe/arch/i386/em/em_xor.s

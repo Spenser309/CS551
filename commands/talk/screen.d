@@ -1,0 +1,26 @@
+
+screen.o:	/usr/include/ansi.h
+screen.o:	/usr/include/ctype.h
+screen.o:	/usr/include/curses.h
+screen.o:	/usr/include/limits.h
+screen.o:	/usr/include/machine/interrupt.h
+screen.o:	/usr/include/minix/config.h
+screen.o:	/usr/include/minix/dir.h
+screen.o:	/usr/include/minix/limits.h
+screen.o:	/usr/include/minix/sys_config.h
+screen.o:	/usr/include/minix/type.h
+screen.o:	/usr/include/minix/types.h
+screen.o:	/usr/include/signal.h
+screen.o:	/usr/include/stdarg.h
+screen.o:	/usr/include/stdint.h
+screen.o:	/usr/include/stdio.h
+screen.o:	/usr/include/string.h
+screen.o:	/usr/include/sys/cdefs.h
+screen.o:	/usr/include/sys/null.h
+screen.o:	/usr/include/sys/stat.h
+screen.o:	/usr/include/sys/types.h
+screen.o:	/usr/include/sys/ucred.h
+screen.o:	/usr/include/termios.h
+screen.o:	/usr/include/unistd.h
+screen.o:	screen.c
+screen.o:	screen.h

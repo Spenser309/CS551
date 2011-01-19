@@ -1,0 +1,20 @@
+
+write.o:	/usr/include/ansi.h
+write.o:	/usr/include/limits.h
+write.o:	/usr/include/machine/interrupt.h
+write.o:	/usr/include/minix/config.h
+write.o:	/usr/include/minix/dir.h
+write.o:	/usr/include/minix/limits.h
+write.o:	/usr/include/minix/sys_config.h
+write.o:	/usr/include/minix/type.h
+write.o:	/usr/include/minix/types.h
+write.o:	/usr/include/stdint.h
+write.o:	/usr/include/sys/cdefs.h
+write.o:	/usr/include/sys/null.h
+write.o:	/usr/include/sys/types.h
+write.o:	/usr/include/sys/ucred.h
+write.o:	/usr/include/unistd.h
+write.o:	/usr/src/commands/aal/system.h
+write.o:	system.h
+write.o:	write.c
+write.o:	write.h

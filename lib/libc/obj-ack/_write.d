@@ -1,0 +1,23 @@
+
+_write.o:	/usr/include/ansi.h
+_write.o:	/usr/include/errno.h
+_write.o:	/usr/include/lib.h
+_write.o:	/usr/include/limits.h
+_write.o:	/usr/include/machine/interrupt.h
+_write.o:	/usr/include/minix/callnr.h
+_write.o:	/usr/include/minix/com.h
+_write.o:	/usr/include/minix/config.h
+_write.o:	/usr/include/minix/const.h
+_write.o:	/usr/include/minix/dir.h
+_write.o:	/usr/include/minix/ipc.h
+_write.o:	/usr/include/minix/ipcconst.h
+_write.o:	/usr/include/minix/limits.h
+_write.o:	/usr/include/minix/sys_config.h
+_write.o:	/usr/include/minix/type.h
+_write.o:	/usr/include/minix/types.h
+_write.o:	/usr/include/stdint.h
+_write.o:	/usr/include/sys/cdefs.h
+_write.o:	/usr/include/sys/null.h
+_write.o:	/usr/include/sys/ucred.h
+_write.o:	/usr/include/unistd.h
+_write.o:	/usr/src/lib/libc/posix/_write.c

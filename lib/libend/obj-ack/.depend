@@ -1,0 +1,8 @@
+
+edata.o:	/usr/src/lib/libend/edata.S
+
+em_end.o:	/usr/src/lib/libend/em_end.S
+
+end.o:	/usr/src/lib/libend/end.S
+
+etext.o:	/usr/src/lib/libend/etext.S

@@ -1,0 +1,21 @@
+
+man_argv.o:	/usr/include/ansi.h
+man_argv.o:	/usr/include/assert.h
+man_argv.o:	/usr/include/limits.h
+man_argv.o:	/usr/include/minix/dir.h
+man_argv.o:	/usr/include/minix/limits.h
+man_argv.o:	/usr/include/minix/sys_config.h
+man_argv.o:	/usr/include/minix/types.h
+man_argv.o:	/usr/include/stddef.h
+man_argv.o:	/usr/include/stdint.h
+man_argv.o:	/usr/include/stdlib.h
+man_argv.o:	/usr/include/string.h
+man_argv.o:	/usr/include/sys/cdefs.h
+man_argv.o:	/usr/include/sys/null.h
+man_argv.o:	/usr/include/sys/types.h
+man_argv.o:	/usr/include/time.h
+man_argv.o:	config.h
+man_argv.o:	libman.h
+man_argv.o:	man.h
+man_argv.o:	man_argv.c
+man_argv.o:	mandoc.h

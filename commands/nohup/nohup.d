@@ -1,0 +1,23 @@
+
+nohup.o:	/usr/include/ansi.h
+nohup.o:	/usr/include/errno.h
+nohup.o:	/usr/include/fcntl.h
+nohup.o:	/usr/include/limits.h
+nohup.o:	/usr/include/machine/interrupt.h
+nohup.o:	/usr/include/minix/config.h
+nohup.o:	/usr/include/minix/dir.h
+nohup.o:	/usr/include/minix/limits.h
+nohup.o:	/usr/include/minix/sys_config.h
+nohup.o:	/usr/include/minix/type.h
+nohup.o:	/usr/include/minix/types.h
+nohup.o:	/usr/include/signal.h
+nohup.o:	/usr/include/stddef.h
+nohup.o:	/usr/include/stdint.h
+nohup.o:	/usr/include/stdio.h
+nohup.o:	/usr/include/stdlib.h
+nohup.o:	/usr/include/sys/cdefs.h
+nohup.o:	/usr/include/sys/null.h
+nohup.o:	/usr/include/sys/stat.h
+nohup.o:	/usr/include/sys/ucred.h
+nohup.o:	/usr/include/unistd.h
+nohup.o:	nohup.c

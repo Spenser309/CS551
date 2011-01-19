@@ -1,0 +1,26 @@
+
+_tcsetattr.o:	/usr/include/ansi.h
+_tcsetattr.o:	/usr/include/errno.h
+_tcsetattr.o:	/usr/include/limits.h
+_tcsetattr.o:	/usr/include/minix/dir.h
+_tcsetattr.o:	/usr/include/minix/ioctl.h
+_tcsetattr.o:	/usr/include/minix/limits.h
+_tcsetattr.o:	/usr/include/minix/sys_config.h
+_tcsetattr.o:	/usr/include/minix/types.h
+_tcsetattr.o:	/usr/include/net/ioctl.h
+_tcsetattr.o:	/usr/include/stdint.h
+_tcsetattr.o:	/usr/include/string.h
+_tcsetattr.o:	/usr/include/sys/cdefs.h
+_tcsetattr.o:	/usr/include/sys/ioc_cmos.h
+_tcsetattr.o:	/usr/include/sys/ioc_disk.h
+_tcsetattr.o:	/usr/include/sys/ioc_file.h
+_tcsetattr.o:	/usr/include/sys/ioc_memory.h
+_tcsetattr.o:	/usr/include/sys/ioc_scsi.h
+_tcsetattr.o:	/usr/include/sys/ioc_sound.h
+_tcsetattr.o:	/usr/include/sys/ioc_tape.h
+_tcsetattr.o:	/usr/include/sys/ioc_tty.h
+_tcsetattr.o:	/usr/include/sys/ioctl.h
+_tcsetattr.o:	/usr/include/sys/null.h
+_tcsetattr.o:	/usr/include/sys/un.h
+_tcsetattr.o:	/usr/include/termios.h
+_tcsetattr.o:	/usr/src/lib/libc/posix/_tcsetattr.c

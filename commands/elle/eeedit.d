@@ -1,0 +1,27 @@
+
+eeedit.o:	/usr/include/ansi.h
+eeedit.o:	/usr/include/limits.h
+eeedit.o:	/usr/include/machine/interrupt.h
+eeedit.o:	/usr/include/minix/config.h
+eeedit.o:	/usr/include/minix/dir.h
+eeedit.o:	/usr/include/minix/limits.h
+eeedit.o:	/usr/include/minix/sys_config.h
+eeedit.o:	/usr/include/minix/type.h
+eeedit.o:	/usr/include/minix/types.h
+eeedit.o:	/usr/include/setjmp.h
+eeedit.o:	/usr/include/stdint.h
+eeedit.o:	/usr/include/stdio.h
+eeedit.o:	/usr/include/string.h
+eeedit.o:	/usr/include/sys/cdefs.h
+eeedit.o:	/usr/include/sys/null.h
+eeedit.o:	/usr/include/sys/types.h
+eeedit.o:	/usr/include/sys/ucred.h
+eeedit.o:	/usr/include/unistd.h
+eeedit.o:	eeedit.c
+eeedit.o:	eefidx.h
+eeedit.o:	eeprof.h
+eeedit.o:	eeproto.h
+eeedit.o:	eesite.h
+eeedit.o:	elle.h
+eeedit.o:	sb.h
+eeedit.o:	sbproto.h

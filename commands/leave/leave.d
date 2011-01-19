@@ -1,0 +1,24 @@
+
+leave.o:	/usr/include/ansi.h
+leave.o:	/usr/include/limits.h
+leave.o:	/usr/include/machine/interrupt.h
+leave.o:	/usr/include/minix/config.h
+leave.o:	/usr/include/minix/dir.h
+leave.o:	/usr/include/minix/limits.h
+leave.o:	/usr/include/minix/sys_config.h
+leave.o:	/usr/include/minix/type.h
+leave.o:	/usr/include/minix/types.h
+leave.o:	/usr/include/signal.h
+leave.o:	/usr/include/stddef.h
+leave.o:	/usr/include/stdint.h
+leave.o:	/usr/include/stdio.h
+leave.o:	/usr/include/stdlib.h
+leave.o:	/usr/include/string.h
+leave.o:	/usr/include/sys/cdefs.h
+leave.o:	/usr/include/sys/null.h
+leave.o:	/usr/include/sys/types.h
+leave.o:	/usr/include/sys/ucred.h
+leave.o:	/usr/include/time.h
+leave.o:	/usr/include/unistd.h
+leave.o:	/usr/include/utmp.h
+leave.o:	leave.c

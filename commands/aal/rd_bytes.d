@@ -1,0 +1,19 @@
+
+rd_bytes.o:	/usr/include/ansi.h
+rd_bytes.o:	/usr/include/limits.h
+rd_bytes.o:	/usr/include/machine/interrupt.h
+rd_bytes.o:	/usr/include/minix/config.h
+rd_bytes.o:	/usr/include/minix/dir.h
+rd_bytes.o:	/usr/include/minix/limits.h
+rd_bytes.o:	/usr/include/minix/sys_config.h
+rd_bytes.o:	/usr/include/minix/type.h
+rd_bytes.o:	/usr/include/minix/types.h
+rd_bytes.o:	/usr/include/stdint.h
+rd_bytes.o:	/usr/include/sys/cdefs.h
+rd_bytes.o:	/usr/include/sys/null.h
+rd_bytes.o:	/usr/include/sys/types.h
+rd_bytes.o:	/usr/include/sys/ucred.h
+rd_bytes.o:	/usr/include/unistd.h
+rd_bytes.o:	archiver.h
+rd_bytes.o:	rd_bytes.c
+rd_bytes.o:	rd_bytes.h

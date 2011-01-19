@@ -1,0 +1,21 @@
+
+emit_gnu.o:	/usr/include/ansi.h
+emit_gnu.o:	/usr/include/assert.h
+emit_gnu.o:	/usr/include/limits.h
+emit_gnu.o:	/usr/include/minix/dir.h
+emit_gnu.o:	/usr/include/minix/limits.h
+emit_gnu.o:	/usr/include/minix/sys_config.h
+emit_gnu.o:	/usr/include/minix/types.h
+emit_gnu.o:	/usr/include/stdarg.h
+emit_gnu.o:	/usr/include/stddef.h
+emit_gnu.o:	/usr/include/stdint.h
+emit_gnu.o:	/usr/include/stdio.h
+emit_gnu.o:	/usr/include/stdlib.h
+emit_gnu.o:	/usr/include/string.h
+emit_gnu.o:	/usr/include/sys/cdefs.h
+emit_gnu.o:	/usr/include/sys/null.h
+emit_gnu.o:	asm86.h
+emit_gnu.o:	asmconv.h
+emit_gnu.o:	emit_gnu.c
+emit_gnu.o:	languages.h
+emit_gnu.o:	token.h

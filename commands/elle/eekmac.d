@@ -1,0 +1,27 @@
+
+eekmac.o:	/usr/include/ansi.h
+eekmac.o:	/usr/include/limits.h
+eekmac.o:	/usr/include/machine/interrupt.h
+eekmac.o:	/usr/include/minix/config.h
+eekmac.o:	/usr/include/minix/dir.h
+eekmac.o:	/usr/include/minix/limits.h
+eekmac.o:	/usr/include/minix/sys_config.h
+eekmac.o:	/usr/include/minix/type.h
+eekmac.o:	/usr/include/minix/types.h
+eekmac.o:	/usr/include/setjmp.h
+eekmac.o:	/usr/include/stdint.h
+eekmac.o:	/usr/include/stdio.h
+eekmac.o:	/usr/include/string.h
+eekmac.o:	/usr/include/sys/cdefs.h
+eekmac.o:	/usr/include/sys/null.h
+eekmac.o:	/usr/include/sys/types.h
+eekmac.o:	/usr/include/sys/ucred.h
+eekmac.o:	/usr/include/unistd.h
+eekmac.o:	eefidx.h
+eekmac.o:	eekmac.c
+eekmac.o:	eeprof.h
+eekmac.o:	eeproto.h
+eekmac.o:	eesite.h
+eekmac.o:	elle.h
+eekmac.o:	sb.h
+eekmac.o:	sbproto.h

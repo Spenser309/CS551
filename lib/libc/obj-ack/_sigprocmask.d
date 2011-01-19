@@ -1,0 +1,22 @@
+
+_sigprocmask.o:	/usr/include/ansi.h
+_sigprocmask.o:	/usr/include/errno.h
+_sigprocmask.o:	/usr/include/lib.h
+_sigprocmask.o:	/usr/include/limits.h
+_sigprocmask.o:	/usr/include/machine/interrupt.h
+_sigprocmask.o:	/usr/include/minix/callnr.h
+_sigprocmask.o:	/usr/include/minix/com.h
+_sigprocmask.o:	/usr/include/minix/config.h
+_sigprocmask.o:	/usr/include/minix/const.h
+_sigprocmask.o:	/usr/include/minix/dir.h
+_sigprocmask.o:	/usr/include/minix/ipc.h
+_sigprocmask.o:	/usr/include/minix/ipcconst.h
+_sigprocmask.o:	/usr/include/minix/limits.h
+_sigprocmask.o:	/usr/include/minix/sys_config.h
+_sigprocmask.o:	/usr/include/minix/type.h
+_sigprocmask.o:	/usr/include/minix/types.h
+_sigprocmask.o:	/usr/include/signal.h
+_sigprocmask.o:	/usr/include/stdint.h
+_sigprocmask.o:	/usr/include/sys/cdefs.h
+_sigprocmask.o:	/usr/include/sys/null.h
+_sigprocmask.o:	/usr/src/lib/libc/posix/_sigprocmask.c

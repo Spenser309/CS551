@@ -1,0 +1,23 @@
+
+_geteuid.o:	/usr/include/ansi.h
+_geteuid.o:	/usr/include/errno.h
+_geteuid.o:	/usr/include/lib.h
+_geteuid.o:	/usr/include/limits.h
+_geteuid.o:	/usr/include/machine/interrupt.h
+_geteuid.o:	/usr/include/minix/callnr.h
+_geteuid.o:	/usr/include/minix/com.h
+_geteuid.o:	/usr/include/minix/config.h
+_geteuid.o:	/usr/include/minix/const.h
+_geteuid.o:	/usr/include/minix/dir.h
+_geteuid.o:	/usr/include/minix/ipc.h
+_geteuid.o:	/usr/include/minix/ipcconst.h
+_geteuid.o:	/usr/include/minix/limits.h
+_geteuid.o:	/usr/include/minix/sys_config.h
+_geteuid.o:	/usr/include/minix/type.h
+_geteuid.o:	/usr/include/minix/types.h
+_geteuid.o:	/usr/include/stdint.h
+_geteuid.o:	/usr/include/sys/cdefs.h
+_geteuid.o:	/usr/include/sys/null.h
+_geteuid.o:	/usr/include/sys/ucred.h
+_geteuid.o:	/usr/include/unistd.h
+_geteuid.o:	/usr/src/lib/libc/posix/_geteuid.c

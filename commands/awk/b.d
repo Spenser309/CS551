@@ -1,0 +1,20 @@
+
+b.o:	/usr/include/ansi.h
+b.o:	/usr/include/assert.h
+b.o:	/usr/include/ctype.h
+b.o:	/usr/include/limits.h
+b.o:	/usr/include/minix/dir.h
+b.o:	/usr/include/minix/limits.h
+b.o:	/usr/include/minix/sys_config.h
+b.o:	/usr/include/minix/types.h
+b.o:	/usr/include/stddef.h
+b.o:	/usr/include/stdint.h
+b.o:	/usr/include/stdio.h
+b.o:	/usr/include/stdlib.h
+b.o:	/usr/include/string.h
+b.o:	/usr/include/sys/cdefs.h
+b.o:	/usr/include/sys/null.h
+b.o:	awk.h
+b.o:	awkgram.h
+b.o:	b.c
+b.o:	proto.h

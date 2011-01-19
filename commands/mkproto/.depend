@@ -1,0 +1,24 @@
+
+mkproto.o:	/usr/include/ansi.h
+mkproto.o:	/usr/include/dirent.h
+mkproto.o:	/usr/include/limits.h
+mkproto.o:	/usr/include/machine/interrupt.h
+mkproto.o:	/usr/include/minix/config.h
+mkproto.o:	/usr/include/minix/dir.h
+mkproto.o:	/usr/include/minix/dirent.h
+mkproto.o:	/usr/include/minix/limits.h
+mkproto.o:	/usr/include/minix/sys_config.h
+mkproto.o:	/usr/include/minix/type.h
+mkproto.o:	/usr/include/minix/types.h
+mkproto.o:	/usr/include/stddef.h
+mkproto.o:	/usr/include/stdint.h
+mkproto.o:	/usr/include/stdio.h
+mkproto.o:	/usr/include/stdlib.h
+mkproto.o:	/usr/include/string.h
+mkproto.o:	/usr/include/sys/cdefs.h
+mkproto.o:	/usr/include/sys/null.h
+mkproto.o:	/usr/include/sys/stat.h
+mkproto.o:	/usr/include/sys/types.h
+mkproto.o:	/usr/include/sys/ucred.h
+mkproto.o:	/usr/include/unistd.h
+mkproto.o:	mkproto.c

@@ -1,0 +1,26 @@
+
+calendar.o:	/usr/include/ansi.h
+calendar.o:	/usr/include/limits.h
+calendar.o:	/usr/include/machine/interrupt.h
+calendar.o:	/usr/include/minix/config.h
+calendar.o:	/usr/include/minix/dir.h
+calendar.o:	/usr/include/minix/limits.h
+calendar.o:	/usr/include/minix/sys_config.h
+calendar.o:	/usr/include/minix/type.h
+calendar.o:	/usr/include/minix/types.h
+calendar.o:	/usr/include/regexp.h
+calendar.o:	/usr/include/stddef.h
+calendar.o:	/usr/include/stdint.h
+calendar.o:	/usr/include/stdio.h
+calendar.o:	/usr/include/stdlib.h
+calendar.o:	/usr/include/string.h
+calendar.o:	/usr/include/sys/cdefs.h
+calendar.o:	/usr/include/sys/null.h
+calendar.o:	/usr/include/sys/stat.h
+calendar.o:	/usr/include/sys/types.h
+calendar.o:	/usr/include/sys/ucred.h
+calendar.o:	/usr/include/termcap.h
+calendar.o:	/usr/include/time.h
+calendar.o:	/usr/include/unistd.h
+calendar.o:	/usr/include/utime.h
+calendar.o:	calendar.c

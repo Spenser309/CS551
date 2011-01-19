@@ -1,0 +1,24 @@
+
+_dup.o:	/usr/include/ansi.h
+_dup.o:	/usr/include/errno.h
+_dup.o:	/usr/include/fcntl.h
+_dup.o:	/usr/include/lib.h
+_dup.o:	/usr/include/limits.h
+_dup.o:	/usr/include/machine/interrupt.h
+_dup.o:	/usr/include/minix/callnr.h
+_dup.o:	/usr/include/minix/com.h
+_dup.o:	/usr/include/minix/config.h
+_dup.o:	/usr/include/minix/const.h
+_dup.o:	/usr/include/minix/dir.h
+_dup.o:	/usr/include/minix/ipc.h
+_dup.o:	/usr/include/minix/ipcconst.h
+_dup.o:	/usr/include/minix/limits.h
+_dup.o:	/usr/include/minix/sys_config.h
+_dup.o:	/usr/include/minix/type.h
+_dup.o:	/usr/include/minix/types.h
+_dup.o:	/usr/include/stdint.h
+_dup.o:	/usr/include/sys/cdefs.h
+_dup.o:	/usr/include/sys/null.h
+_dup.o:	/usr/include/sys/ucred.h
+_dup.o:	/usr/include/unistd.h
+_dup.o:	/usr/src/lib/libc/posix/_dup.c

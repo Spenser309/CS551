@@ -1,0 +1,26 @@
+
+umount.o:	/usr/include/ansi.h
+umount.o:	/usr/include/errno.h
+umount.o:	/usr/include/fcntl.h
+umount.o:	/usr/include/limits.h
+umount.o:	/usr/include/machine/interrupt.h
+umount.o:	/usr/include/minix/config.h
+umount.o:	/usr/include/minix/dir.h
+umount.o:	/usr/include/minix/limits.h
+umount.o:	/usr/include/minix/minlib.h
+umount.o:	/usr/include/minix/sys_config.h
+umount.o:	/usr/include/minix/type.h
+umount.o:	/usr/include/minix/types.h
+umount.o:	/usr/include/stddef.h
+umount.o:	/usr/include/stdint.h
+umount.o:	/usr/include/stdio.h
+umount.o:	/usr/include/stdlib.h
+umount.o:	/usr/include/string.h
+umount.o:	/usr/include/sys/cdefs.h
+umount.o:	/usr/include/sys/mount.h
+umount.o:	/usr/include/sys/null.h
+umount.o:	/usr/include/sys/stat.h
+umount.o:	/usr/include/sys/types.h
+umount.o:	/usr/include/sys/ucred.h
+umount.o:	/usr/include/unistd.h
+umount.o:	umount.c

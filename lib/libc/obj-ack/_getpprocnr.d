@@ -1,0 +1,23 @@
+
+_getpprocnr.o:	/usr/include/ansi.h
+_getpprocnr.o:	/usr/include/errno.h
+_getpprocnr.o:	/usr/include/lib.h
+_getpprocnr.o:	/usr/include/limits.h
+_getpprocnr.o:	/usr/include/machine/interrupt.h
+_getpprocnr.o:	/usr/include/minix/callnr.h
+_getpprocnr.o:	/usr/include/minix/com.h
+_getpprocnr.o:	/usr/include/minix/config.h
+_getpprocnr.o:	/usr/include/minix/const.h
+_getpprocnr.o:	/usr/include/minix/dir.h
+_getpprocnr.o:	/usr/include/minix/ipc.h
+_getpprocnr.o:	/usr/include/minix/ipcconst.h
+_getpprocnr.o:	/usr/include/minix/limits.h
+_getpprocnr.o:	/usr/include/minix/sys_config.h
+_getpprocnr.o:	/usr/include/minix/type.h
+_getpprocnr.o:	/usr/include/minix/types.h
+_getpprocnr.o:	/usr/include/stdint.h
+_getpprocnr.o:	/usr/include/sys/cdefs.h
+_getpprocnr.o:	/usr/include/sys/null.h
+_getpprocnr.o:	/usr/include/sys/ucred.h
+_getpprocnr.o:	/usr/include/unistd.h
+_getpprocnr.o:	/usr/src/lib/libc/other/_getpprocnr.c

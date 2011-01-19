@@ -1,0 +1,25 @@
+
+life.o:	/usr/include/ansi.h
+life.o:	/usr/include/curses.h
+life.o:	/usr/include/limits.h
+life.o:	/usr/include/machine/interrupt.h
+life.o:	/usr/include/minix/config.h
+life.o:	/usr/include/minix/dir.h
+life.o:	/usr/include/minix/limits.h
+life.o:	/usr/include/minix/sys_config.h
+life.o:	/usr/include/minix/type.h
+life.o:	/usr/include/minix/types.h
+life.o:	/usr/include/signal.h
+life.o:	/usr/include/stdarg.h
+life.o:	/usr/include/stddef.h
+life.o:	/usr/include/stdint.h
+life.o:	/usr/include/stdio.h
+life.o:	/usr/include/stdlib.h
+life.o:	/usr/include/sys/cdefs.h
+life.o:	/usr/include/sys/null.h
+life.o:	/usr/include/sys/types.h
+life.o:	/usr/include/sys/ucred.h
+life.o:	/usr/include/termios.h
+life.o:	/usr/include/time.h
+life.o:	/usr/include/unistd.h
+life.o:	life.c

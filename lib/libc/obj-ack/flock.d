@@ -1,0 +1,20 @@
+
+flock.o:	/usr/include/ansi.h
+flock.o:	/usr/include/errno.h
+flock.o:	/usr/include/fcntl.h
+flock.o:	/usr/include/limits.h
+flock.o:	/usr/include/machine/interrupt.h
+flock.o:	/usr/include/minix/config.h
+flock.o:	/usr/include/minix/dir.h
+flock.o:	/usr/include/minix/limits.h
+flock.o:	/usr/include/minix/sys_config.h
+flock.o:	/usr/include/minix/type.h
+flock.o:	/usr/include/minix/types.h
+flock.o:	/usr/include/stdint.h
+flock.o:	/usr/include/string.h
+flock.o:	/usr/include/sys/cdefs.h
+flock.o:	/usr/include/sys/null.h
+flock.o:	/usr/include/sys/types.h
+flock.o:	/usr/include/sys/ucred.h
+flock.o:	/usr/include/unistd.h
+flock.o:	/usr/src/lib/libc/other/flock.c

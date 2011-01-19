@@ -1,0 +1,24 @@
+
+acknm.o:	/usr/include/a.out.h
+acknm.o:	/usr/include/ansi.h
+acknm.o:	/usr/include/fcntl.h
+acknm.o:	/usr/include/limits.h
+acknm.o:	/usr/include/machine/interrupt.h
+acknm.o:	/usr/include/minix/a.out.h
+acknm.o:	/usr/include/minix/config.h
+acknm.o:	/usr/include/minix/dir.h
+acknm.o:	/usr/include/minix/limits.h
+acknm.o:	/usr/include/minix/sys_config.h
+acknm.o:	/usr/include/minix/type.h
+acknm.o:	/usr/include/minix/types.h
+acknm.o:	/usr/include/stddef.h
+acknm.o:	/usr/include/stdint.h
+acknm.o:	/usr/include/stdio.h
+acknm.o:	/usr/include/stdlib.h
+acknm.o:	/usr/include/string.h
+acknm.o:	/usr/include/sys/cdefs.h
+acknm.o:	/usr/include/sys/null.h
+acknm.o:	/usr/include/sys/types.h
+acknm.o:	/usr/include/sys/ucred.h
+acknm.o:	/usr/include/unistd.h
+acknm.o:	acknm.c

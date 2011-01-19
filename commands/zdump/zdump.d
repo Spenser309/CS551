@@ -1,0 +1,19 @@
+
+zdump.o:	/usr/include/ansi.h
+zdump.o:	/usr/include/ctype.h
+zdump.o:	/usr/include/float.h
+zdump.o:	/usr/include/limits.h
+zdump.o:	/usr/include/minix/dir.h
+zdump.o:	/usr/include/minix/limits.h
+zdump.o:	/usr/include/minix/sys_config.h
+zdump.o:	/usr/include/minix/types.h
+zdump.o:	/usr/include/stddef.h
+zdump.o:	/usr/include/stdint.h
+zdump.o:	/usr/include/stdio.h
+zdump.o:	/usr/include/stdlib.h
+zdump.o:	/usr/include/string.h
+zdump.o:	/usr/include/sys/cdefs.h
+zdump.o:	/usr/include/sys/null.h
+zdump.o:	/usr/include/sys/types.h
+zdump.o:	/usr/include/time.h
+zdump.o:	/usr/src/lib/libc/stdtime/zdump.c

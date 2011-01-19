@@ -1,0 +1,23 @@
+
+mdoc_argv.o:	/usr/include/ansi.h
+mdoc_argv.o:	/usr/include/assert.h
+mdoc_argv.o:	/usr/include/ctype.h
+mdoc_argv.o:	/usr/include/limits.h
+mdoc_argv.o:	/usr/include/minix/dir.h
+mdoc_argv.o:	/usr/include/minix/limits.h
+mdoc_argv.o:	/usr/include/minix/sys_config.h
+mdoc_argv.o:	/usr/include/minix/types.h
+mdoc_argv.o:	/usr/include/stddef.h
+mdoc_argv.o:	/usr/include/stdint.h
+mdoc_argv.o:	/usr/include/stdio.h
+mdoc_argv.o:	/usr/include/stdlib.h
+mdoc_argv.o:	/usr/include/string.h
+mdoc_argv.o:	/usr/include/sys/cdefs.h
+mdoc_argv.o:	/usr/include/sys/null.h
+mdoc_argv.o:	/usr/include/sys/types.h
+mdoc_argv.o:	config.h
+mdoc_argv.o:	libmandoc.h
+mdoc_argv.o:	libmdoc.h
+mdoc_argv.o:	mandoc.h
+mdoc_argv.o:	mdoc.h
+mdoc_argv.o:	mdoc_argv.c

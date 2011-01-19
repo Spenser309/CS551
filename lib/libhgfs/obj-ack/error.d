@@ -1,0 +1,23 @@
+
+error.o:	/usr/include/ansi.h
+error.o:	/usr/include/errno.h
+error.o:	/usr/include/hgfs.h
+error.o:	/usr/include/limits.h
+error.o:	/usr/include/minix/config.h
+error.o:	/usr/include/minix/const.h
+error.o:	/usr/include/minix/dir.h
+error.o:	/usr/include/minix/limits.h
+error.o:	/usr/include/minix/sys_config.h
+error.o:	/usr/include/minix/types.h
+error.o:	/usr/include/minix/u64.h
+error.o:	/usr/include/stdint.h
+error.o:	/usr/include/string.h
+error.o:	/usr/include/sys/cdefs.h
+error.o:	/usr/include/sys/null.h
+error.o:	/usr/include/sys/types.h
+error.o:	/usr/src/lib/libhgfs/const.h
+error.o:	/usr/src/lib/libhgfs/error.c
+error.o:	/usr/src/lib/libhgfs/glo.h
+error.o:	/usr/src/lib/libhgfs/inc.h
+error.o:	/usr/src/lib/libhgfs/proto.h
+error.o:	/usr/src/lib/libhgfs/type.h

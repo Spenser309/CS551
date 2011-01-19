@@ -1,0 +1,27 @@
+
+ci.o:	/usr/include/ansi.h
+ci.o:	/usr/include/fcntl.h
+ci.o:	/usr/include/limits.h
+ci.o:	/usr/include/machine/interrupt.h
+ci.o:	/usr/include/minix/config.h
+ci.o:	/usr/include/minix/dir.h
+ci.o:	/usr/include/minix/limits.h
+ci.o:	/usr/include/minix/sys_config.h
+ci.o:	/usr/include/minix/type.h
+ci.o:	/usr/include/minix/types.h
+ci.o:	/usr/include/pwd.h
+ci.o:	/usr/include/signal.h
+ci.o:	/usr/include/stddef.h
+ci.o:	/usr/include/stdint.h
+ci.o:	/usr/include/stdio.h
+ci.o:	/usr/include/stdlib.h
+ci.o:	/usr/include/string.h
+ci.o:	/usr/include/sys/cdefs.h
+ci.o:	/usr/include/sys/null.h
+ci.o:	/usr/include/sys/stat.h
+ci.o:	/usr/include/sys/types.h
+ci.o:	/usr/include/sys/ucred.h
+ci.o:	/usr/include/sys/wait.h
+ci.o:	/usr/include/time.h
+ci.o:	/usr/include/unistd.h
+ci.o:	ci.c

@@ -1,0 +1,22 @@
+
+tee.o:	/usr/include/ansi.h
+tee.o:	/usr/include/fcntl.h
+tee.o:	/usr/include/limits.h
+tee.o:	/usr/include/machine/interrupt.h
+tee.o:	/usr/include/minix/config.h
+tee.o:	/usr/include/minix/dir.h
+tee.o:	/usr/include/minix/limits.h
+tee.o:	/usr/include/minix/minlib.h
+tee.o:	/usr/include/minix/sys_config.h
+tee.o:	/usr/include/minix/type.h
+tee.o:	/usr/include/minix/types.h
+tee.o:	/usr/include/signal.h
+tee.o:	/usr/include/stddef.h
+tee.o:	/usr/include/stdint.h
+tee.o:	/usr/include/stdlib.h
+tee.o:	/usr/include/sys/cdefs.h
+tee.o:	/usr/include/sys/null.h
+tee.o:	/usr/include/sys/types.h
+tee.o:	/usr/include/sys/ucred.h
+tee.o:	/usr/include/unistd.h
+tee.o:	tee.c

@@ -1,0 +1,19 @@
+
+tokenize.o:	/usr/include/ansi.h
+tokenize.o:	/usr/include/assert.h
+tokenize.o:	/usr/include/limits.h
+tokenize.o:	/usr/include/minix/dir.h
+tokenize.o:	/usr/include/minix/limits.h
+tokenize.o:	/usr/include/minix/sys_config.h
+tokenize.o:	/usr/include/minix/types.h
+tokenize.o:	/usr/include/stdarg.h
+tokenize.o:	/usr/include/stddef.h
+tokenize.o:	/usr/include/stdint.h
+tokenize.o:	/usr/include/stdio.h
+tokenize.o:	/usr/include/stdlib.h
+tokenize.o:	/usr/include/string.h
+tokenize.o:	/usr/include/sys/cdefs.h
+tokenize.o:	/usr/include/sys/null.h
+tokenize.o:	asmconv.h
+tokenize.o:	token.h
+tokenize.o:	tokenize.c

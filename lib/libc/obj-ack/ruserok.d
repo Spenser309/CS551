@@ -1,0 +1,27 @@
+
+ruserok.o:	/usr/include/ansi.h
+ruserok.o:	/usr/include/ctype.h
+ruserok.o:	/usr/include/errno.h
+ruserok.o:	/usr/include/inttypes.h
+ruserok.o:	/usr/include/limits.h
+ruserok.o:	/usr/include/minix/dir.h
+ruserok.o:	/usr/include/minix/limits.h
+ruserok.o:	/usr/include/minix/sys_config.h
+ruserok.o:	/usr/include/minix/types.h
+ruserok.o:	/usr/include/net/gen/in.h
+ruserok.o:	/usr/include/net/gen/inet.h
+ruserok.o:	/usr/include/net/gen/nameser.h
+ruserok.o:	/usr/include/net/gen/netdb.h
+ruserok.o:	/usr/include/net/gen/socket.h
+ruserok.o:	/usr/include/net/hton.h
+ruserok.o:	/usr/include/netinet/in.h
+ruserok.o:	/usr/include/pwd.h
+ruserok.o:	/usr/include/stdint.h
+ruserok.o:	/usr/include/stdio.h
+ruserok.o:	/usr/include/string.h
+ruserok.o:	/usr/include/sys/cdefs.h
+ruserok.o:	/usr/include/sys/null.h
+ruserok.o:	/usr/include/sys/socket.h
+ruserok.o:	/usr/include/sys/types.h
+ruserok.o:	/usr/include/sys/ucred.h
+ruserok.o:	/usr/src/lib/libc/ip/ruserok.c

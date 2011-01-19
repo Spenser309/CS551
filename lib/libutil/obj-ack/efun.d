@@ -1,0 +1,23 @@
+
+efun.o:	/usr/include/ansi.h
+efun.o:	/usr/include/err.h
+efun.o:	/usr/include/errno.h
+efun.o:	/usr/include/limits.h
+efun.o:	/usr/include/minix/dir.h
+efun.o:	/usr/include/minix/limits.h
+efun.o:	/usr/include/minix/sys_config.h
+efun.o:	/usr/include/minix/types.h
+efun.o:	/usr/include/pwd.h
+efun.o:	/usr/include/stdarg.h
+efun.o:	/usr/include/stddef.h
+efun.o:	/usr/include/stdint.h
+efun.o:	/usr/include/stdio.h
+efun.o:	/usr/include/stdlib.h
+efun.o:	/usr/include/string.h
+efun.o:	/usr/include/sys/cdefs.h
+efun.o:	/usr/include/sys/null.h
+efun.o:	/usr/include/sys/types.h
+efun.o:	/usr/include/termios.h
+efun.o:	/usr/include/util.h
+efun.o:	/usr/include/utmp.h
+efun.o:	/usr/src/lib/libutil/efun.c

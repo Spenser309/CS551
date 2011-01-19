@@ -1,0 +1,21 @@
+
+queue.o:	/usr/include/ansi.h
+queue.o:	/usr/include/limits.h
+queue.o:	/usr/include/minix/dir.h
+queue.o:	/usr/include/minix/limits.h
+queue.o:	/usr/include/minix/sys_config.h
+queue.o:	/usr/include/minix/types.h
+queue.o:	/usr/include/regex.h
+queue.o:	/usr/include/stddef.h
+queue.o:	/usr/include/stdint.h
+queue.o:	/usr/include/stdio.h
+queue.o:	/usr/include/stdlib.h
+queue.o:	/usr/include/string.h
+queue.o:	/usr/include/sys/cdefs.h
+queue.o:	/usr/include/sys/null.h
+queue.o:	/usr/include/sys/param.h
+queue.o:	/usr/include/sys/types.h
+queue.o:	/usr/include/zconf.h
+queue.o:	/usr/include/zlib.h
+queue.o:	grep.h
+queue.o:	queue.c

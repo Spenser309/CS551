@@ -1,0 +1,19 @@
+
+malloc.o:	/usr/include/ansi.h
+malloc.o:	/usr/include/assert.h
+malloc.o:	/usr/include/errno.h
+malloc.o:	/usr/include/limits.h
+malloc.o:	/usr/include/minix/dir.h
+malloc.o:	/usr/include/minix/limits.h
+malloc.o:	/usr/include/minix/sys_config.h
+malloc.o:	/usr/include/minix/types.h
+malloc.o:	/usr/include/minix/u64.h
+malloc.o:	/usr/include/stddef.h
+malloc.o:	/usr/include/stdint.h
+malloc.o:	/usr/include/stdlib.h
+malloc.o:	/usr/include/string.h
+malloc.o:	/usr/include/sys/cdefs.h
+malloc.o:	/usr/include/sys/null.h
+malloc.o:	/usr/include/sys/types.h
+malloc.o:	/usr/src/lib/libc/ansi/malloc-debug.h
+malloc.o:	/usr/src/lib/libc/ansi/malloc.c

@@ -1,0 +1,22 @@
+
+split.o:	/usr/include/ansi.h
+split.o:	/usr/include/fcntl.h
+split.o:	/usr/include/limits.h
+split.o:	/usr/include/machine/interrupt.h
+split.o:	/usr/include/minix/config.h
+split.o:	/usr/include/minix/dir.h
+split.o:	/usr/include/minix/limits.h
+split.o:	/usr/include/minix/minlib.h
+split.o:	/usr/include/minix/sys_config.h
+split.o:	/usr/include/minix/type.h
+split.o:	/usr/include/minix/types.h
+split.o:	/usr/include/stddef.h
+split.o:	/usr/include/stdint.h
+split.o:	/usr/include/stdlib.h
+split.o:	/usr/include/string.h
+split.o:	/usr/include/sys/cdefs.h
+split.o:	/usr/include/sys/null.h
+split.o:	/usr/include/sys/types.h
+split.o:	/usr/include/sys/ucred.h
+split.o:	/usr/include/unistd.h
+split.o:	split.c

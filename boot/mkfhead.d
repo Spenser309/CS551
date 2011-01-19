@@ -1,0 +1,2 @@
+
+mkfhead.o:	mkfhead.s

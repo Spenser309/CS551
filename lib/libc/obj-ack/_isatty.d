@@ -1,0 +1,24 @@
+
+_isatty.o:	/usr/include/ansi.h
+_isatty.o:	/usr/include/errno.h
+_isatty.o:	/usr/include/lib.h
+_isatty.o:	/usr/include/limits.h
+_isatty.o:	/usr/include/machine/interrupt.h
+_isatty.o:	/usr/include/minix/callnr.h
+_isatty.o:	/usr/include/minix/com.h
+_isatty.o:	/usr/include/minix/config.h
+_isatty.o:	/usr/include/minix/const.h
+_isatty.o:	/usr/include/minix/dir.h
+_isatty.o:	/usr/include/minix/ipc.h
+_isatty.o:	/usr/include/minix/ipcconst.h
+_isatty.o:	/usr/include/minix/limits.h
+_isatty.o:	/usr/include/minix/sys_config.h
+_isatty.o:	/usr/include/minix/type.h
+_isatty.o:	/usr/include/minix/types.h
+_isatty.o:	/usr/include/stdint.h
+_isatty.o:	/usr/include/sys/cdefs.h
+_isatty.o:	/usr/include/sys/null.h
+_isatty.o:	/usr/include/sys/ucred.h
+_isatty.o:	/usr/include/termios.h
+_isatty.o:	/usr/include/unistd.h
+_isatty.o:	/usr/src/lib/libc/posix/_isatty.c

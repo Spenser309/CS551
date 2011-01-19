@@ -1,0 +1,25 @@
+
+mdoc_term.o:	/usr/include/ansi.h
+mdoc_term.o:	/usr/include/assert.h
+mdoc_term.o:	/usr/include/ctype.h
+mdoc_term.o:	/usr/include/limits.h
+mdoc_term.o:	/usr/include/minix/dir.h
+mdoc_term.o:	/usr/include/minix/limits.h
+mdoc_term.o:	/usr/include/minix/sys_config.h
+mdoc_term.o:	/usr/include/minix/types.h
+mdoc_term.o:	/usr/include/stddef.h
+mdoc_term.o:	/usr/include/stdint.h
+mdoc_term.o:	/usr/include/stdio.h
+mdoc_term.o:	/usr/include/stdlib.h
+mdoc_term.o:	/usr/include/string.h
+mdoc_term.o:	/usr/include/sys/cdefs.h
+mdoc_term.o:	/usr/include/sys/null.h
+mdoc_term.o:	/usr/include/sys/types.h
+mdoc_term.o:	chars.h
+mdoc_term.o:	config.h
+mdoc_term.o:	main.h
+mdoc_term.o:	mandoc.h
+mdoc_term.o:	mdoc.h
+mdoc_term.o:	mdoc_term.c
+mdoc_term.o:	out.h
+mdoc_term.o:	term.h

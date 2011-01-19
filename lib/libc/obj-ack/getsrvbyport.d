@@ -1,0 +1,19 @@
+
+getsrvbyport.o:	/usr/include/ansi.h
+getsrvbyport.o:	/usr/include/inttypes.h
+getsrvbyport.o:	/usr/include/limits.h
+getsrvbyport.o:	/usr/include/minix/dir.h
+getsrvbyport.o:	/usr/include/minix/limits.h
+getsrvbyport.o:	/usr/include/minix/sys_config.h
+getsrvbyport.o:	/usr/include/minix/types.h
+getsrvbyport.o:	/usr/include/net/gen/netdb.h
+getsrvbyport.o:	/usr/include/net/gen/socket.h
+getsrvbyport.o:	/usr/include/netinet/in.h
+getsrvbyport.o:	/usr/include/stddef.h
+getsrvbyport.o:	/usr/include/stdint.h
+getsrvbyport.o:	/usr/include/string.h
+getsrvbyport.o:	/usr/include/sys/cdefs.h
+getsrvbyport.o:	/usr/include/sys/null.h
+getsrvbyport.o:	/usr/include/sys/socket.h
+getsrvbyport.o:	/usr/include/sys/ucred.h
+getsrvbyport.o:	/usr/src/lib/libc/ip/getsrvbyport.c

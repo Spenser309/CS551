@@ -1,0 +1,26 @@
+
+logwtmp.o:	/usr/include/ansi.h
+logwtmp.o:	/usr/include/fcntl.h
+logwtmp.o:	/usr/include/limits.h
+logwtmp.o:	/usr/include/machine/interrupt.h
+logwtmp.o:	/usr/include/minix/config.h
+logwtmp.o:	/usr/include/minix/dir.h
+logwtmp.o:	/usr/include/minix/limits.h
+logwtmp.o:	/usr/include/minix/sys_config.h
+logwtmp.o:	/usr/include/minix/type.h
+logwtmp.o:	/usr/include/minix/types.h
+logwtmp.o:	/usr/include/stddef.h
+logwtmp.o:	/usr/include/stdint.h
+logwtmp.o:	/usr/include/stdlib.h
+logwtmp.o:	/usr/include/string.h
+logwtmp.o:	/usr/include/sys/cdefs.h
+logwtmp.o:	/usr/include/sys/null.h
+logwtmp.o:	/usr/include/sys/select.h
+logwtmp.o:	/usr/include/sys/stat.h
+logwtmp.o:	/usr/include/sys/time.h
+logwtmp.o:	/usr/include/sys/types.h
+logwtmp.o:	/usr/include/sys/ucred.h
+logwtmp.o:	/usr/include/time.h
+logwtmp.o:	/usr/include/unistd.h
+logwtmp.o:	/usr/include/utmp.h
+logwtmp.o:	/usr/src/lib/libc/stdtime/logwtmp.c

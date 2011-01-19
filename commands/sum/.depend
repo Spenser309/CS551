@@ -1,0 +1,22 @@
+
+sum.o:	/usr/include/ansi.h
+sum.o:	/usr/include/fcntl.h
+sum.o:	/usr/include/limits.h
+sum.o:	/usr/include/machine/interrupt.h
+sum.o:	/usr/include/minix/config.h
+sum.o:	/usr/include/minix/dir.h
+sum.o:	/usr/include/minix/limits.h
+sum.o:	/usr/include/minix/minlib.h
+sum.o:	/usr/include/minix/sys_config.h
+sum.o:	/usr/include/minix/type.h
+sum.o:	/usr/include/minix/types.h
+sum.o:	/usr/include/stddef.h
+sum.o:	/usr/include/stdint.h
+sum.o:	/usr/include/stdio.h
+sum.o:	/usr/include/stdlib.h
+sum.o:	/usr/include/sys/cdefs.h
+sum.o:	/usr/include/sys/null.h
+sum.o:	/usr/include/sys/types.h
+sum.o:	/usr/include/sys/ucred.h
+sum.o:	/usr/include/unistd.h
+sum.o:	sum.c

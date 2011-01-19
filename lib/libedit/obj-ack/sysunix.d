@@ -1,0 +1,22 @@
+
+sysunix.o:	/usr/include/ansi.h
+sysunix.o:	/usr/include/dirent.h
+sysunix.o:	/usr/include/limits.h
+sysunix.o:	/usr/include/minix/dir.h
+sysunix.o:	/usr/include/minix/dirent.h
+sysunix.o:	/usr/include/minix/limits.h
+sysunix.o:	/usr/include/minix/sys_config.h
+sysunix.o:	/usr/include/minix/types.h
+sysunix.o:	/usr/include/stddef.h
+sysunix.o:	/usr/include/stdint.h
+sysunix.o:	/usr/include/stdio.h
+sysunix.o:	/usr/include/stdlib.h
+sysunix.o:	/usr/include/string.h
+sysunix.o:	/usr/include/sys/cdefs.h
+sysunix.o:	/usr/include/sys/null.h
+sysunix.o:	/usr/include/sys/stat.h
+sysunix.o:	/usr/include/sys/types.h
+sysunix.o:	/usr/include/termios.h
+sysunix.o:	/usr/src/lib/libedit/editline.h
+sysunix.o:	/usr/src/lib/libedit/sysunix.c
+sysunix.o:	/usr/src/lib/libedit/unix.h

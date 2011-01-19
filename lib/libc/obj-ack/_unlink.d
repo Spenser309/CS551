@@ -1,0 +1,23 @@
+
+_unlink.o:	/usr/include/ansi.h
+_unlink.o:	/usr/include/errno.h
+_unlink.o:	/usr/include/lib.h
+_unlink.o:	/usr/include/limits.h
+_unlink.o:	/usr/include/machine/interrupt.h
+_unlink.o:	/usr/include/minix/callnr.h
+_unlink.o:	/usr/include/minix/com.h
+_unlink.o:	/usr/include/minix/config.h
+_unlink.o:	/usr/include/minix/const.h
+_unlink.o:	/usr/include/minix/dir.h
+_unlink.o:	/usr/include/minix/ipc.h
+_unlink.o:	/usr/include/minix/ipcconst.h
+_unlink.o:	/usr/include/minix/limits.h
+_unlink.o:	/usr/include/minix/sys_config.h
+_unlink.o:	/usr/include/minix/type.h
+_unlink.o:	/usr/include/minix/types.h
+_unlink.o:	/usr/include/stdint.h
+_unlink.o:	/usr/include/sys/cdefs.h
+_unlink.o:	/usr/include/sys/null.h
+_unlink.o:	/usr/include/sys/ucred.h
+_unlink.o:	/usr/include/unistd.h
+_unlink.o:	/usr/src/lib/libc/posix/_unlink.c

@@ -1,0 +1,25 @@
+
+getty.o:	/usr/include/ansi.h
+getty.o:	/usr/include/errno.h
+getty.o:	/usr/include/fcntl.h
+getty.o:	/usr/include/limits.h
+getty.o:	/usr/include/machine/interrupt.h
+getty.o:	/usr/include/minix/config.h
+getty.o:	/usr/include/minix/dir.h
+getty.o:	/usr/include/minix/limits.h
+getty.o:	/usr/include/minix/sys_config.h
+getty.o:	/usr/include/minix/type.h
+getty.o:	/usr/include/minix/types.h
+getty.o:	/usr/include/signal.h
+getty.o:	/usr/include/stddef.h
+getty.o:	/usr/include/stdint.h
+getty.o:	/usr/include/stdlib.h
+getty.o:	/usr/include/string.h
+getty.o:	/usr/include/sys/cdefs.h
+getty.o:	/usr/include/sys/null.h
+getty.o:	/usr/include/sys/stat.h
+getty.o:	/usr/include/sys/types.h
+getty.o:	/usr/include/sys/ucred.h
+getty.o:	/usr/include/sys/utsname.h
+getty.o:	/usr/include/unistd.h
+getty.o:	getty.c

@@ -1,0 +1,24 @@
+
+mdoc_action.o:	/usr/include/ansi.h
+mdoc_action.o:	/usr/include/assert.h
+mdoc_action.o:	/usr/include/limits.h
+mdoc_action.o:	/usr/include/minix/dir.h
+mdoc_action.o:	/usr/include/minix/limits.h
+mdoc_action.o:	/usr/include/minix/sys_config.h
+mdoc_action.o:	/usr/include/minix/types.h
+mdoc_action.o:	/usr/include/stddef.h
+mdoc_action.o:	/usr/include/stdint.h
+mdoc_action.o:	/usr/include/stdio.h
+mdoc_action.o:	/usr/include/stdlib.h
+mdoc_action.o:	/usr/include/string.h
+mdoc_action.o:	/usr/include/sys/cdefs.h
+mdoc_action.o:	/usr/include/sys/null.h
+mdoc_action.o:	/usr/include/sys/types.h
+mdoc_action.o:	/usr/include/sys/utsname.h
+mdoc_action.o:	/usr/include/time.h
+mdoc_action.o:	config.h
+mdoc_action.o:	libmandoc.h
+mdoc_action.o:	libmdoc.h
+mdoc_action.o:	mandoc.h
+mdoc_action.o:	mdoc.h
+mdoc_action.o:	mdoc_action.c

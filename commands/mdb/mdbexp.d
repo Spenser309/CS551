@@ -1,0 +1,27 @@
+
+mdbexp.o:	/usr/include/ansi.h
+mdbexp.o:	/usr/include/ctype.h
+mdbexp.o:	/usr/include/errno.h
+mdbexp.o:	/usr/include/limits.h
+mdbexp.o:	/usr/include/machine/interrupt.h
+mdbexp.o:	/usr/include/minix/config.h
+mdbexp.o:	/usr/include/minix/const.h
+mdbexp.o:	/usr/include/minix/dir.h
+mdbexp.o:	/usr/include/minix/ipc.h
+mdbexp.o:	/usr/include/minix/ipcconst.h
+mdbexp.o:	/usr/include/minix/limits.h
+mdbexp.o:	/usr/include/minix/sys_config.h
+mdbexp.o:	/usr/include/minix/type.h
+mdbexp.o:	/usr/include/minix/types.h
+mdbexp.o:	/usr/include/stddef.h
+mdbexp.o:	/usr/include/stdint.h
+mdbexp.o:	/usr/include/stdio.h
+mdbexp.o:	/usr/include/stdlib.h
+mdbexp.o:	/usr/include/string.h
+mdbexp.o:	/usr/include/sys/cdefs.h
+mdbexp.o:	/usr/include/sys/null.h
+mdbexp.o:	/usr/include/sys/types.h
+mdbexp.o:	/usr/include/timers.h
+mdbexp.o:	mdb.h
+mdbexp.o:	mdbexp.c
+mdbexp.o:	proto.h

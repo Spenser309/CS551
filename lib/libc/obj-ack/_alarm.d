@@ -1,0 +1,23 @@
+
+_alarm.o:	/usr/include/ansi.h
+_alarm.o:	/usr/include/errno.h
+_alarm.o:	/usr/include/lib.h
+_alarm.o:	/usr/include/limits.h
+_alarm.o:	/usr/include/machine/interrupt.h
+_alarm.o:	/usr/include/minix/callnr.h
+_alarm.o:	/usr/include/minix/com.h
+_alarm.o:	/usr/include/minix/config.h
+_alarm.o:	/usr/include/minix/const.h
+_alarm.o:	/usr/include/minix/dir.h
+_alarm.o:	/usr/include/minix/ipc.h
+_alarm.o:	/usr/include/minix/ipcconst.h
+_alarm.o:	/usr/include/minix/limits.h
+_alarm.o:	/usr/include/minix/sys_config.h
+_alarm.o:	/usr/include/minix/type.h
+_alarm.o:	/usr/include/minix/types.h
+_alarm.o:	/usr/include/stdint.h
+_alarm.o:	/usr/include/sys/cdefs.h
+_alarm.o:	/usr/include/sys/null.h
+_alarm.o:	/usr/include/sys/ucred.h
+_alarm.o:	/usr/include/unistd.h
+_alarm.o:	/usr/src/lib/libc/posix/_alarm.c

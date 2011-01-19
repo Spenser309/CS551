@@ -1,0 +1,27 @@
+
+gas2ack.o:	/usr/include/ansi.h
+gas2ack.o:	/usr/include/assert.h
+gas2ack.o:	/usr/include/errno.h
+gas2ack.o:	/usr/include/getopt.h
+gas2ack.o:	/usr/include/limits.h
+gas2ack.o:	/usr/include/machine/interrupt.h
+gas2ack.o:	/usr/include/minix/config.h
+gas2ack.o:	/usr/include/minix/dir.h
+gas2ack.o:	/usr/include/minix/limits.h
+gas2ack.o:	/usr/include/minix/sys_config.h
+gas2ack.o:	/usr/include/minix/type.h
+gas2ack.o:	/usr/include/minix/types.h
+gas2ack.o:	/usr/include/stdarg.h
+gas2ack.o:	/usr/include/stddef.h
+gas2ack.o:	/usr/include/stdint.h
+gas2ack.o:	/usr/include/stdio.h
+gas2ack.o:	/usr/include/stdlib.h
+gas2ack.o:	/usr/include/string.h
+gas2ack.o:	/usr/include/sys/cdefs.h
+gas2ack.o:	/usr/include/sys/null.h
+gas2ack.o:	/usr/include/sys/ucred.h
+gas2ack.o:	/usr/include/unistd.h
+gas2ack.o:	asm86.h
+gas2ack.o:	asmconv.h
+gas2ack.o:	gas2ack.c
+gas2ack.o:	languages.h

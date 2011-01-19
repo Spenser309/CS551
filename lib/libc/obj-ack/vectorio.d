@@ -1,0 +1,24 @@
+
+vectorio.o:	/usr/include/ansi.h
+vectorio.o:	/usr/include/assert.h
+vectorio.o:	/usr/include/errno.h
+vectorio.o:	/usr/include/limits.h
+vectorio.o:	/usr/include/machine/interrupt.h
+vectorio.o:	/usr/include/minix/config.h
+vectorio.o:	/usr/include/minix/dir.h
+vectorio.o:	/usr/include/minix/limits.h
+vectorio.o:	/usr/include/minix/sys_config.h
+vectorio.o:	/usr/include/minix/type.h
+vectorio.o:	/usr/include/minix/types.h
+vectorio.o:	/usr/include/stddef.h
+vectorio.o:	/usr/include/stdint.h
+vectorio.o:	/usr/include/stdlib.h
+vectorio.o:	/usr/include/string.h
+vectorio.o:	/usr/include/sys/cdefs.h
+vectorio.o:	/usr/include/sys/null.h
+vectorio.o:	/usr/include/sys/param.h
+vectorio.o:	/usr/include/sys/stat.h
+vectorio.o:	/usr/include/sys/ucred.h
+vectorio.o:	/usr/include/sys/uio.h
+vectorio.o:	/usr/include/unistd.h
+vectorio.o:	/usr/src/lib/libc/other/vectorio.c

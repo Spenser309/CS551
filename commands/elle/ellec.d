@@ -1,0 +1,24 @@
+
+ellec.o:	/usr/include/ansi.h
+ellec.o:	/usr/include/ctype.h
+ellec.o:	/usr/include/limits.h
+ellec.o:	/usr/include/machine/interrupt.h
+ellec.o:	/usr/include/minix/config.h
+ellec.o:	/usr/include/minix/dir.h
+ellec.o:	/usr/include/minix/limits.h
+ellec.o:	/usr/include/minix/sys_config.h
+ellec.o:	/usr/include/minix/type.h
+ellec.o:	/usr/include/minix/types.h
+ellec.o:	/usr/include/stdint.h
+ellec.o:	/usr/include/stdio.h
+ellec.o:	/usr/include/string.h
+ellec.o:	/usr/include/sys/cdefs.h
+ellec.o:	/usr/include/sys/null.h
+ellec.o:	/usr/include/sys/types.h
+ellec.o:	/usr/include/sys/ucred.h
+ellec.o:	/usr/include/unistd.h
+ellec.o:	defprf.c
+ellec.o:	eefdef.h
+ellec.o:	eeprof.h
+ellec.o:	eesite.h
+ellec.o:	ellec.c

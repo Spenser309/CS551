@@ -1,0 +1,22 @@
+
+_stime.o:	/usr/include/ansi.h
+_stime.o:	/usr/include/errno.h
+_stime.o:	/usr/include/lib.h
+_stime.o:	/usr/include/limits.h
+_stime.o:	/usr/include/machine/interrupt.h
+_stime.o:	/usr/include/minix/callnr.h
+_stime.o:	/usr/include/minix/com.h
+_stime.o:	/usr/include/minix/config.h
+_stime.o:	/usr/include/minix/const.h
+_stime.o:	/usr/include/minix/dir.h
+_stime.o:	/usr/include/minix/ipc.h
+_stime.o:	/usr/include/minix/ipcconst.h
+_stime.o:	/usr/include/minix/limits.h
+_stime.o:	/usr/include/minix/sys_config.h
+_stime.o:	/usr/include/minix/type.h
+_stime.o:	/usr/include/minix/types.h
+_stime.o:	/usr/include/stdint.h
+_stime.o:	/usr/include/sys/cdefs.h
+_stime.o:	/usr/include/sys/null.h
+_stime.o:	/usr/include/time.h
+_stime.o:	/usr/src/lib/libc/posix/_stime.c

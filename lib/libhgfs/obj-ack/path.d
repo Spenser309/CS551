@@ -1,0 +1,23 @@
+
+path.o:	/usr/include/ansi.h
+path.o:	/usr/include/errno.h
+path.o:	/usr/include/hgfs.h
+path.o:	/usr/include/limits.h
+path.o:	/usr/include/minix/config.h
+path.o:	/usr/include/minix/const.h
+path.o:	/usr/include/minix/dir.h
+path.o:	/usr/include/minix/limits.h
+path.o:	/usr/include/minix/sys_config.h
+path.o:	/usr/include/minix/types.h
+path.o:	/usr/include/minix/u64.h
+path.o:	/usr/include/stdint.h
+path.o:	/usr/include/string.h
+path.o:	/usr/include/sys/cdefs.h
+path.o:	/usr/include/sys/null.h
+path.o:	/usr/include/sys/types.h
+path.o:	/usr/src/lib/libhgfs/const.h
+path.o:	/usr/src/lib/libhgfs/glo.h
+path.o:	/usr/src/lib/libhgfs/inc.h
+path.o:	/usr/src/lib/libhgfs/path.c
+path.o:	/usr/src/lib/libhgfs/proto.h
+path.o:	/usr/src/lib/libhgfs/type.h

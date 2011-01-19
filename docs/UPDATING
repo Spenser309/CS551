@@ -1,0 +1,142 @@
+20100827:
+	From now on, the rc scripts, recovery scripts and system.conf in /etc
+	and /usr/etc are updated automatically by make world. If you want to
+	change them, do so in the source tree. If you make changes to your
+	settings in /etc and /usr/etc, merge them into the the source tree
+	before issuing a make world.
+
+20100805:
+	mkfs and fsck have been renamed to mkfs.mfs and fsck.mfs, respectively.
+	Moreover, they have been moved to /sbin, which is by default not in
+	PATH. Edit your .ashrc (or equivalent) to also include /sbin in PATH.
+	Also, first issue a 'make commands' before building world.
+
+20100802:
+	/usr/src/etc/system.conf updated to include ext2 file server: copy it
+	(or merge it) to /etc/system.conf.
+
+20100719:
+	If you installed using a 3.1.6 image (or earlier) and haven't updated 
+	the boot monitor since r6246 you need to do so now:
+	cd /usr/src/boot; make install; sh updateboot.sh
+
+20100714:
+	mknod /dev/uds c 18 0
+	chmod 666 /dev/uds
+
+20100713:
+        /usr/src/etc/rc updated: copy it (or merge it) to /etc/rc.
+        /usr/src/etc/system.conf updated to include boot sys services: copy
+        it (or merge it) to /etc/system.conf.
+        *** WARNING ***: this change breaks binary compatibility with
+        old images. Use only newly compiled images (make clean world
+        the first time) or download and install the latest ISO.
+20100705:
+        /usr/src/etc/usr/rc updated: copy it (or merge it) to /usr/etc/rc.
+        /usr/src/etc/rc updated: copy it (or merge it) to /etc/rc.
+        Perform some cleanup (optional):
+        # rm -f /sbin/tty /sbin/log
+20100630:
+	protocol change between service and rs: be sure to compile commands
+	together with the system image and don't use the new userspace with
+	an old image (or vice versa); it is recommended to replace
+	/boot/image_big with the newly compiled image to keep option 1 in the
+	boot menu working.
+20100625:
+	/etc/mk has been moved to /usr/share/mk. You will need to
+	create /usr/share/mk manually.
+	# cp -r /usr/src/share/mk /usr/share/
+	# cd /usr/src; make -m /usr/share/mk world
+20100515:
+        /usr/src/etc/usr/rc updated: copy it (or merge it) to /usr/etc/rc.
+	/etc/inet.conf is now line-based; if you have hand-edited this file
+	before, then make sure that you do not have configurations in there
+	that span multiple lines.
+20100512:
+        yacc and lex updated
+	# make includes
+	# cd commands/yacc
+	# make depend all install
+	# cd commands/lex
+	# LEX=flex make depend all install
+20100506:
+        /usr/src/etc/usr/rc updated: copy it (or merge it) to /usr/etc/rc.
+20100410:
+        /usr/src/etc/usr/rc updated: copy it (or merge it) to /usr/etc/rc.
+        /usr/src/etc/rc updated: copy it (or merge it) to /etc/rc.
+20100408:
+        /usr/src/etc/usr/rc updated: copy it (or merge it) to /usr/etc/rc.
+20100318:
+        Gas2ack updates: Run 'make install' in commands/i386/gas2ack
+20100317:
+        /usr/src/etc/system.conf updated to ignore default kernel calls: copy
+        it (or merge it) to /etc/system.conf.
+        The hello driver (/dev/hello) added to the distribution:
+        # cd /usr/src/commands/scripts && make clean install
+        # cd /dev && MAKEDEV hello
+20100316:
+        /usr/man/man9 is required
+	# mkdir /usr/man/man9
+20100308:
+        Include directory reorganization:
+        # mv /usr/include/ibm /usr/include/i386
+        # ln -s /usr/include/i386 /usr/include/machine
+        Install(1) updates:
+        # cd commands/simple && make /bin/install
+20100303:
+        Gas2ack updates: Run 'make install' in commands/i386/gas2ack
+20100215:
+        Make(1) has been replaced: Run 'make install' in commands/make
+        Mkdep updates: Copy commands/scripts/mkdep.sh to /usr/bin/mkdep
+        Make(1) needs mkfiles: Copy files in etc/mk to /etc/mk
+        ACK update: Copy commands/i386/acd.descr to /usr/lib/descr
+        End.a renamed:
+           -Copy /usr/lib/i86/end.a to /usr/lib/i86/libend.a
+           -Copy /usr/lib/i386/end.a to /usr/lib/i386/libend.a
+           -Copy /usr/gnu/lib/end.a to /usr/gnu/lib/libend.a
+        Asmconv updates: Run 'make install' in commands/i386/asmconv
+20091212:
+        /etc/drivers.conf has been renamed to /etc/system.conf.
+        user "service" has been added to password file /etc/passwd.
+20091006 (r5422):
+	OSS requires an improved make to be compiled; run "make install"
+	in /usr/src/commands/make before running "make world".
+20070212 (r2751):
+	mkfs needs more memory to make an image; chmem it or do
+	# touch mkfs.c ; make /usr/bin/mkfs
+	in /usr/src/commands/simple.
+20070118:
+	drivers.conf has been updated to include an ACL for mfs. it has
+	to be installed before rebooting after an update of the mount command.
+20061222:
+	The archictecture-dependent/-independent split needs ARCH=<arch>
+	in /etc/make.conf, included by some Makefiles and sourced by
+	some shell scripts. To install it, type 'make install' in
+	src/etc, or simply copy the file over.
+20061222:
+	Install binaries in the right order because the new readdir
+	implementation and the new mount program are incompatible
+	with older kernels and the new kernels require the new mount.
+	# cd /usr/src
+	# make includes
+	# make libraries
+	# make cmds
+	# make depend
+	# cd /usr/src/tools
+	# make hdboot
+	# make install
+	# cd ..
+	# make install
+	Installing fails for boot. Reboot the system
+	# reboot -x 'unset image; boot'
+	Now install everything
+	# cd /usr/src
+	# make install
+20060818:
+	You need flex in your $PATH, which has become part of the base
+	system. This needs bigger binaries.
+	If you don't have flex yet, you can compile it first by doing:
+	# cp /usr/src/etc/binary_sizes* /etc
+	# binsizes big
+	# cd /usr/src/commands/flex-2.5.4
+	# sh build

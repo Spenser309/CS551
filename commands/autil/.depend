@@ -1,0 +1,67 @@
+
+anm.o:	/usr/include/ansi.h
+anm.o:	/usr/include/ctype.h
+anm.o:	/usr/include/minix/dir.h
+anm.o:	/usr/include/minix/types.h
+anm.o:	/usr/include/stdio.h
+anm.o:	/usr/include/sys/null.h
+anm.o:	anm.c
+anm.o:	arch.h
+anm.o:	out.h
+anm.o:	ranlib.h
+
+asize.o:	/usr/include/ansi.h
+asize.o:	/usr/include/minix/dir.h
+asize.o:	/usr/include/minix/types.h
+asize.o:	/usr/include/stdio.h
+asize.o:	/usr/include/sys/null.h
+asize.o:	asize.c
+asize.o:	out.h
+
+rd.o:	/usr/include/ansi.h
+rd.o:	/usr/include/minix/dir.h
+rd.o:	/usr/include/minix/types.h
+rd.o:	/usr/include/stdio.h
+rd.o:	/usr/include/sys/null.h
+rd.o:	/usr/src/commands/autil/arch.h
+rd.o:	/usr/src/commands/autil/out.h
+rd.o:	/usr/src/commands/autil/ranlib.h
+rd.o:	obj.h
+rd.o:	object.h
+rd.o:	rd.c
+
+rd_arhdr.o:	/usr/include/ansi.h
+rd_arhdr.o:	/usr/include/minix/dir.h
+rd_arhdr.o:	/usr/include/minix/types.h
+rd_arhdr.o:	/usr/include/stdio.h
+rd_arhdr.o:	/usr/include/sys/null.h
+rd_arhdr.o:	/usr/src/commands/autil/arch.h
+rd_arhdr.o:	/usr/src/commands/autil/out.h
+rd_arhdr.o:	/usr/src/commands/autil/ranlib.h
+rd_arhdr.o:	obj.h
+rd_arhdr.o:	object.h
+rd_arhdr.o:	rd_arhdr.c
+
+rd_bytes.o:	/usr/include/ansi.h
+rd_bytes.o:	/usr/include/minix/dir.h
+rd_bytes.o:	/usr/include/minix/types.h
+rd_bytes.o:	/usr/include/stdio.h
+rd_bytes.o:	/usr/include/sys/null.h
+rd_bytes.o:	/usr/src/commands/autil/arch.h
+rd_bytes.o:	/usr/src/commands/autil/out.h
+rd_bytes.o:	/usr/src/commands/autil/ranlib.h
+rd_bytes.o:	obj.h
+rd_bytes.o:	object.h
+rd_bytes.o:	rd_bytes.c
+
+rd_unsig2.o:	/usr/include/ansi.h
+rd_unsig2.o:	/usr/include/minix/dir.h
+rd_unsig2.o:	/usr/include/minix/types.h
+rd_unsig2.o:	/usr/include/stdio.h
+rd_unsig2.o:	/usr/include/sys/null.h
+rd_unsig2.o:	/usr/src/commands/autil/arch.h
+rd_unsig2.o:	/usr/src/commands/autil/out.h
+rd_unsig2.o:	/usr/src/commands/autil/ranlib.h
+rd_unsig2.o:	obj.h
+rd_unsig2.o:	object.h
+rd_unsig2.o:	rd_unsig2.c

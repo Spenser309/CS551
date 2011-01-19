@@ -1,0 +1,24 @@
+
+pty.o:	/usr/include/ansi.h
+pty.o:	/usr/include/errno.h
+pty.o:	/usr/include/fcntl.h
+pty.o:	/usr/include/limits.h
+pty.o:	/usr/include/machine/interrupt.h
+pty.o:	/usr/include/minix/config.h
+pty.o:	/usr/include/minix/dir.h
+pty.o:	/usr/include/minix/limits.h
+pty.o:	/usr/include/minix/sys_config.h
+pty.o:	/usr/include/minix/type.h
+pty.o:	/usr/include/minix/types.h
+pty.o:	/usr/include/stddef.h
+pty.o:	/usr/include/stdint.h
+pty.o:	/usr/include/stdio.h
+pty.o:	/usr/include/stdlib.h
+pty.o:	/usr/include/string.h
+pty.o:	/usr/include/sys/cdefs.h
+pty.o:	/usr/include/sys/null.h
+pty.o:	/usr/include/sys/types.h
+pty.o:	/usr/include/sys/ucred.h
+pty.o:	/usr/include/unistd.h
+pty.o:	pty.c
+pty.o:	telnetd.h

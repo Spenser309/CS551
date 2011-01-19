@@ -1,0 +1,26 @@
+
+scheck.o:	/usr/include/ansi.h
+scheck.o:	/usr/include/ctype.h
+scheck.o:	/usr/include/errno.h
+scheck.o:	/usr/include/limits.h
+scheck.o:	/usr/include/machine/interrupt.h
+scheck.o:	/usr/include/minix/config.h
+scheck.o:	/usr/include/minix/dir.h
+scheck.o:	/usr/include/minix/limits.h
+scheck.o:	/usr/include/minix/sys_config.h
+scheck.o:	/usr/include/minix/type.h
+scheck.o:	/usr/include/minix/types.h
+scheck.o:	/usr/include/stddef.h
+scheck.o:	/usr/include/stdint.h
+scheck.o:	/usr/include/stdio.h
+scheck.o:	/usr/include/stdlib.h
+scheck.o:	/usr/include/string.h
+scheck.o:	/usr/include/sys/cdefs.h
+scheck.o:	/usr/include/sys/null.h
+scheck.o:	/usr/include/sys/types.h
+scheck.o:	/usr/include/sys/ucred.h
+scheck.o:	/usr/include/sys/wait.h
+scheck.o:	/usr/include/time.h
+scheck.o:	/usr/include/unistd.h
+scheck.o:	/usr/src/lib/libc/stdtime/private.h
+scheck.o:	/usr/src/lib/libc/stdtime/scheck.c

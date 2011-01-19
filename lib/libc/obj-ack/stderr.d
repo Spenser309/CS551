@@ -1,0 +1,24 @@
+
+stderr.o:	/usr/include/ansi.h
+stderr.o:	/usr/include/errno.h
+stderr.o:	/usr/include/lib.h
+stderr.o:	/usr/include/limits.h
+stderr.o:	/usr/include/machine/interrupt.h
+stderr.o:	/usr/include/minix/callnr.h
+stderr.o:	/usr/include/minix/com.h
+stderr.o:	/usr/include/minix/config.h
+stderr.o:	/usr/include/minix/const.h
+stderr.o:	/usr/include/minix/dir.h
+stderr.o:	/usr/include/minix/ipc.h
+stderr.o:	/usr/include/minix/ipcconst.h
+stderr.o:	/usr/include/minix/limits.h
+stderr.o:	/usr/include/minix/sys_config.h
+stderr.o:	/usr/include/minix/type.h
+stderr.o:	/usr/include/minix/types.h
+stderr.o:	/usr/include/stdint.h
+stderr.o:	/usr/include/sys/cdefs.h
+stderr.o:	/usr/include/sys/null.h
+stderr.o:	/usr/include/sys/types.h
+stderr.o:	/usr/include/sys/ucred.h
+stderr.o:	/usr/include/unistd.h
+stderr.o:	/usr/src/lib/libc/other/stderr.c

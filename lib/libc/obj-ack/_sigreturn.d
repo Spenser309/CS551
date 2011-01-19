@@ -1,0 +1,25 @@
+
+_sigreturn.o:	/usr/include/ansi.h
+_sigreturn.o:	/usr/include/errno.h
+_sigreturn.o:	/usr/include/lib.h
+_sigreturn.o:	/usr/include/limits.h
+_sigreturn.o:	/usr/include/machine/fpu.h
+_sigreturn.o:	/usr/include/machine/interrupt.h
+_sigreturn.o:	/usr/include/machine/stackframe.h
+_sigreturn.o:	/usr/include/minix/callnr.h
+_sigreturn.o:	/usr/include/minix/com.h
+_sigreturn.o:	/usr/include/minix/config.h
+_sigreturn.o:	/usr/include/minix/const.h
+_sigreturn.o:	/usr/include/minix/dir.h
+_sigreturn.o:	/usr/include/minix/ipc.h
+_sigreturn.o:	/usr/include/minix/ipcconst.h
+_sigreturn.o:	/usr/include/minix/limits.h
+_sigreturn.o:	/usr/include/minix/sys_config.h
+_sigreturn.o:	/usr/include/minix/type.h
+_sigreturn.o:	/usr/include/minix/types.h
+_sigreturn.o:	/usr/include/signal.h
+_sigreturn.o:	/usr/include/stdint.h
+_sigreturn.o:	/usr/include/sys/cdefs.h
+_sigreturn.o:	/usr/include/sys/null.h
+_sigreturn.o:	/usr/include/sys/sigcontext.h
+_sigreturn.o:	/usr/src/lib/libc/posix/_sigreturn.c

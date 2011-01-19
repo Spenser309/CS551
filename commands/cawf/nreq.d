@@ -1,0 +1,22 @@
+
+nreq.o:	/usr/include/ansi.h
+nreq.o:	/usr/include/ctype.h
+nreq.o:	/usr/include/limits.h
+nreq.o:	/usr/include/minix/dir.h
+nreq.o:	/usr/include/minix/limits.h
+nreq.o:	/usr/include/minix/sys_config.h
+nreq.o:	/usr/include/minix/types.h
+nreq.o:	/usr/include/stddef.h
+nreq.o:	/usr/include/stdint.h
+nreq.o:	/usr/include/stdio.h
+nreq.o:	/usr/include/stdlib.h
+nreq.o:	/usr/include/string.h
+nreq.o:	/usr/include/sys/cdefs.h
+nreq.o:	/usr/include/sys/null.h
+nreq.o:	/usr/include/sys/types.h
+nreq.o:	ansi.h
+nreq.o:	cawf.h
+nreq.o:	cawflib.h
+nreq.o:	nreq.c
+nreq.o:	proto.h
+nreq.o:	regexp.h

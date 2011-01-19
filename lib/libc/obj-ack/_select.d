@@ -1,0 +1,24 @@
+
+_select.o:	/usr/include/ansi.h
+_select.o:	/usr/include/errno.h
+_select.o:	/usr/include/lib.h
+_select.o:	/usr/include/limits.h
+_select.o:	/usr/include/machine/interrupt.h
+_select.o:	/usr/include/minix/callnr.h
+_select.o:	/usr/include/minix/com.h
+_select.o:	/usr/include/minix/config.h
+_select.o:	/usr/include/minix/const.h
+_select.o:	/usr/include/minix/dir.h
+_select.o:	/usr/include/minix/ipc.h
+_select.o:	/usr/include/minix/ipcconst.h
+_select.o:	/usr/include/minix/limits.h
+_select.o:	/usr/include/minix/sys_config.h
+_select.o:	/usr/include/minix/type.h
+_select.o:	/usr/include/minix/types.h
+_select.o:	/usr/include/stdint.h
+_select.o:	/usr/include/string.h
+_select.o:	/usr/include/sys/cdefs.h
+_select.o:	/usr/include/sys/null.h
+_select.o:	/usr/include/sys/select.h
+_select.o:	/usr/include/sys/time.h
+_select.o:	/usr/src/lib/libc/posix/_select.c

@@ -1,0 +1,26 @@
+
+_tcgetattr.o:	/usr/include/ansi.h
+_tcgetattr.o:	/usr/include/errno.h
+_tcgetattr.o:	/usr/include/limits.h
+_tcgetattr.o:	/usr/include/minix/dir.h
+_tcgetattr.o:	/usr/include/minix/ioctl.h
+_tcgetattr.o:	/usr/include/minix/limits.h
+_tcgetattr.o:	/usr/include/minix/sys_config.h
+_tcgetattr.o:	/usr/include/minix/types.h
+_tcgetattr.o:	/usr/include/net/ioctl.h
+_tcgetattr.o:	/usr/include/stdint.h
+_tcgetattr.o:	/usr/include/string.h
+_tcgetattr.o:	/usr/include/sys/cdefs.h
+_tcgetattr.o:	/usr/include/sys/ioc_cmos.h
+_tcgetattr.o:	/usr/include/sys/ioc_disk.h
+_tcgetattr.o:	/usr/include/sys/ioc_file.h
+_tcgetattr.o:	/usr/include/sys/ioc_memory.h
+_tcgetattr.o:	/usr/include/sys/ioc_scsi.h
+_tcgetattr.o:	/usr/include/sys/ioc_sound.h
+_tcgetattr.o:	/usr/include/sys/ioc_tape.h
+_tcgetattr.o:	/usr/include/sys/ioc_tty.h
+_tcgetattr.o:	/usr/include/sys/ioctl.h
+_tcgetattr.o:	/usr/include/sys/null.h
+_tcgetattr.o:	/usr/include/sys/un.h
+_tcgetattr.o:	/usr/include/termios.h
+_tcgetattr.o:	/usr/src/lib/libc/posix/_tcgetattr.c

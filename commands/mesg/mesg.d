@@ -1,0 +1,21 @@
+
+mesg.o:	/usr/include/ansi.h
+mesg.o:	/usr/include/limits.h
+mesg.o:	/usr/include/machine/interrupt.h
+mesg.o:	/usr/include/minix/config.h
+mesg.o:	/usr/include/minix/dir.h
+mesg.o:	/usr/include/minix/limits.h
+mesg.o:	/usr/include/minix/sys_config.h
+mesg.o:	/usr/include/minix/type.h
+mesg.o:	/usr/include/minix/types.h
+mesg.o:	/usr/include/stddef.h
+mesg.o:	/usr/include/stdint.h
+mesg.o:	/usr/include/stdio.h
+mesg.o:	/usr/include/stdlib.h
+mesg.o:	/usr/include/sys/cdefs.h
+mesg.o:	/usr/include/sys/null.h
+mesg.o:	/usr/include/sys/stat.h
+mesg.o:	/usr/include/sys/types.h
+mesg.o:	/usr/include/sys/ucred.h
+mesg.o:	/usr/include/unistd.h
+mesg.o:	mesg.c

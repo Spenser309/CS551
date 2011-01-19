@@ -1,0 +1,19 @@
+
+wr_bytes.o:	/usr/include/ansi.h
+wr_bytes.o:	/usr/include/limits.h
+wr_bytes.o:	/usr/include/machine/interrupt.h
+wr_bytes.o:	/usr/include/minix/config.h
+wr_bytes.o:	/usr/include/minix/dir.h
+wr_bytes.o:	/usr/include/minix/limits.h
+wr_bytes.o:	/usr/include/minix/sys_config.h
+wr_bytes.o:	/usr/include/minix/type.h
+wr_bytes.o:	/usr/include/minix/types.h
+wr_bytes.o:	/usr/include/stdint.h
+wr_bytes.o:	/usr/include/sys/cdefs.h
+wr_bytes.o:	/usr/include/sys/null.h
+wr_bytes.o:	/usr/include/sys/types.h
+wr_bytes.o:	/usr/include/sys/ucred.h
+wr_bytes.o:	/usr/include/unistd.h
+wr_bytes.o:	archiver.h
+wr_bytes.o:	wr_bytes.c
+wr_bytes.o:	wr_bytes.h

@@ -1,0 +1,25 @@
+
+disfp.o:	/usr/include/a.out.h
+disfp.o:	/usr/include/ansi.h
+disfp.o:	/usr/include/fcntl.h
+disfp.o:	/usr/include/limits.h
+disfp.o:	/usr/include/machine/interrupt.h
+disfp.o:	/usr/include/minix/a.out.h
+disfp.o:	/usr/include/minix/config.h
+disfp.o:	/usr/include/minix/dir.h
+disfp.o:	/usr/include/minix/limits.h
+disfp.o:	/usr/include/minix/sys_config.h
+disfp.o:	/usr/include/minix/type.h
+disfp.o:	/usr/include/minix/types.h
+disfp.o:	/usr/include/stddef.h
+disfp.o:	/usr/include/stdint.h
+disfp.o:	/usr/include/stdio.h
+disfp.o:	/usr/include/stdlib.h
+disfp.o:	/usr/include/string.h
+disfp.o:	/usr/include/sys/cdefs.h
+disfp.o:	/usr/include/sys/null.h
+disfp.o:	/usr/include/sys/types.h
+disfp.o:	/usr/include/sys/ucred.h
+disfp.o:	/usr/include/unistd.h
+disfp.o:	dis.h
+disfp.o:	disfp.c

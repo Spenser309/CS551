@@ -1,0 +1,21 @@
+
+configfile.o:	/usr/include/ansi.h
+configfile.o:	/usr/include/configfile.h
+configfile.o:	/usr/include/ctype.h
+configfile.o:	/usr/include/errno.h
+configfile.o:	/usr/include/limits.h
+configfile.o:	/usr/include/minix/dir.h
+configfile.o:	/usr/include/minix/limits.h
+configfile.o:	/usr/include/minix/sys_config.h
+configfile.o:	/usr/include/minix/types.h
+configfile.o:	/usr/include/stddef.h
+configfile.o:	/usr/include/stdint.h
+configfile.o:	/usr/include/stdio.h
+configfile.o:	/usr/include/stdlib.h
+configfile.o:	/usr/include/string.h
+configfile.o:	/usr/include/sys/cdefs.h
+configfile.o:	/usr/include/sys/null.h
+configfile.o:	/usr/include/sys/stat.h
+configfile.o:	/usr/include/sys/types.h
+configfile.o:	/usr/include/time.h
+configfile.o:	/usr/src/lib/libc/other/configfile.c

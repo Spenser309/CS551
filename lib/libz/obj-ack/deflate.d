@@ -1,0 +1,19 @@
+
+deflate.o:	/usr/include/ansi.h
+deflate.o:	/usr/include/limits.h
+deflate.o:	/usr/include/minix/dir.h
+deflate.o:	/usr/include/minix/limits.h
+deflate.o:	/usr/include/minix/sys_config.h
+deflate.o:	/usr/include/minix/types.h
+deflate.o:	/usr/include/stddef.h
+deflate.o:	/usr/include/stdint.h
+deflate.o:	/usr/include/stdlib.h
+deflate.o:	/usr/include/string.h
+deflate.o:	/usr/include/sys/cdefs.h
+deflate.o:	/usr/include/sys/null.h
+deflate.o:	/usr/include/sys/types.h
+deflate.o:	/usr/src/lib/libz/deflate.c
+deflate.o:	/usr/src/lib/libz/deflate.h
+deflate.o:	/usr/src/lib/libz/zconf.h
+deflate.o:	/usr/src/lib/libz/zlib.h
+deflate.o:	/usr/src/lib/libz/zutil.h

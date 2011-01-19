@@ -1,0 +1,24 @@
+
+arith_lex.o:	/usr/include/ansi.h
+arith_lex.o:	/usr/include/limits.h
+arith_lex.o:	/usr/include/minix/dir.h
+arith_lex.o:	/usr/include/minix/limits.h
+arith_lex.o:	/usr/include/minix/sys_config.h
+arith_lex.o:	/usr/include/minix/types.h
+arith_lex.o:	/usr/include/setjmp.h
+arith_lex.o:	/usr/include/signal.h
+arith_lex.o:	/usr/include/stddef.h
+arith_lex.o:	/usr/include/stdint.h
+arith_lex.o:	/usr/include/stdio.h
+arith_lex.o:	/usr/include/stdlib.h
+arith_lex.o:	/usr/include/string.h
+arith_lex.o:	/usr/include/sys/cdefs.h
+arith_lex.o:	/usr/include/sys/null.h
+arith_lex.o:	/usr/include/sys/types.h
+arith_lex.o:	arith.h
+arith_lex.o:	arith_lex.c
+arith_lex.o:	arith_lex.l
+arith_lex.o:	error.h
+arith_lex.o:	memalloc.h
+arith_lex.o:	shell.h
+arith_lex.o:	var.h

@@ -1,0 +1,23 @@
+
+rpc.o:	/usr/include/ansi.h
+rpc.o:	/usr/include/errno.h
+rpc.o:	/usr/include/hgfs.h
+rpc.o:	/usr/include/limits.h
+rpc.o:	/usr/include/minix/config.h
+rpc.o:	/usr/include/minix/const.h
+rpc.o:	/usr/include/minix/dir.h
+rpc.o:	/usr/include/minix/limits.h
+rpc.o:	/usr/include/minix/sys_config.h
+rpc.o:	/usr/include/minix/types.h
+rpc.o:	/usr/include/minix/u64.h
+rpc.o:	/usr/include/stdint.h
+rpc.o:	/usr/include/string.h
+rpc.o:	/usr/include/sys/cdefs.h
+rpc.o:	/usr/include/sys/null.h
+rpc.o:	/usr/include/sys/types.h
+rpc.o:	/usr/src/lib/libhgfs/const.h
+rpc.o:	/usr/src/lib/libhgfs/glo.h
+rpc.o:	/usr/src/lib/libhgfs/inc.h
+rpc.o:	/usr/src/lib/libhgfs/proto.h
+rpc.o:	/usr/src/lib/libhgfs/rpc.c
+rpc.o:	/usr/src/lib/libhgfs/type.h

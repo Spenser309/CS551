@@ -1,0 +1,20 @@
+
+res_mkquery.o:	/usr/include/ansi.h
+res_mkquery.o:	/usr/include/limits.h
+res_mkquery.o:	/usr/include/minix/dir.h
+res_mkquery.o:	/usr/include/minix/limits.h
+res_mkquery.o:	/usr/include/minix/sys_config.h
+res_mkquery.o:	/usr/include/minix/types.h
+res_mkquery.o:	/usr/include/net/gen/in.h
+res_mkquery.o:	/usr/include/net/gen/nameser.h
+res_mkquery.o:	/usr/include/net/gen/resolv.h
+res_mkquery.o:	/usr/include/net/hton.h
+res_mkquery.o:	/usr/include/stddef.h
+res_mkquery.o:	/usr/include/stdint.h
+res_mkquery.o:	/usr/include/stdio.h
+res_mkquery.o:	/usr/include/stdlib.h
+res_mkquery.o:	/usr/include/string.h
+res_mkquery.o:	/usr/include/sys/cdefs.h
+res_mkquery.o:	/usr/include/sys/null.h
+res_mkquery.o:	/usr/include/sys/types.h
+res_mkquery.o:	/usr/src/lib/libc/ip/res_mkquery.c

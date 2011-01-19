@@ -1,0 +1,23 @@
+
+_lstat.o:	/usr/include/ansi.h
+_lstat.o:	/usr/include/errno.h
+_lstat.o:	/usr/include/lib.h
+_lstat.o:	/usr/include/limits.h
+_lstat.o:	/usr/include/machine/interrupt.h
+_lstat.o:	/usr/include/minix/callnr.h
+_lstat.o:	/usr/include/minix/com.h
+_lstat.o:	/usr/include/minix/config.h
+_lstat.o:	/usr/include/minix/const.h
+_lstat.o:	/usr/include/minix/dir.h
+_lstat.o:	/usr/include/minix/ipc.h
+_lstat.o:	/usr/include/minix/ipcconst.h
+_lstat.o:	/usr/include/minix/limits.h
+_lstat.o:	/usr/include/minix/sys_config.h
+_lstat.o:	/usr/include/minix/type.h
+_lstat.o:	/usr/include/minix/types.h
+_lstat.o:	/usr/include/stdint.h
+_lstat.o:	/usr/include/string.h
+_lstat.o:	/usr/include/sys/cdefs.h
+_lstat.o:	/usr/include/sys/null.h
+_lstat.o:	/usr/include/sys/stat.h
+_lstat.o:	/usr/src/lib/libc/posix/_lstat.c

@@ -1,0 +1,21 @@
+
+getsubopt.o:	/usr/include/ansi.h
+getsubopt.o:	/usr/include/assert.h
+getsubopt.o:	/usr/include/limits.h
+getsubopt.o:	/usr/include/machine/interrupt.h
+getsubopt.o:	/usr/include/minix/config.h
+getsubopt.o:	/usr/include/minix/dir.h
+getsubopt.o:	/usr/include/minix/limits.h
+getsubopt.o:	/usr/include/minix/sys_config.h
+getsubopt.o:	/usr/include/minix/type.h
+getsubopt.o:	/usr/include/minix/types.h
+getsubopt.o:	/usr/include/stddef.h
+getsubopt.o:	/usr/include/stdint.h
+getsubopt.o:	/usr/include/stdlib.h
+getsubopt.o:	/usr/include/string.h
+getsubopt.o:	/usr/include/sys/cdefs.h
+getsubopt.o:	/usr/include/sys/null.h
+getsubopt.o:	/usr/include/sys/ucred.h
+getsubopt.o:	/usr/include/unistd.h
+getsubopt.o:	/usr/src/lib/libc/other/getsubopt.c
+getsubopt.o:	/usr/src/lib/libc/other/namespace.h

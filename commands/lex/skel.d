@@ -1,0 +1,19 @@
+
+skel.o:	/usr/include/ansi.h
+skel.o:	/usr/include/ctype.h
+skel.o:	/usr/include/limits.h
+skel.o:	/usr/include/minix/dir.h
+skel.o:	/usr/include/minix/limits.h
+skel.o:	/usr/include/minix/sys_config.h
+skel.o:	/usr/include/minix/types.h
+skel.o:	/usr/include/stddef.h
+skel.o:	/usr/include/stdint.h
+skel.o:	/usr/include/stdio.h
+skel.o:	/usr/include/stdlib.h
+skel.o:	/usr/include/string.h
+skel.o:	/usr/include/sys/cdefs.h
+skel.o:	/usr/include/sys/null.h
+skel.o:	/usr/include/sys/types.h
+skel.o:	config.h
+skel.o:	flexdef.h
+skel.o:	skel.c

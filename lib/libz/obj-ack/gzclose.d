@@ -1,0 +1,21 @@
+
+gzclose.o:	/usr/include/ansi.h
+gzclose.o:	/usr/include/errno.h
+gzclose.o:	/usr/include/fcntl.h
+gzclose.o:	/usr/include/limits.h
+gzclose.o:	/usr/include/minix/dir.h
+gzclose.o:	/usr/include/minix/limits.h
+gzclose.o:	/usr/include/minix/sys_config.h
+gzclose.o:	/usr/include/minix/types.h
+gzclose.o:	/usr/include/stddef.h
+gzclose.o:	/usr/include/stdint.h
+gzclose.o:	/usr/include/stdio.h
+gzclose.o:	/usr/include/stdlib.h
+gzclose.o:	/usr/include/string.h
+gzclose.o:	/usr/include/sys/cdefs.h
+gzclose.o:	/usr/include/sys/null.h
+gzclose.o:	/usr/include/sys/types.h
+gzclose.o:	/usr/src/lib/libz/gzclose.c
+gzclose.o:	/usr/src/lib/libz/gzguts.h
+gzclose.o:	/usr/src/lib/libz/zconf.h
+gzclose.o:	/usr/src/lib/libz/zlib.h

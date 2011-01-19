@@ -1,0 +1,21 @@
+
+_sysuname.o:	/usr/include/ansi.h
+_sysuname.o:	/usr/include/errno.h
+_sysuname.o:	/usr/include/lib.h
+_sysuname.o:	/usr/include/limits.h
+_sysuname.o:	/usr/include/machine/interrupt.h
+_sysuname.o:	/usr/include/minix/callnr.h
+_sysuname.o:	/usr/include/minix/com.h
+_sysuname.o:	/usr/include/minix/config.h
+_sysuname.o:	/usr/include/minix/const.h
+_sysuname.o:	/usr/include/minix/dir.h
+_sysuname.o:	/usr/include/minix/ipc.h
+_sysuname.o:	/usr/include/minix/ipcconst.h
+_sysuname.o:	/usr/include/minix/limits.h
+_sysuname.o:	/usr/include/minix/sys_config.h
+_sysuname.o:	/usr/include/minix/type.h
+_sysuname.o:	/usr/include/minix/types.h
+_sysuname.o:	/usr/include/stdint.h
+_sysuname.o:	/usr/include/sys/cdefs.h
+_sysuname.o:	/usr/include/sys/null.h
+_sysuname.o:	/usr/src/lib/libc/other/_sysuname.c

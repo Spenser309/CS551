@@ -1,0 +1,23 @@
+
+_getpgrp.o:	/usr/include/ansi.h
+_getpgrp.o:	/usr/include/errno.h
+_getpgrp.o:	/usr/include/lib.h
+_getpgrp.o:	/usr/include/limits.h
+_getpgrp.o:	/usr/include/machine/interrupt.h
+_getpgrp.o:	/usr/include/minix/callnr.h
+_getpgrp.o:	/usr/include/minix/com.h
+_getpgrp.o:	/usr/include/minix/config.h
+_getpgrp.o:	/usr/include/minix/const.h
+_getpgrp.o:	/usr/include/minix/dir.h
+_getpgrp.o:	/usr/include/minix/ipc.h
+_getpgrp.o:	/usr/include/minix/ipcconst.h
+_getpgrp.o:	/usr/include/minix/limits.h
+_getpgrp.o:	/usr/include/minix/sys_config.h
+_getpgrp.o:	/usr/include/minix/type.h
+_getpgrp.o:	/usr/include/minix/types.h
+_getpgrp.o:	/usr/include/stdint.h
+_getpgrp.o:	/usr/include/sys/cdefs.h
+_getpgrp.o:	/usr/include/sys/null.h
+_getpgrp.o:	/usr/include/sys/ucred.h
+_getpgrp.o:	/usr/include/unistd.h
+_getpgrp.o:	/usr/src/lib/libc/posix/_getpgrp.c

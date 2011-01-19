@@ -1,0 +1,25 @@
+
+_tcflush.o:	/usr/include/ansi.h
+_tcflush.o:	/usr/include/limits.h
+_tcflush.o:	/usr/include/minix/dir.h
+_tcflush.o:	/usr/include/minix/ioctl.h
+_tcflush.o:	/usr/include/minix/limits.h
+_tcflush.o:	/usr/include/minix/sys_config.h
+_tcflush.o:	/usr/include/minix/types.h
+_tcflush.o:	/usr/include/net/ioctl.h
+_tcflush.o:	/usr/include/stdint.h
+_tcflush.o:	/usr/include/string.h
+_tcflush.o:	/usr/include/sys/cdefs.h
+_tcflush.o:	/usr/include/sys/ioc_cmos.h
+_tcflush.o:	/usr/include/sys/ioc_disk.h
+_tcflush.o:	/usr/include/sys/ioc_file.h
+_tcflush.o:	/usr/include/sys/ioc_memory.h
+_tcflush.o:	/usr/include/sys/ioc_scsi.h
+_tcflush.o:	/usr/include/sys/ioc_sound.h
+_tcflush.o:	/usr/include/sys/ioc_tape.h
+_tcflush.o:	/usr/include/sys/ioc_tty.h
+_tcflush.o:	/usr/include/sys/ioctl.h
+_tcflush.o:	/usr/include/sys/null.h
+_tcflush.o:	/usr/include/sys/un.h
+_tcflush.o:	/usr/include/termios.h
+_tcflush.o:	/usr/src/lib/libc/posix/_tcflush.c

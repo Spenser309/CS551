@@ -1,0 +1,24 @@
+
+_chown.o:	/usr/include/ansi.h
+_chown.o:	/usr/include/errno.h
+_chown.o:	/usr/include/lib.h
+_chown.o:	/usr/include/limits.h
+_chown.o:	/usr/include/machine/interrupt.h
+_chown.o:	/usr/include/minix/callnr.h
+_chown.o:	/usr/include/minix/com.h
+_chown.o:	/usr/include/minix/config.h
+_chown.o:	/usr/include/minix/const.h
+_chown.o:	/usr/include/minix/dir.h
+_chown.o:	/usr/include/minix/ipc.h
+_chown.o:	/usr/include/minix/ipcconst.h
+_chown.o:	/usr/include/minix/limits.h
+_chown.o:	/usr/include/minix/sys_config.h
+_chown.o:	/usr/include/minix/type.h
+_chown.o:	/usr/include/minix/types.h
+_chown.o:	/usr/include/stdint.h
+_chown.o:	/usr/include/string.h
+_chown.o:	/usr/include/sys/cdefs.h
+_chown.o:	/usr/include/sys/null.h
+_chown.o:	/usr/include/sys/ucred.h
+_chown.o:	/usr/include/unistd.h
+_chown.o:	/usr/src/lib/libc/posix/_chown.c

@@ -1,0 +1,23 @@
+
+mdoc_validate.o:	/usr/include/ansi.h
+mdoc_validate.o:	/usr/include/assert.h
+mdoc_validate.o:	/usr/include/ctype.h
+mdoc_validate.o:	/usr/include/limits.h
+mdoc_validate.o:	/usr/include/minix/dir.h
+mdoc_validate.o:	/usr/include/minix/limits.h
+mdoc_validate.o:	/usr/include/minix/sys_config.h
+mdoc_validate.o:	/usr/include/minix/types.h
+mdoc_validate.o:	/usr/include/stddef.h
+mdoc_validate.o:	/usr/include/stdint.h
+mdoc_validate.o:	/usr/include/stdio.h
+mdoc_validate.o:	/usr/include/stdlib.h
+mdoc_validate.o:	/usr/include/string.h
+mdoc_validate.o:	/usr/include/sys/cdefs.h
+mdoc_validate.o:	/usr/include/sys/null.h
+mdoc_validate.o:	/usr/include/sys/types.h
+mdoc_validate.o:	config.h
+mdoc_validate.o:	libmandoc.h
+mdoc_validate.o:	libmdoc.h
+mdoc_validate.o:	mandoc.h
+mdoc_validate.o:	mdoc.h
+mdoc_validate.o:	mdoc_validate.c

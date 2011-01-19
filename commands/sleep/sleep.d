@@ -1,0 +1,20 @@
+
+sleep.o:	/usr/include/ansi.h
+sleep.o:	/usr/include/limits.h
+sleep.o:	/usr/include/machine/interrupt.h
+sleep.o:	/usr/include/minix/config.h
+sleep.o:	/usr/include/minix/dir.h
+sleep.o:	/usr/include/minix/limits.h
+sleep.o:	/usr/include/minix/minlib.h
+sleep.o:	/usr/include/minix/sys_config.h
+sleep.o:	/usr/include/minix/type.h
+sleep.o:	/usr/include/minix/types.h
+sleep.o:	/usr/include/stddef.h
+sleep.o:	/usr/include/stdint.h
+sleep.o:	/usr/include/stdlib.h
+sleep.o:	/usr/include/sys/cdefs.h
+sleep.o:	/usr/include/sys/null.h
+sleep.o:	/usr/include/sys/types.h
+sleep.o:	/usr/include/sys/ucred.h
+sleep.o:	/usr/include/unistd.h
+sleep.o:	sleep.c

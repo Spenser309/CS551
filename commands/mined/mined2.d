@@ -1,0 +1,22 @@
+
+mined2.o:	/usr/include/ansi.h
+mined2.o:	/usr/include/fcntl.h
+mined2.o:	/usr/include/limits.h
+mined2.o:	/usr/include/machine/interrupt.h
+mined2.o:	/usr/include/minix/config.h
+mined2.o:	/usr/include/minix/dir.h
+mined2.o:	/usr/include/minix/limits.h
+mined2.o:	/usr/include/minix/sys_config.h
+mined2.o:	/usr/include/minix/type.h
+mined2.o:	/usr/include/minix/types.h
+mined2.o:	/usr/include/stddef.h
+mined2.o:	/usr/include/stdint.h
+mined2.o:	/usr/include/stdlib.h
+mined2.o:	/usr/include/string.h
+mined2.o:	/usr/include/sys/cdefs.h
+mined2.o:	/usr/include/sys/null.h
+mined2.o:	/usr/include/sys/types.h
+mined2.o:	/usr/include/sys/ucred.h
+mined2.o:	/usr/include/unistd.h
+mined2.o:	mined.h
+mined2.o:	mined2.c

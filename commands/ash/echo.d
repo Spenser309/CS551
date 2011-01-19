@@ -1,0 +1,19 @@
+
+echo.o:	/usr/include/ansi.h
+echo.o:	/usr/include/limits.h
+echo.o:	/usr/include/minix/dir.h
+echo.o:	/usr/include/minix/limits.h
+echo.o:	/usr/include/minix/sys_config.h
+echo.o:	/usr/include/minix/types.h
+echo.o:	/usr/include/stdarg.h
+echo.o:	/usr/include/stdint.h
+echo.o:	/usr/include/string.h
+echo.o:	/usr/include/sys/cdefs.h
+echo.o:	/usr/include/sys/null.h
+echo.o:	/usr/include/sys/types.h
+echo.o:	/usr/src/commands/ash/bltin/../mystring.h
+echo.o:	/usr/src/commands/ash/bltin/../output.h
+echo.o:	/usr/src/commands/ash/bltin/../shell.h
+echo.o:	/usr/src/commands/ash/bltin/bltin.h
+echo.o:	/usr/src/commands/ash/bltin/echo.c
+echo.o:	builtins.h

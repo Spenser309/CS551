@@ -1,0 +1,24 @@
+
+gettimeofday.o:	/usr/include/ansi.h
+gettimeofday.o:	/usr/include/errno.h
+gettimeofday.o:	/usr/include/lib.h
+gettimeofday.o:	/usr/include/limits.h
+gettimeofday.o:	/usr/include/machine/interrupt.h
+gettimeofday.o:	/usr/include/minix/callnr.h
+gettimeofday.o:	/usr/include/minix/com.h
+gettimeofday.o:	/usr/include/minix/config.h
+gettimeofday.o:	/usr/include/minix/const.h
+gettimeofday.o:	/usr/include/minix/dir.h
+gettimeofday.o:	/usr/include/minix/ipc.h
+gettimeofday.o:	/usr/include/minix/ipcconst.h
+gettimeofday.o:	/usr/include/minix/limits.h
+gettimeofday.o:	/usr/include/minix/sys_config.h
+gettimeofday.o:	/usr/include/minix/type.h
+gettimeofday.o:	/usr/include/minix/types.h
+gettimeofday.o:	/usr/include/stdint.h
+gettimeofday.o:	/usr/include/string.h
+gettimeofday.o:	/usr/include/sys/cdefs.h
+gettimeofday.o:	/usr/include/sys/null.h
+gettimeofday.o:	/usr/include/sys/select.h
+gettimeofday.o:	/usr/include/sys/time.h
+gettimeofday.o:	/usr/src/lib/libc/posix/gettimeofday.c

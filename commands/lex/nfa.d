@@ -1,0 +1,19 @@
+
+nfa.o:	/usr/include/ansi.h
+nfa.o:	/usr/include/ctype.h
+nfa.o:	/usr/include/limits.h
+nfa.o:	/usr/include/minix/dir.h
+nfa.o:	/usr/include/minix/limits.h
+nfa.o:	/usr/include/minix/sys_config.h
+nfa.o:	/usr/include/minix/types.h
+nfa.o:	/usr/include/stddef.h
+nfa.o:	/usr/include/stdint.h
+nfa.o:	/usr/include/stdio.h
+nfa.o:	/usr/include/stdlib.h
+nfa.o:	/usr/include/string.h
+nfa.o:	/usr/include/sys/cdefs.h
+nfa.o:	/usr/include/sys/null.h
+nfa.o:	/usr/include/sys/types.h
+nfa.o:	config.h
+nfa.o:	flexdef.h
+nfa.o:	nfa.c

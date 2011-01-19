@@ -1,0 +1,22 @@
+
+getgrent.o:	/usr/include/ansi.h
+getgrent.o:	/usr/include/fcntl.h
+getgrent.o:	/usr/include/grp.h
+getgrent.o:	/usr/include/limits.h
+getgrent.o:	/usr/include/machine/interrupt.h
+getgrent.o:	/usr/include/minix/config.h
+getgrent.o:	/usr/include/minix/dir.h
+getgrent.o:	/usr/include/minix/limits.h
+getgrent.o:	/usr/include/minix/sys_config.h
+getgrent.o:	/usr/include/minix/type.h
+getgrent.o:	/usr/include/minix/types.h
+getgrent.o:	/usr/include/stddef.h
+getgrent.o:	/usr/include/stdint.h
+getgrent.o:	/usr/include/stdlib.h
+getgrent.o:	/usr/include/string.h
+getgrent.o:	/usr/include/sys/cdefs.h
+getgrent.o:	/usr/include/sys/null.h
+getgrent.o:	/usr/include/sys/types.h
+getgrent.o:	/usr/include/sys/ucred.h
+getgrent.o:	/usr/include/unistd.h
+getgrent.o:	/usr/src/lib/libc/other/getgrent.c

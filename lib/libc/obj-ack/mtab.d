@@ -1,0 +1,24 @@
+
+mtab.o:	/usr/include/ansi.h
+mtab.o:	/usr/include/ctype.h
+mtab.o:	/usr/include/fcntl.h
+mtab.o:	/usr/include/limits.h
+mtab.o:	/usr/include/machine/interrupt.h
+mtab.o:	/usr/include/minix/config.h
+mtab.o:	/usr/include/minix/dir.h
+mtab.o:	/usr/include/minix/limits.h
+mtab.o:	/usr/include/minix/minlib.h
+mtab.o:	/usr/include/minix/sys_config.h
+mtab.o:	/usr/include/minix/type.h
+mtab.o:	/usr/include/minix/types.h
+mtab.o:	/usr/include/stddef.h
+mtab.o:	/usr/include/stdint.h
+mtab.o:	/usr/include/stdio.h
+mtab.o:	/usr/include/stdlib.h
+mtab.o:	/usr/include/string.h
+mtab.o:	/usr/include/sys/cdefs.h
+mtab.o:	/usr/include/sys/null.h
+mtab.o:	/usr/include/sys/types.h
+mtab.o:	/usr/include/sys/ucred.h
+mtab.o:	/usr/include/unistd.h
+mtab.o:	/usr/src/lib/libc/other/mtab.c

@@ -1,0 +1,22 @@
+
+_chmod.o:	/usr/include/ansi.h
+_chmod.o:	/usr/include/errno.h
+_chmod.o:	/usr/include/lib.h
+_chmod.o:	/usr/include/limits.h
+_chmod.o:	/usr/include/machine/interrupt.h
+_chmod.o:	/usr/include/minix/callnr.h
+_chmod.o:	/usr/include/minix/com.h
+_chmod.o:	/usr/include/minix/config.h
+_chmod.o:	/usr/include/minix/const.h
+_chmod.o:	/usr/include/minix/dir.h
+_chmod.o:	/usr/include/minix/ipc.h
+_chmod.o:	/usr/include/minix/ipcconst.h
+_chmod.o:	/usr/include/minix/limits.h
+_chmod.o:	/usr/include/minix/sys_config.h
+_chmod.o:	/usr/include/minix/type.h
+_chmod.o:	/usr/include/minix/types.h
+_chmod.o:	/usr/include/stdint.h
+_chmod.o:	/usr/include/sys/cdefs.h
+_chmod.o:	/usr/include/sys/null.h
+_chmod.o:	/usr/include/sys/stat.h
+_chmod.o:	/usr/src/lib/libc/posix/_chmod.c

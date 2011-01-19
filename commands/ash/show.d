@@ -1,0 +1,24 @@
+
+show.o:	/usr/include/ansi.h
+show.o:	/usr/include/errno.h
+show.o:	/usr/include/fcntl.h
+show.o:	/usr/include/limits.h
+show.o:	/usr/include/minix/dir.h
+show.o:	/usr/include/minix/limits.h
+show.o:	/usr/include/minix/sys_config.h
+show.o:	/usr/include/minix/types.h
+show.o:	/usr/include/stdarg.h
+show.o:	/usr/include/stddef.h
+show.o:	/usr/include/stdint.h
+show.o:	/usr/include/stdio.h
+show.o:	/usr/include/stdlib.h
+show.o:	/usr/include/string.h
+show.o:	/usr/include/sys/cdefs.h
+show.o:	/usr/include/sys/null.h
+show.o:	/usr/include/sys/types.h
+show.o:	mystring.h
+show.o:	nodes.h
+show.o:	parser.h
+show.o:	shell.h
+show.o:	show.c
+show.o:	show.h

@@ -1,0 +1,22 @@
+
+inflate.o:	/usr/include/ansi.h
+inflate.o:	/usr/include/limits.h
+inflate.o:	/usr/include/minix/dir.h
+inflate.o:	/usr/include/minix/limits.h
+inflate.o:	/usr/include/minix/sys_config.h
+inflate.o:	/usr/include/minix/types.h
+inflate.o:	/usr/include/stddef.h
+inflate.o:	/usr/include/stdint.h
+inflate.o:	/usr/include/stdlib.h
+inflate.o:	/usr/include/string.h
+inflate.o:	/usr/include/sys/cdefs.h
+inflate.o:	/usr/include/sys/null.h
+inflate.o:	/usr/include/sys/types.h
+inflate.o:	/usr/src/lib/libz/inffast.h
+inflate.o:	/usr/src/lib/libz/inffixed.h
+inflate.o:	/usr/src/lib/libz/inflate.c
+inflate.o:	/usr/src/lib/libz/inflate.h
+inflate.o:	/usr/src/lib/libz/inftrees.h
+inflate.o:	/usr/src/lib/libz/zconf.h
+inflate.o:	/usr/src/lib/libz/zlib.h
+inflate.o:	/usr/src/lib/libz/zutil.h

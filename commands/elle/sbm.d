@@ -1,0 +1,22 @@
+
+sbm.o:	/usr/include/ansi.h
+sbm.o:	/usr/include/limits.h
+sbm.o:	/usr/include/machine/interrupt.h
+sbm.o:	/usr/include/minix/config.h
+sbm.o:	/usr/include/minix/dir.h
+sbm.o:	/usr/include/minix/limits.h
+sbm.o:	/usr/include/minix/sys_config.h
+sbm.o:	/usr/include/minix/type.h
+sbm.o:	/usr/include/minix/types.h
+sbm.o:	/usr/include/stdint.h
+sbm.o:	/usr/include/stdio.h
+sbm.o:	/usr/include/string.h
+sbm.o:	/usr/include/sys/cdefs.h
+sbm.o:	/usr/include/sys/null.h
+sbm.o:	/usr/include/sys/types.h
+sbm.o:	/usr/include/sys/ucred.h
+sbm.o:	/usr/include/unistd.h
+sbm.o:	eesite.h
+sbm.o:	sb.h
+sbm.o:	sbm.c
+sbm.o:	sbproto.h

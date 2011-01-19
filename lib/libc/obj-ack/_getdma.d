@@ -1,0 +1,24 @@
+
+_getdma.o:	/usr/include/ansi.h
+_getdma.o:	/usr/include/errno.h
+_getdma.o:	/usr/include/lib.h
+_getdma.o:	/usr/include/limits.h
+_getdma.o:	/usr/include/machine/interrupt.h
+_getdma.o:	/usr/include/minix/callnr.h
+_getdma.o:	/usr/include/minix/com.h
+_getdma.o:	/usr/include/minix/config.h
+_getdma.o:	/usr/include/minix/const.h
+_getdma.o:	/usr/include/minix/dir.h
+_getdma.o:	/usr/include/minix/ipc.h
+_getdma.o:	/usr/include/minix/ipcconst.h
+_getdma.o:	/usr/include/minix/limits.h
+_getdma.o:	/usr/include/minix/sys_config.h
+_getdma.o:	/usr/include/minix/type.h
+_getdma.o:	/usr/include/minix/types.h
+_getdma.o:	/usr/include/stdarg.h
+_getdma.o:	/usr/include/stdint.h
+_getdma.o:	/usr/include/sys/cdefs.h
+_getdma.o:	/usr/include/sys/null.h
+_getdma.o:	/usr/include/sys/ucred.h
+_getdma.o:	/usr/include/unistd.h
+_getdma.o:	/usr/src/lib/libc/other/_getdma.c

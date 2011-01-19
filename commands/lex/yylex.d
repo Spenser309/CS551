@@ -1,0 +1,19 @@
+
+yylex.o:	/usr/include/ansi.h
+yylex.o:	/usr/include/ctype.h
+yylex.o:	/usr/include/limits.h
+yylex.o:	/usr/include/minix/dir.h
+yylex.o:	/usr/include/minix/limits.h
+yylex.o:	/usr/include/minix/sys_config.h
+yylex.o:	/usr/include/minix/types.h
+yylex.o:	/usr/include/stddef.h
+yylex.o:	/usr/include/stdint.h
+yylex.o:	/usr/include/stdio.h
+yylex.o:	/usr/include/stdlib.h
+yylex.o:	/usr/include/string.h
+yylex.o:	/usr/include/sys/cdefs.h
+yylex.o:	/usr/include/sys/null.h
+yylex.o:	/usr/include/sys/types.h
+yylex.o:	config.h
+yylex.o:	flexdef.h
+yylex.o:	yylex.c

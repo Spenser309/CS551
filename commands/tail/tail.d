@@ -1,0 +1,22 @@
+
+tail.o:	/usr/include/ansi.h
+tail.o:	/usr/include/ctype.h
+tail.o:	/usr/include/limits.h
+tail.o:	/usr/include/machine/interrupt.h
+tail.o:	/usr/include/minix/config.h
+tail.o:	/usr/include/minix/dir.h
+tail.o:	/usr/include/minix/limits.h
+tail.o:	/usr/include/minix/sys_config.h
+tail.o:	/usr/include/minix/type.h
+tail.o:	/usr/include/minix/types.h
+tail.o:	/usr/include/stddef.h
+tail.o:	/usr/include/stdint.h
+tail.o:	/usr/include/stdio.h
+tail.o:	/usr/include/stdlib.h
+tail.o:	/usr/include/sys/cdefs.h
+tail.o:	/usr/include/sys/null.h
+tail.o:	/usr/include/sys/stat.h
+tail.o:	/usr/include/sys/types.h
+tail.o:	/usr/include/sys/ucred.h
+tail.o:	/usr/include/unistd.h
+tail.o:	tail.c

@@ -1,0 +1,23 @@
+
+bt_put.o:	/usr/include/ansi.h
+bt_put.o:	/usr/include/assert.h
+bt_put.o:	/usr/include/db.h
+bt_put.o:	/usr/include/errno.h
+bt_put.o:	/usr/include/limits.h
+bt_put.o:	/usr/include/minix/dir.h
+bt_put.o:	/usr/include/minix/limits.h
+bt_put.o:	/usr/include/minix/sys_config.h
+bt_put.o:	/usr/include/minix/types.h
+bt_put.o:	/usr/include/mpool.h
+bt_put.o:	/usr/include/stddef.h
+bt_put.o:	/usr/include/stdint.h
+bt_put.o:	/usr/include/stdio.h
+bt_put.o:	/usr/include/stdlib.h
+bt_put.o:	/usr/include/string.h
+bt_put.o:	/usr/include/sys/cdefs.h
+bt_put.o:	/usr/include/sys/null.h
+bt_put.o:	/usr/include/sys/queue.h
+bt_put.o:	/usr/include/sys/types.h
+bt_put.o:	/usr/src/lib/libc/db/btree/bt_put.c
+bt_put.o:	/usr/src/lib/libc/db/btree/btree.h
+bt_put.o:	/usr/src/lib/libc/db/btree/extern.h

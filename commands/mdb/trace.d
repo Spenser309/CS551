@@ -1,0 +1,24 @@
+
+trace.o:	/usr/include/ansi.h
+trace.o:	/usr/include/errno.h
+trace.o:	/usr/include/limits.h
+trace.o:	/usr/include/machine/interrupt.h
+trace.o:	/usr/include/minix/config.h
+trace.o:	/usr/include/minix/const.h
+trace.o:	/usr/include/minix/dir.h
+trace.o:	/usr/include/minix/ipc.h
+trace.o:	/usr/include/minix/ipcconst.h
+trace.o:	/usr/include/minix/limits.h
+trace.o:	/usr/include/minix/sys_config.h
+trace.o:	/usr/include/minix/type.h
+trace.o:	/usr/include/minix/types.h
+trace.o:	/usr/include/stdint.h
+trace.o:	/usr/include/stdio.h
+trace.o:	/usr/include/sys/cdefs.h
+trace.o:	/usr/include/sys/null.h
+trace.o:	/usr/include/sys/ptrace.h
+trace.o:	/usr/include/sys/types.h
+trace.o:	/usr/include/timers.h
+trace.o:	mdb.h
+trace.o:	proto.h
+trace.o:	trace.c

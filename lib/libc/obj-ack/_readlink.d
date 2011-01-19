@@ -1,0 +1,24 @@
+
+_readlink.o:	/usr/include/ansi.h
+_readlink.o:	/usr/include/errno.h
+_readlink.o:	/usr/include/lib.h
+_readlink.o:	/usr/include/limits.h
+_readlink.o:	/usr/include/machine/interrupt.h
+_readlink.o:	/usr/include/minix/callnr.h
+_readlink.o:	/usr/include/minix/com.h
+_readlink.o:	/usr/include/minix/config.h
+_readlink.o:	/usr/include/minix/const.h
+_readlink.o:	/usr/include/minix/dir.h
+_readlink.o:	/usr/include/minix/ipc.h
+_readlink.o:	/usr/include/minix/ipcconst.h
+_readlink.o:	/usr/include/minix/limits.h
+_readlink.o:	/usr/include/minix/sys_config.h
+_readlink.o:	/usr/include/minix/type.h
+_readlink.o:	/usr/include/minix/types.h
+_readlink.o:	/usr/include/stdint.h
+_readlink.o:	/usr/include/string.h
+_readlink.o:	/usr/include/sys/cdefs.h
+_readlink.o:	/usr/include/sys/null.h
+_readlink.o:	/usr/include/sys/ucred.h
+_readlink.o:	/usr/include/unistd.h
+_readlink.o:	/usr/src/lib/libc/posix/_readlink.c

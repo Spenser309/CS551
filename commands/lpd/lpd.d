@@ -1,0 +1,27 @@
+
+lpd.o:	/usr/include/ansi.h
+lpd.o:	/usr/include/dirent.h
+lpd.o:	/usr/include/errno.h
+lpd.o:	/usr/include/fcntl.h
+lpd.o:	/usr/include/limits.h
+lpd.o:	/usr/include/machine/interrupt.h
+lpd.o:	/usr/include/minix/config.h
+lpd.o:	/usr/include/minix/dir.h
+lpd.o:	/usr/include/minix/dirent.h
+lpd.o:	/usr/include/minix/limits.h
+lpd.o:	/usr/include/minix/sys_config.h
+lpd.o:	/usr/include/minix/type.h
+lpd.o:	/usr/include/minix/types.h
+lpd.o:	/usr/include/stddef.h
+lpd.o:	/usr/include/stdint.h
+lpd.o:	/usr/include/stdio.h
+lpd.o:	/usr/include/stdlib.h
+lpd.o:	/usr/include/string.h
+lpd.o:	/usr/include/sys/cdefs.h
+lpd.o:	/usr/include/sys/null.h
+lpd.o:	/usr/include/sys/stat.h
+lpd.o:	/usr/include/sys/types.h
+lpd.o:	/usr/include/sys/ucred.h
+lpd.o:	/usr/include/termcap.h
+lpd.o:	/usr/include/unistd.h
+lpd.o:	lpd.c

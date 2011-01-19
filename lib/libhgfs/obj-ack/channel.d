@@ -1,0 +1,23 @@
+
+channel.o:	/usr/include/ansi.h
+channel.o:	/usr/include/errno.h
+channel.o:	/usr/include/hgfs.h
+channel.o:	/usr/include/limits.h
+channel.o:	/usr/include/minix/config.h
+channel.o:	/usr/include/minix/const.h
+channel.o:	/usr/include/minix/dir.h
+channel.o:	/usr/include/minix/limits.h
+channel.o:	/usr/include/minix/sys_config.h
+channel.o:	/usr/include/minix/types.h
+channel.o:	/usr/include/minix/u64.h
+channel.o:	/usr/include/stdint.h
+channel.o:	/usr/include/string.h
+channel.o:	/usr/include/sys/cdefs.h
+channel.o:	/usr/include/sys/null.h
+channel.o:	/usr/include/sys/types.h
+channel.o:	/usr/src/lib/libhgfs/channel.c
+channel.o:	/usr/src/lib/libhgfs/const.h
+channel.o:	/usr/src/lib/libhgfs/glo.h
+channel.o:	/usr/src/lib/libhgfs/inc.h
+channel.o:	/usr/src/lib/libhgfs/proto.h
+channel.o:	/usr/src/lib/libhgfs/type.h

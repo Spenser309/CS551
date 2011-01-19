@@ -1,0 +1,19 @@
+
+ccl.o:	/usr/include/ansi.h
+ccl.o:	/usr/include/ctype.h
+ccl.o:	/usr/include/limits.h
+ccl.o:	/usr/include/minix/dir.h
+ccl.o:	/usr/include/minix/limits.h
+ccl.o:	/usr/include/minix/sys_config.h
+ccl.o:	/usr/include/minix/types.h
+ccl.o:	/usr/include/stddef.h
+ccl.o:	/usr/include/stdint.h
+ccl.o:	/usr/include/stdio.h
+ccl.o:	/usr/include/stdlib.h
+ccl.o:	/usr/include/string.h
+ccl.o:	/usr/include/sys/cdefs.h
+ccl.o:	/usr/include/sys/null.h
+ccl.o:	/usr/include/sys/types.h
+ccl.o:	ccl.c
+ccl.o:	config.h
+ccl.o:	flexdef.h

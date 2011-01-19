@@ -1,0 +1,23 @@
+
+hash_buf.o:	/usr/include/ansi.h
+hash_buf.o:	/usr/include/assert.h
+hash_buf.o:	/usr/include/db.h
+hash_buf.o:	/usr/include/errno.h
+hash_buf.o:	/usr/include/limits.h
+hash_buf.o:	/usr/include/minix/dir.h
+hash_buf.o:	/usr/include/minix/limits.h
+hash_buf.o:	/usr/include/minix/sys_config.h
+hash_buf.o:	/usr/include/minix/types.h
+hash_buf.o:	/usr/include/stddef.h
+hash_buf.o:	/usr/include/stdint.h
+hash_buf.o:	/usr/include/stdio.h
+hash_buf.o:	/usr/include/stdlib.h
+hash_buf.o:	/usr/include/string.h
+hash_buf.o:	/usr/include/sys/cdefs.h
+hash_buf.o:	/usr/include/sys/null.h
+hash_buf.o:	/usr/include/sys/param.h
+hash_buf.o:	/usr/include/sys/types.h
+hash_buf.o:	/usr/src/lib/libc/db/hash/extern.h
+hash_buf.o:	/usr/src/lib/libc/db/hash/hash.h
+hash_buf.o:	/usr/src/lib/libc/db/hash/hash_buf.c
+hash_buf.o:	/usr/src/lib/libc/db/hash/page.h

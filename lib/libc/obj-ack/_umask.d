@@ -1,0 +1,22 @@
+
+_umask.o:	/usr/include/ansi.h
+_umask.o:	/usr/include/errno.h
+_umask.o:	/usr/include/lib.h
+_umask.o:	/usr/include/limits.h
+_umask.o:	/usr/include/machine/interrupt.h
+_umask.o:	/usr/include/minix/callnr.h
+_umask.o:	/usr/include/minix/com.h
+_umask.o:	/usr/include/minix/config.h
+_umask.o:	/usr/include/minix/const.h
+_umask.o:	/usr/include/minix/dir.h
+_umask.o:	/usr/include/minix/ipc.h
+_umask.o:	/usr/include/minix/ipcconst.h
+_umask.o:	/usr/include/minix/limits.h
+_umask.o:	/usr/include/minix/sys_config.h
+_umask.o:	/usr/include/minix/type.h
+_umask.o:	/usr/include/minix/types.h
+_umask.o:	/usr/include/stdint.h
+_umask.o:	/usr/include/sys/cdefs.h
+_umask.o:	/usr/include/sys/null.h
+_umask.o:	/usr/include/sys/stat.h
+_umask.o:	/usr/src/lib/libc/posix/_umask.c

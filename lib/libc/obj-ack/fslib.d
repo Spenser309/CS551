@@ -1,0 +1,24 @@
+
+fslib.o:	/usr/include/ansi.h
+fslib.o:	/usr/include/dirent.h
+fslib.o:	/usr/include/limits.h
+fslib.o:	/usr/include/machine/interrupt.h
+fslib.o:	/usr/include/minix/config.h
+fslib.o:	/usr/include/minix/const.h
+fslib.o:	/usr/include/minix/dir.h
+fslib.o:	/usr/include/minix/dirent.h
+fslib.o:	/usr/include/minix/fslib.h
+fslib.o:	/usr/include/minix/limits.h
+fslib.o:	/usr/include/minix/sys_config.h
+fslib.o:	/usr/include/minix/type.h
+fslib.o:	/usr/include/minix/types.h
+fslib.o:	/usr/include/stdint.h
+fslib.o:	/usr/include/sys/cdefs.h
+fslib.o:	/usr/include/sys/null.h
+fslib.o:	/usr/include/sys/queue.h
+fslib.o:	/usr/include/sys/types.h
+fslib.o:	/usr/src/lib/libc/../../servers/mfs/const.h
+fslib.o:	/usr/src/lib/libc/../../servers/mfs/inode.h
+fslib.o:	/usr/src/lib/libc/../../servers/mfs/super.h
+fslib.o:	/usr/src/lib/libc/../../servers/mfs/type.h
+fslib.o:	/usr/src/lib/libc/other/fslib.c

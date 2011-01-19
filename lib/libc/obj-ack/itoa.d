@@ -1,0 +1,21 @@
+
+itoa.o:	/usr/include/ansi.h
+itoa.o:	/usr/include/errno.h
+itoa.o:	/usr/include/lib.h
+itoa.o:	/usr/include/limits.h
+itoa.o:	/usr/include/machine/interrupt.h
+itoa.o:	/usr/include/minix/callnr.h
+itoa.o:	/usr/include/minix/com.h
+itoa.o:	/usr/include/minix/config.h
+itoa.o:	/usr/include/minix/const.h
+itoa.o:	/usr/include/minix/dir.h
+itoa.o:	/usr/include/minix/ipc.h
+itoa.o:	/usr/include/minix/ipcconst.h
+itoa.o:	/usr/include/minix/limits.h
+itoa.o:	/usr/include/minix/sys_config.h
+itoa.o:	/usr/include/minix/type.h
+itoa.o:	/usr/include/minix/types.h
+itoa.o:	/usr/include/stdint.h
+itoa.o:	/usr/include/sys/cdefs.h
+itoa.o:	/usr/include/sys/null.h
+itoa.o:	/usr/src/lib/libc/other/itoa.c

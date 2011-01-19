@@ -1,0 +1,21 @@
+
+roff.o:	/usr/include/ansi.h
+roff.o:	/usr/include/assert.h
+roff.o:	/usr/include/ctype.h
+roff.o:	/usr/include/limits.h
+roff.o:	/usr/include/minix/dir.h
+roff.o:	/usr/include/minix/limits.h
+roff.o:	/usr/include/minix/sys_config.h
+roff.o:	/usr/include/minix/types.h
+roff.o:	/usr/include/stddef.h
+roff.o:	/usr/include/stdint.h
+roff.o:	/usr/include/stdio.h
+roff.o:	/usr/include/stdlib.h
+roff.o:	/usr/include/string.h
+roff.o:	/usr/include/sys/cdefs.h
+roff.o:	/usr/include/sys/null.h
+roff.o:	/usr/include/sys/types.h
+roff.o:	config.h
+roff.o:	mandoc.h
+roff.o:	roff.c
+roff.o:	roff.h

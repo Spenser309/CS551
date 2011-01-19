@@ -1,0 +1,23 @@
+
+regcomp.o:	/usr/include/ansi.h
+regcomp.o:	/usr/include/assert.h
+regcomp.o:	/usr/include/ctype.h
+regcomp.o:	/usr/include/limits.h
+regcomp.o:	/usr/include/minix/dir.h
+regcomp.o:	/usr/include/minix/limits.h
+regcomp.o:	/usr/include/minix/sys_config.h
+regcomp.o:	/usr/include/minix/types.h
+regcomp.o:	/usr/include/regex.h
+regcomp.o:	/usr/include/stddef.h
+regcomp.o:	/usr/include/stdint.h
+regcomp.o:	/usr/include/stdio.h
+regcomp.o:	/usr/include/stdlib.h
+regcomp.o:	/usr/include/string.h
+regcomp.o:	/usr/include/sys/cdefs.h
+regcomp.o:	/usr/include/sys/null.h
+regcomp.o:	/usr/include/sys/types.h
+regcomp.o:	/usr/src/lib/libc/regex/cclass.h
+regcomp.o:	/usr/src/lib/libc/regex/cname.h
+regcomp.o:	/usr/src/lib/libc/regex/regcomp.c
+regcomp.o:	/usr/src/lib/libc/regex/regex2.h
+regcomp.o:	/usr/src/lib/libc/regex/utils.h

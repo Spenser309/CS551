@@ -1,0 +1,21 @@
+
+progressbar.o:	/usr/include/ansi.h
+progressbar.o:	/usr/include/limits.h
+progressbar.o:	/usr/include/machine/interrupt.h
+progressbar.o:	/usr/include/minix/config.h
+progressbar.o:	/usr/include/minix/dir.h
+progressbar.o:	/usr/include/minix/limits.h
+progressbar.o:	/usr/include/minix/sys_config.h
+progressbar.o:	/usr/include/minix/type.h
+progressbar.o:	/usr/include/minix/types.h
+progressbar.o:	/usr/include/stddef.h
+progressbar.o:	/usr/include/stdint.h
+progressbar.o:	/usr/include/stdio.h
+progressbar.o:	/usr/include/stdlib.h
+progressbar.o:	/usr/include/string.h
+progressbar.o:	/usr/include/sys/cdefs.h
+progressbar.o:	/usr/include/sys/null.h
+progressbar.o:	/usr/include/sys/ucred.h
+progressbar.o:	/usr/include/time.h
+progressbar.o:	/usr/include/unistd.h
+progressbar.o:	progressbar.c

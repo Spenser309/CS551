@@ -1,0 +1,23 @@
+
+_ptrace.o:	/usr/include/ansi.h
+_ptrace.o:	/usr/include/errno.h
+_ptrace.o:	/usr/include/lib.h
+_ptrace.o:	/usr/include/limits.h
+_ptrace.o:	/usr/include/machine/interrupt.h
+_ptrace.o:	/usr/include/minix/callnr.h
+_ptrace.o:	/usr/include/minix/com.h
+_ptrace.o:	/usr/include/minix/config.h
+_ptrace.o:	/usr/include/minix/const.h
+_ptrace.o:	/usr/include/minix/dir.h
+_ptrace.o:	/usr/include/minix/ipc.h
+_ptrace.o:	/usr/include/minix/ipcconst.h
+_ptrace.o:	/usr/include/minix/limits.h
+_ptrace.o:	/usr/include/minix/sys_config.h
+_ptrace.o:	/usr/include/minix/type.h
+_ptrace.o:	/usr/include/minix/types.h
+_ptrace.o:	/usr/include/stdint.h
+_ptrace.o:	/usr/include/sys/cdefs.h
+_ptrace.o:	/usr/include/sys/null.h
+_ptrace.o:	/usr/include/sys/ucred.h
+_ptrace.o:	/usr/include/unistd.h
+_ptrace.o:	/usr/src/lib/libc/posix/_ptrace.c

@@ -1,0 +1,24 @@
+
+lib.o:	/usr/include/ansi.h
+lib.o:	/usr/include/assert.h
+lib.o:	/usr/include/ctype.h
+lib.o:	/usr/include/errno.h
+lib.o:	/usr/include/limits.h
+lib.o:	/usr/include/math.h
+lib.o:	/usr/include/mathconst.h
+lib.o:	/usr/include/minix/dir.h
+lib.o:	/usr/include/minix/limits.h
+lib.o:	/usr/include/minix/sys_config.h
+lib.o:	/usr/include/minix/types.h
+lib.o:	/usr/include/stdarg.h
+lib.o:	/usr/include/stddef.h
+lib.o:	/usr/include/stdint.h
+lib.o:	/usr/include/stdio.h
+lib.o:	/usr/include/stdlib.h
+lib.o:	/usr/include/string.h
+lib.o:	/usr/include/sys/cdefs.h
+lib.o:	/usr/include/sys/null.h
+lib.o:	awk.h
+lib.o:	awkgram.h
+lib.o:	lib.c
+lib.o:	proto.h

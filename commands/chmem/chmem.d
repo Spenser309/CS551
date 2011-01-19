@@ -1,0 +1,24 @@
+
+chmem.o:	/usr/include/a.out.h
+chmem.o:	/usr/include/ansi.h
+chmem.o:	/usr/include/errno.h
+chmem.o:	/usr/include/fcntl.h
+chmem.o:	/usr/include/limits.h
+chmem.o:	/usr/include/machine/interrupt.h
+chmem.o:	/usr/include/minix/a.out.h
+chmem.o:	/usr/include/minix/config.h
+chmem.o:	/usr/include/minix/dir.h
+chmem.o:	/usr/include/minix/limits.h
+chmem.o:	/usr/include/minix/sys_config.h
+chmem.o:	/usr/include/minix/type.h
+chmem.o:	/usr/include/minix/types.h
+chmem.o:	/usr/include/stddef.h
+chmem.o:	/usr/include/stdint.h
+chmem.o:	/usr/include/stdio.h
+chmem.o:	/usr/include/stdlib.h
+chmem.o:	/usr/include/sys/cdefs.h
+chmem.o:	/usr/include/sys/null.h
+chmem.o:	/usr/include/sys/types.h
+chmem.o:	/usr/include/sys/ucred.h
+chmem.o:	/usr/include/unistd.h
+chmem.o:	chmem.c

@@ -1,0 +1,21 @@
+
+vol.o:	/usr/include/ansi.h
+vol.o:	/usr/include/limits.h
+vol.o:	/usr/include/minix/dir.h
+vol.o:	/usr/include/minix/limits.h
+vol.o:	/usr/include/minix/sys_config.h
+vol.o:	/usr/include/minix/types.h
+vol.o:	/usr/include/stddef.h
+vol.o:	/usr/include/stdint.h
+vol.o:	/usr/include/stdlib.h
+vol.o:	/usr/include/string.h
+vol.o:	/usr/include/sys/cdefs.h
+vol.o:	/usr/include/sys/null.h
+vol.o:	/usr/include/sys/types.h
+vol.o:	/usr/include/time.h
+vol.o:	config.h
+vol.o:	libmdoc.h
+vol.o:	mandoc.h
+vol.o:	mdoc.h
+vol.o:	vol.c
+vol.o:	vol.in

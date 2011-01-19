@@ -1,0 +1,27 @@
+
+tty_subs.o:	/usr/include/ansi.h
+tty_subs.o:	/usr/include/fcntl.h
+tty_subs.o:	/usr/include/limits.h
+tty_subs.o:	/usr/include/machine/interrupt.h
+tty_subs.o:	/usr/include/minix/config.h
+tty_subs.o:	/usr/include/minix/const.h
+tty_subs.o:	/usr/include/minix/dir.h
+tty_subs.o:	/usr/include/minix/limits.h
+tty_subs.o:	/usr/include/minix/sys_config.h
+tty_subs.o:	/usr/include/minix/type.h
+tty_subs.o:	/usr/include/minix/types.h
+tty_subs.o:	/usr/include/stdarg.h
+tty_subs.o:	/usr/include/stddef.h
+tty_subs.o:	/usr/include/stdint.h
+tty_subs.o:	/usr/include/stdio.h
+tty_subs.o:	/usr/include/stdlib.h
+tty_subs.o:	/usr/include/string.h
+tty_subs.o:	/usr/include/sys/cdefs.h
+tty_subs.o:	/usr/include/sys/null.h
+tty_subs.o:	/usr/include/sys/stat.h
+tty_subs.o:	/usr/include/sys/types.h
+tty_subs.o:	/usr/include/sys/ucred.h
+tty_subs.o:	/usr/include/unistd.h
+tty_subs.o:	extern.h
+tty_subs.o:	pax.h
+tty_subs.o:	tty_subs.c

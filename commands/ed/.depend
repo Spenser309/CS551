@@ -1,0 +1,24 @@
+
+ed.o:	/usr/include/ansi.h
+ed.o:	/usr/include/limits.h
+ed.o:	/usr/include/machine/interrupt.h
+ed.o:	/usr/include/minix/config.h
+ed.o:	/usr/include/minix/dir.h
+ed.o:	/usr/include/minix/limits.h
+ed.o:	/usr/include/minix/sys_config.h
+ed.o:	/usr/include/minix/type.h
+ed.o:	/usr/include/minix/types.h
+ed.o:	/usr/include/setjmp.h
+ed.o:	/usr/include/signal.h
+ed.o:	/usr/include/stddef.h
+ed.o:	/usr/include/stdint.h
+ed.o:	/usr/include/stdio.h
+ed.o:	/usr/include/stdlib.h
+ed.o:	/usr/include/string.h
+ed.o:	/usr/include/sys/cdefs.h
+ed.o:	/usr/include/sys/null.h
+ed.o:	/usr/include/sys/types.h
+ed.o:	/usr/include/sys/ucred.h
+ed.o:	/usr/include/sys/wait.h
+ed.o:	/usr/include/unistd.h
+ed.o:	ed.c

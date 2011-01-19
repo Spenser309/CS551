@@ -1,0 +1,19 @@
+
+mail.o:	/usr/include/ansi.h
+mail.o:	/usr/include/minix/types.h
+mail.o:	/usr/include/setjmp.h
+mail.o:	/usr/include/signal.h
+mail.o:	/usr/include/stdarg.h
+mail.o:	/usr/include/stddef.h
+mail.o:	/usr/include/stdlib.h
+mail.o:	/usr/include/sys/null.h
+mail.o:	/usr/include/sys/stat.h
+mail.o:	/usr/include/sys/types.h
+mail.o:	error.h
+mail.o:	exec.h
+mail.o:	mail.c
+mail.o:	mail.h
+mail.o:	memalloc.h
+mail.o:	output.h
+mail.o:	shell.h
+mail.o:	var.h

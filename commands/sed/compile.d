@@ -1,0 +1,23 @@
+
+compile.o:	/usr/include/ansi.h
+compile.o:	/usr/include/ctype.h
+compile.o:	/usr/include/errno.h
+compile.o:	/usr/include/fcntl.h
+compile.o:	/usr/include/limits.h
+compile.o:	/usr/include/minix/dir.h
+compile.o:	/usr/include/minix/limits.h
+compile.o:	/usr/include/minix/sys_config.h
+compile.o:	/usr/include/minix/types.h
+compile.o:	/usr/include/regex.h
+compile.o:	/usr/include/stddef.h
+compile.o:	/usr/include/stdint.h
+compile.o:	/usr/include/stdio.h
+compile.o:	/usr/include/stdlib.h
+compile.o:	/usr/include/string.h
+compile.o:	/usr/include/sys/cdefs.h
+compile.o:	/usr/include/sys/null.h
+compile.o:	/usr/include/sys/stat.h
+compile.o:	/usr/include/sys/types.h
+compile.o:	compile.c
+compile.o:	defs.h
+compile.o:	extern.h

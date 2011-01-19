@@ -1,0 +1,22 @@
+
+bt_seq.o:	/usr/include/ansi.h
+bt_seq.o:	/usr/include/assert.h
+bt_seq.o:	/usr/include/db.h
+bt_seq.o:	/usr/include/errno.h
+bt_seq.o:	/usr/include/limits.h
+bt_seq.o:	/usr/include/minix/dir.h
+bt_seq.o:	/usr/include/minix/limits.h
+bt_seq.o:	/usr/include/minix/sys_config.h
+bt_seq.o:	/usr/include/minix/types.h
+bt_seq.o:	/usr/include/mpool.h
+bt_seq.o:	/usr/include/stddef.h
+bt_seq.o:	/usr/include/stdint.h
+bt_seq.o:	/usr/include/stdio.h
+bt_seq.o:	/usr/include/stdlib.h
+bt_seq.o:	/usr/include/sys/cdefs.h
+bt_seq.o:	/usr/include/sys/null.h
+bt_seq.o:	/usr/include/sys/queue.h
+bt_seq.o:	/usr/include/sys/types.h
+bt_seq.o:	/usr/src/lib/libc/db/btree/bt_seq.c
+bt_seq.o:	/usr/src/lib/libc/db/btree/btree.h
+bt_seq.o:	/usr/src/lib/libc/db/btree/extern.h

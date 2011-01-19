@@ -1,0 +1,25 @@
+
+backupfile.o:	/usr/include/ansi.h
+backupfile.o:	/usr/include/ctype.h
+backupfile.o:	/usr/include/dirent.h
+backupfile.o:	/usr/include/libgen.h
+backupfile.o:	/usr/include/limits.h
+backupfile.o:	/usr/include/machine/interrupt.h
+backupfile.o:	/usr/include/minix/config.h
+backupfile.o:	/usr/include/minix/dir.h
+backupfile.o:	/usr/include/minix/dirent.h
+backupfile.o:	/usr/include/minix/limits.h
+backupfile.o:	/usr/include/minix/sys_config.h
+backupfile.o:	/usr/include/minix/type.h
+backupfile.o:	/usr/include/minix/types.h
+backupfile.o:	/usr/include/stddef.h
+backupfile.o:	/usr/include/stdint.h
+backupfile.o:	/usr/include/stdio.h
+backupfile.o:	/usr/include/stdlib.h
+backupfile.o:	/usr/include/string.h
+backupfile.o:	/usr/include/sys/cdefs.h
+backupfile.o:	/usr/include/sys/null.h
+backupfile.o:	/usr/include/sys/ucred.h
+backupfile.o:	/usr/include/unistd.h
+backupfile.o:	backupfile.c
+backupfile.o:	backupfile.h

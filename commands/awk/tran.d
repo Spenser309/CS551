@@ -1,0 +1,22 @@
+
+tran.o:	/usr/include/ansi.h
+tran.o:	/usr/include/assert.h
+tran.o:	/usr/include/ctype.h
+tran.o:	/usr/include/limits.h
+tran.o:	/usr/include/math.h
+tran.o:	/usr/include/mathconst.h
+tran.o:	/usr/include/minix/dir.h
+tran.o:	/usr/include/minix/limits.h
+tran.o:	/usr/include/minix/sys_config.h
+tran.o:	/usr/include/minix/types.h
+tran.o:	/usr/include/stddef.h
+tran.o:	/usr/include/stdint.h
+tran.o:	/usr/include/stdio.h
+tran.o:	/usr/include/stdlib.h
+tran.o:	/usr/include/string.h
+tran.o:	/usr/include/sys/cdefs.h
+tran.o:	/usr/include/sys/null.h
+tran.o:	awk.h
+tran.o:	awkgram.h
+tran.o:	proto.h
+tran.o:	tran.c

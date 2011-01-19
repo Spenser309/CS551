@@ -1,0 +1,22 @@
+
+uname.o:	/usr/include/ansi.h
+uname.o:	/usr/include/limits.h
+uname.o:	/usr/include/machine/interrupt.h
+uname.o:	/usr/include/minix/config.h
+uname.o:	/usr/include/minix/dir.h
+uname.o:	/usr/include/minix/limits.h
+uname.o:	/usr/include/minix/sys_config.h
+uname.o:	/usr/include/minix/type.h
+uname.o:	/usr/include/minix/types.h
+uname.o:	/usr/include/stdarg.h
+uname.o:	/usr/include/stddef.h
+uname.o:	/usr/include/stdint.h
+uname.o:	/usr/include/stdlib.h
+uname.o:	/usr/include/string.h
+uname.o:	/usr/include/sys/cdefs.h
+uname.o:	/usr/include/sys/null.h
+uname.o:	/usr/include/sys/types.h
+uname.o:	/usr/include/sys/ucred.h
+uname.o:	/usr/include/sys/utsname.h
+uname.o:	/usr/include/unistd.h
+uname.o:	uname.c

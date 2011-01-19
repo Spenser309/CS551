@@ -1,0 +1,21 @@
+
+bt_delete.o:	/usr/include/ansi.h
+bt_delete.o:	/usr/include/assert.h
+bt_delete.o:	/usr/include/db.h
+bt_delete.o:	/usr/include/errno.h
+bt_delete.o:	/usr/include/limits.h
+bt_delete.o:	/usr/include/minix/dir.h
+bt_delete.o:	/usr/include/minix/limits.h
+bt_delete.o:	/usr/include/minix/sys_config.h
+bt_delete.o:	/usr/include/minix/types.h
+bt_delete.o:	/usr/include/mpool.h
+bt_delete.o:	/usr/include/stdint.h
+bt_delete.o:	/usr/include/stdio.h
+bt_delete.o:	/usr/include/string.h
+bt_delete.o:	/usr/include/sys/cdefs.h
+bt_delete.o:	/usr/include/sys/null.h
+bt_delete.o:	/usr/include/sys/queue.h
+bt_delete.o:	/usr/include/sys/types.h
+bt_delete.o:	/usr/src/lib/libc/db/btree/bt_delete.c
+bt_delete.o:	/usr/src/lib/libc/db/btree/btree.h
+bt_delete.o:	/usr/src/lib/libc/db/btree/extern.h

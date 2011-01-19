@@ -1,0 +1,23 @@
+
+_chroot.o:	/usr/include/ansi.h
+_chroot.o:	/usr/include/errno.h
+_chroot.o:	/usr/include/lib.h
+_chroot.o:	/usr/include/limits.h
+_chroot.o:	/usr/include/machine/interrupt.h
+_chroot.o:	/usr/include/minix/callnr.h
+_chroot.o:	/usr/include/minix/com.h
+_chroot.o:	/usr/include/minix/config.h
+_chroot.o:	/usr/include/minix/const.h
+_chroot.o:	/usr/include/minix/dir.h
+_chroot.o:	/usr/include/minix/ipc.h
+_chroot.o:	/usr/include/minix/ipcconst.h
+_chroot.o:	/usr/include/minix/limits.h
+_chroot.o:	/usr/include/minix/sys_config.h
+_chroot.o:	/usr/include/minix/type.h
+_chroot.o:	/usr/include/minix/types.h
+_chroot.o:	/usr/include/stdint.h
+_chroot.o:	/usr/include/sys/cdefs.h
+_chroot.o:	/usr/include/sys/null.h
+_chroot.o:	/usr/include/sys/ucred.h
+_chroot.o:	/usr/include/unistd.h
+_chroot.o:	/usr/src/lib/libc/posix/_chroot.c

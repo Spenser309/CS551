@@ -1,0 +1,22 @@
+
+_creat.o:	/usr/include/ansi.h
+_creat.o:	/usr/include/errno.h
+_creat.o:	/usr/include/fcntl.h
+_creat.o:	/usr/include/lib.h
+_creat.o:	/usr/include/limits.h
+_creat.o:	/usr/include/machine/interrupt.h
+_creat.o:	/usr/include/minix/callnr.h
+_creat.o:	/usr/include/minix/com.h
+_creat.o:	/usr/include/minix/config.h
+_creat.o:	/usr/include/minix/const.h
+_creat.o:	/usr/include/minix/dir.h
+_creat.o:	/usr/include/minix/ipc.h
+_creat.o:	/usr/include/minix/ipcconst.h
+_creat.o:	/usr/include/minix/limits.h
+_creat.o:	/usr/include/minix/sys_config.h
+_creat.o:	/usr/include/minix/type.h
+_creat.o:	/usr/include/minix/types.h
+_creat.o:	/usr/include/stdint.h
+_creat.o:	/usr/include/sys/cdefs.h
+_creat.o:	/usr/include/sys/null.h
+_creat.o:	/usr/src/lib/libc/posix/_creat.c

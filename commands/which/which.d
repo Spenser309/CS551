@@ -1,0 +1,21 @@
+
+which.o:	/usr/include/ansi.h
+which.o:	/usr/include/limits.h
+which.o:	/usr/include/machine/interrupt.h
+which.o:	/usr/include/minix/config.h
+which.o:	/usr/include/minix/dir.h
+which.o:	/usr/include/minix/limits.h
+which.o:	/usr/include/minix/sys_config.h
+which.o:	/usr/include/minix/type.h
+which.o:	/usr/include/minix/types.h
+which.o:	/usr/include/stddef.h
+which.o:	/usr/include/stdint.h
+which.o:	/usr/include/stdio.h
+which.o:	/usr/include/stdlib.h
+which.o:	/usr/include/string.h
+which.o:	/usr/include/sys/cdefs.h
+which.o:	/usr/include/sys/null.h
+which.o:	/usr/include/sys/types.h
+which.o:	/usr/include/sys/ucred.h
+which.o:	/usr/include/unistd.h
+which.o:	which.c

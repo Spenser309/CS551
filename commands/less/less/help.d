@@ -1,0 +1,26 @@
+
+help.o:	/usr/include/ansi.h
+help.o:	/usr/include/ctype.h
+help.o:	/usr/include/fcntl.h
+help.o:	/usr/include/limits.h
+help.o:	/usr/include/machine/interrupt.h
+help.o:	/usr/include/minix/config.h
+help.o:	/usr/include/minix/dir.h
+help.o:	/usr/include/minix/limits.h
+help.o:	/usr/include/minix/sys_config.h
+help.o:	/usr/include/minix/type.h
+help.o:	/usr/include/minix/types.h
+help.o:	/usr/include/stddef.h
+help.o:	/usr/include/stdint.h
+help.o:	/usr/include/stdio.h
+help.o:	/usr/include/stdlib.h
+help.o:	/usr/include/string.h
+help.o:	/usr/include/sys/cdefs.h
+help.o:	/usr/include/sys/null.h
+help.o:	/usr/include/sys/types.h
+help.o:	/usr/include/sys/ucred.h
+help.o:	/usr/include/unistd.h
+help.o:	/usr/src/commands/less/less/defines.h
+help.o:	funcs.h
+help.o:	help.c
+help.o:	less.h

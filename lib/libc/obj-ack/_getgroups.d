@@ -1,0 +1,23 @@
+
+_getgroups.o:	/usr/include/ansi.h
+_getgroups.o:	/usr/include/errno.h
+_getgroups.o:	/usr/include/lib.h
+_getgroups.o:	/usr/include/limits.h
+_getgroups.o:	/usr/include/machine/interrupt.h
+_getgroups.o:	/usr/include/minix/callnr.h
+_getgroups.o:	/usr/include/minix/com.h
+_getgroups.o:	/usr/include/minix/config.h
+_getgroups.o:	/usr/include/minix/const.h
+_getgroups.o:	/usr/include/minix/dir.h
+_getgroups.o:	/usr/include/minix/ipc.h
+_getgroups.o:	/usr/include/minix/ipcconst.h
+_getgroups.o:	/usr/include/minix/limits.h
+_getgroups.o:	/usr/include/minix/sys_config.h
+_getgroups.o:	/usr/include/minix/type.h
+_getgroups.o:	/usr/include/minix/types.h
+_getgroups.o:	/usr/include/stdint.h
+_getgroups.o:	/usr/include/sys/cdefs.h
+_getgroups.o:	/usr/include/sys/null.h
+_getgroups.o:	/usr/include/sys/ucred.h
+_getgroups.o:	/usr/include/unistd.h
+_getgroups.o:	/usr/src/lib/libc/posix/_getgroups.c

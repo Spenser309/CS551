@@ -1,0 +1,26 @@
+
+gethostname.o:	/usr/include/ansi.h
+gethostname.o:	/usr/include/fcntl.h
+gethostname.o:	/usr/include/inttypes.h
+gethostname.o:	/usr/include/limits.h
+gethostname.o:	/usr/include/machine/interrupt.h
+gethostname.o:	/usr/include/minix/config.h
+gethostname.o:	/usr/include/minix/dir.h
+gethostname.o:	/usr/include/minix/limits.h
+gethostname.o:	/usr/include/minix/sys_config.h
+gethostname.o:	/usr/include/minix/type.h
+gethostname.o:	/usr/include/minix/types.h
+gethostname.o:	/usr/include/net/gen/netdb.h
+gethostname.o:	/usr/include/net/gen/socket.h
+gethostname.o:	/usr/include/netinet/in.h
+gethostname.o:	/usr/include/stddef.h
+gethostname.o:	/usr/include/stdint.h
+gethostname.o:	/usr/include/stdlib.h
+gethostname.o:	/usr/include/string.h
+gethostname.o:	/usr/include/sys/cdefs.h
+gethostname.o:	/usr/include/sys/null.h
+gethostname.o:	/usr/include/sys/socket.h
+gethostname.o:	/usr/include/sys/types.h
+gethostname.o:	/usr/include/sys/ucred.h
+gethostname.o:	/usr/include/unistd.h
+gethostname.o:	/usr/src/lib/libc/ip/gethostname.c

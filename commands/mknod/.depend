@@ -1,0 +1,22 @@
+
+mknod.o:	/usr/include/ansi.h
+mknod.o:	/usr/include/errno.h
+mknod.o:	/usr/include/limits.h
+mknod.o:	/usr/include/machine/interrupt.h
+mknod.o:	/usr/include/minix/config.h
+mknod.o:	/usr/include/minix/dir.h
+mknod.o:	/usr/include/minix/limits.h
+mknod.o:	/usr/include/minix/minlib.h
+mknod.o:	/usr/include/minix/sys_config.h
+mknod.o:	/usr/include/minix/type.h
+mknod.o:	/usr/include/minix/types.h
+mknod.o:	/usr/include/stddef.h
+mknod.o:	/usr/include/stdint.h
+mknod.o:	/usr/include/stdio.h
+mknod.o:	/usr/include/stdlib.h
+mknod.o:	/usr/include/sys/cdefs.h
+mknod.o:	/usr/include/sys/null.h
+mknod.o:	/usr/include/sys/types.h
+mknod.o:	/usr/include/sys/ucred.h
+mknod.o:	/usr/include/unistd.h
+mknod.o:	mknod.c

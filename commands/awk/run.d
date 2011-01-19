@@ -1,0 +1,24 @@
+
+run.o:	/usr/include/ansi.h
+run.o:	/usr/include/assert.h
+run.o:	/usr/include/ctype.h
+run.o:	/usr/include/limits.h
+run.o:	/usr/include/math.h
+run.o:	/usr/include/mathconst.h
+run.o:	/usr/include/minix/dir.h
+run.o:	/usr/include/minix/limits.h
+run.o:	/usr/include/minix/sys_config.h
+run.o:	/usr/include/minix/types.h
+run.o:	/usr/include/setjmp.h
+run.o:	/usr/include/stddef.h
+run.o:	/usr/include/stdint.h
+run.o:	/usr/include/stdio.h
+run.o:	/usr/include/stdlib.h
+run.o:	/usr/include/string.h
+run.o:	/usr/include/sys/cdefs.h
+run.o:	/usr/include/sys/null.h
+run.o:	/usr/include/time.h
+run.o:	awk.h
+run.o:	awkgram.h
+run.o:	proto.h
+run.o:	run.c

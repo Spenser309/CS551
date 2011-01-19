@@ -1,0 +1,23 @@
+
+_setgid.o:	/usr/include/ansi.h
+_setgid.o:	/usr/include/errno.h
+_setgid.o:	/usr/include/lib.h
+_setgid.o:	/usr/include/limits.h
+_setgid.o:	/usr/include/machine/interrupt.h
+_setgid.o:	/usr/include/minix/callnr.h
+_setgid.o:	/usr/include/minix/com.h
+_setgid.o:	/usr/include/minix/config.h
+_setgid.o:	/usr/include/minix/const.h
+_setgid.o:	/usr/include/minix/dir.h
+_setgid.o:	/usr/include/minix/ipc.h
+_setgid.o:	/usr/include/minix/ipcconst.h
+_setgid.o:	/usr/include/minix/limits.h
+_setgid.o:	/usr/include/minix/sys_config.h
+_setgid.o:	/usr/include/minix/type.h
+_setgid.o:	/usr/include/minix/types.h
+_setgid.o:	/usr/include/stdint.h
+_setgid.o:	/usr/include/sys/cdefs.h
+_setgid.o:	/usr/include/sys/null.h
+_setgid.o:	/usr/include/sys/ucred.h
+_setgid.o:	/usr/include/unistd.h
+_setgid.o:	/usr/src/lib/libc/posix/_setgid.c

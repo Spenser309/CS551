@@ -1,0 +1,24 @@
+
+md5hl.o:	/usr/include/ansi.h
+md5hl.o:	/usr/include/assert.h
+md5hl.o:	/usr/include/errno.h
+md5hl.o:	/usr/include/fcntl.h
+md5hl.o:	/usr/include/limits.h
+md5hl.o:	/usr/include/machine/interrupt.h
+md5hl.o:	/usr/include/minix/config.h
+md5hl.o:	/usr/include/minix/dir.h
+md5hl.o:	/usr/include/minix/limits.h
+md5hl.o:	/usr/include/minix/md5.h
+md5hl.o:	/usr/include/minix/sys_config.h
+md5hl.o:	/usr/include/minix/type.h
+md5hl.o:	/usr/include/minix/types.h
+md5hl.o:	/usr/include/stddef.h
+md5hl.o:	/usr/include/stdint.h
+md5hl.o:	/usr/include/stdio.h
+md5hl.o:	/usr/include/stdlib.h
+md5hl.o:	/usr/include/sys/cdefs.h
+md5hl.o:	/usr/include/sys/null.h
+md5hl.o:	/usr/include/sys/types.h
+md5hl.o:	/usr/include/sys/ucred.h
+md5hl.o:	/usr/include/unistd.h
+md5hl.o:	/usr/src/lib/libutil/md5hl.c

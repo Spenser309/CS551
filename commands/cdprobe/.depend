@@ -1,0 +1,23 @@
+
+cdprobe.o:	/usr/include/ansi.h
+cdprobe.o:	/usr/include/errno.h
+cdprobe.o:	/usr/include/fcntl.h
+cdprobe.o:	/usr/include/limits.h
+cdprobe.o:	/usr/include/machine/interrupt.h
+cdprobe.o:	/usr/include/minix/config.h
+cdprobe.o:	/usr/include/minix/dir.h
+cdprobe.o:	/usr/include/minix/limits.h
+cdprobe.o:	/usr/include/minix/sys_config.h
+cdprobe.o:	/usr/include/minix/type.h
+cdprobe.o:	/usr/include/minix/types.h
+cdprobe.o:	/usr/include/stddef.h
+cdprobe.o:	/usr/include/stdint.h
+cdprobe.o:	/usr/include/stdio.h
+cdprobe.o:	/usr/include/stdlib.h
+cdprobe.o:	/usr/include/string.h
+cdprobe.o:	/usr/include/sys/cdefs.h
+cdprobe.o:	/usr/include/sys/null.h
+cdprobe.o:	/usr/include/sys/ucred.h
+cdprobe.o:	/usr/include/unistd.h
+cdprobe.o:	/usr/src/servers/mfs/const.h
+cdprobe.o:	cdprobe.c

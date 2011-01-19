@@ -1,0 +1,19 @@
+
+bt_conv.o:	/usr/include/ansi.h
+bt_conv.o:	/usr/include/assert.h
+bt_conv.o:	/usr/include/db.h
+bt_conv.o:	/usr/include/limits.h
+bt_conv.o:	/usr/include/minix/dir.h
+bt_conv.o:	/usr/include/minix/limits.h
+bt_conv.o:	/usr/include/minix/sys_config.h
+bt_conv.o:	/usr/include/minix/types.h
+bt_conv.o:	/usr/include/mpool.h
+bt_conv.o:	/usr/include/stdint.h
+bt_conv.o:	/usr/include/stdio.h
+bt_conv.o:	/usr/include/sys/cdefs.h
+bt_conv.o:	/usr/include/sys/null.h
+bt_conv.o:	/usr/include/sys/queue.h
+bt_conv.o:	/usr/include/sys/types.h
+bt_conv.o:	/usr/src/lib/libc/db/btree/bt_conv.c
+bt_conv.o:	/usr/src/lib/libc/db/btree/btree.h
+bt_conv.o:	/usr/src/lib/libc/db/btree/extern.h

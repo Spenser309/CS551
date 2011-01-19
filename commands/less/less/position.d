@@ -1,0 +1,27 @@
+
+position.o:	/usr/include/ansi.h
+position.o:	/usr/include/ctype.h
+position.o:	/usr/include/fcntl.h
+position.o:	/usr/include/limits.h
+position.o:	/usr/include/machine/interrupt.h
+position.o:	/usr/include/minix/config.h
+position.o:	/usr/include/minix/dir.h
+position.o:	/usr/include/minix/limits.h
+position.o:	/usr/include/minix/sys_config.h
+position.o:	/usr/include/minix/type.h
+position.o:	/usr/include/minix/types.h
+position.o:	/usr/include/stddef.h
+position.o:	/usr/include/stdint.h
+position.o:	/usr/include/stdio.h
+position.o:	/usr/include/stdlib.h
+position.o:	/usr/include/string.h
+position.o:	/usr/include/sys/cdefs.h
+position.o:	/usr/include/sys/null.h
+position.o:	/usr/include/sys/types.h
+position.o:	/usr/include/sys/ucred.h
+position.o:	/usr/include/unistd.h
+position.o:	/usr/src/commands/less/less/defines.h
+position.o:	funcs.h
+position.o:	less.h
+position.o:	position.c
+position.o:	position.h

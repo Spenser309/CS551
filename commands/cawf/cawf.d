@@ -1,0 +1,22 @@
+
+cawf.o:	/usr/include/ansi.h
+cawf.o:	/usr/include/limits.h
+cawf.o:	/usr/include/minix/dir.h
+cawf.o:	/usr/include/minix/limits.h
+cawf.o:	/usr/include/minix/sys_config.h
+cawf.o:	/usr/include/minix/types.h
+cawf.o:	/usr/include/stddef.h
+cawf.o:	/usr/include/stdint.h
+cawf.o:	/usr/include/stdio.h
+cawf.o:	/usr/include/stdlib.h
+cawf.o:	/usr/include/string.h
+cawf.o:	/usr/include/sys/cdefs.h
+cawf.o:	/usr/include/sys/null.h
+cawf.o:	/usr/include/sys/stat.h
+cawf.o:	/usr/include/sys/types.h
+cawf.o:	ansi.h
+cawf.o:	cawf.c
+cawf.o:	cawf.h
+cawf.o:	cawflib.h
+cawf.o:	proto.h
+cawf.o:	regexp.h

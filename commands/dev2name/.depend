@@ -1,0 +1,25 @@
+
+dev2name.o:	/usr/include/ansi.h
+dev2name.o:	/usr/include/dirent.h
+dev2name.o:	/usr/include/limits.h
+dev2name.o:	/usr/include/machine/interrupt.h
+dev2name.o:	/usr/include/minix/config.h
+dev2name.o:	/usr/include/minix/const.h
+dev2name.o:	/usr/include/minix/dir.h
+dev2name.o:	/usr/include/minix/dirent.h
+dev2name.o:	/usr/include/minix/limits.h
+dev2name.o:	/usr/include/minix/sys_config.h
+dev2name.o:	/usr/include/minix/type.h
+dev2name.o:	/usr/include/minix/types.h
+dev2name.o:	/usr/include/stddef.h
+dev2name.o:	/usr/include/stdint.h
+dev2name.o:	/usr/include/stdio.h
+dev2name.o:	/usr/include/stdlib.h
+dev2name.o:	/usr/include/string.h
+dev2name.o:	/usr/include/sys/cdefs.h
+dev2name.o:	/usr/include/sys/null.h
+dev2name.o:	/usr/include/sys/stat.h
+dev2name.o:	/usr/include/sys/types.h
+dev2name.o:	/usr/include/sys/ucred.h
+dev2name.o:	/usr/include/unistd.h
+dev2name.o:	dev2name.c

@@ -1,0 +1,23 @@
+
+option.o:	/usr/include/ansi.h
+option.o:	/usr/include/err.h
+option.o:	/usr/include/fts.h
+option.o:	/usr/include/limits.h
+option.o:	/usr/include/minix/dir.h
+option.o:	/usr/include/minix/limits.h
+option.o:	/usr/include/minix/sys_config.h
+option.o:	/usr/include/minix/types.h
+option.o:	/usr/include/regex.h
+option.o:	/usr/include/stdarg.h
+option.o:	/usr/include/stddef.h
+option.o:	/usr/include/stdint.h
+option.o:	/usr/include/stdio.h
+option.o:	/usr/include/stdlib.h
+option.o:	/usr/include/string.h
+option.o:	/usr/include/sys/cdefs.h
+option.o:	/usr/include/sys/null.h
+option.o:	/usr/include/sys/stat.h
+option.o:	/usr/include/sys/types.h
+option.o:	extern.h
+option.o:	find.h
+option.o:	option.c

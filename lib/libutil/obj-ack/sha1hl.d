@@ -1,0 +1,25 @@
+
+sha1hl.o:	/usr/include/ansi.h
+sha1hl.o:	/usr/include/assert.h
+sha1hl.o:	/usr/include/errno.h
+sha1hl.o:	/usr/include/fcntl.h
+sha1hl.o:	/usr/include/limits.h
+sha1hl.o:	/usr/include/machine/interrupt.h
+sha1hl.o:	/usr/include/minix/config.h
+sha1hl.o:	/usr/include/minix/dir.h
+sha1hl.o:	/usr/include/minix/limits.h
+sha1hl.o:	/usr/include/minix/sha1.h
+sha1hl.o:	/usr/include/minix/sys_config.h
+sha1hl.o:	/usr/include/minix/type.h
+sha1hl.o:	/usr/include/minix/types.h
+sha1hl.o:	/usr/include/stddef.h
+sha1hl.o:	/usr/include/stdint.h
+sha1hl.o:	/usr/include/stdio.h
+sha1hl.o:	/usr/include/stdlib.h
+sha1hl.o:	/usr/include/sys/cdefs.h
+sha1hl.o:	/usr/include/sys/null.h
+sha1hl.o:	/usr/include/sys/types.h
+sha1hl.o:	/usr/include/sys/ucred.h
+sha1hl.o:	/usr/include/sys/uio.h
+sha1hl.o:	/usr/include/unistd.h
+sha1hl.o:	/usr/src/lib/libutil/sha1hl.c

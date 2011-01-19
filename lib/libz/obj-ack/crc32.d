@@ -1,0 +1,19 @@
+
+crc32.o:	/usr/include/ansi.h
+crc32.o:	/usr/include/limits.h
+crc32.o:	/usr/include/minix/dir.h
+crc32.o:	/usr/include/minix/limits.h
+crc32.o:	/usr/include/minix/sys_config.h
+crc32.o:	/usr/include/minix/types.h
+crc32.o:	/usr/include/stddef.h
+crc32.o:	/usr/include/stdint.h
+crc32.o:	/usr/include/stdlib.h
+crc32.o:	/usr/include/string.h
+crc32.o:	/usr/include/sys/cdefs.h
+crc32.o:	/usr/include/sys/null.h
+crc32.o:	/usr/include/sys/types.h
+crc32.o:	/usr/src/lib/libz/crc32.c
+crc32.o:	/usr/src/lib/libz/crc32.h
+crc32.o:	/usr/src/lib/libz/zconf.h
+crc32.o:	/usr/src/lib/libz/zlib.h
+crc32.o:	/usr/src/lib/libz/zutil.h

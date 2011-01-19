@@ -1,0 +1,21 @@
+
+_sprofile.o:	/usr/include/ansi.h
+_sprofile.o:	/usr/include/errno.h
+_sprofile.o:	/usr/include/lib.h
+_sprofile.o:	/usr/include/limits.h
+_sprofile.o:	/usr/include/machine/interrupt.h
+_sprofile.o:	/usr/include/minix/callnr.h
+_sprofile.o:	/usr/include/minix/com.h
+_sprofile.o:	/usr/include/minix/config.h
+_sprofile.o:	/usr/include/minix/const.h
+_sprofile.o:	/usr/include/minix/dir.h
+_sprofile.o:	/usr/include/minix/ipc.h
+_sprofile.o:	/usr/include/minix/ipcconst.h
+_sprofile.o:	/usr/include/minix/limits.h
+_sprofile.o:	/usr/include/minix/sys_config.h
+_sprofile.o:	/usr/include/minix/type.h
+_sprofile.o:	/usr/include/minix/types.h
+_sprofile.o:	/usr/include/stdint.h
+_sprofile.o:	/usr/include/sys/cdefs.h
+_sprofile.o:	/usr/include/sys/null.h
+_sprofile.o:	/usr/src/lib/libc/other/_sprofile.c

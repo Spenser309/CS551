@@ -1,0 +1,20 @@
+
+dewey.o:	..//config.h
+dewey.o:	/usr/include/ansi.h
+dewey.o:	/usr/include/ctype.h
+dewey.o:	/usr/include/err.h
+dewey.o:	/usr/include/limits.h
+dewey.o:	/usr/include/minix/dir.h
+dewey.o:	/usr/include/minix/limits.h
+dewey.o:	/usr/include/minix/sys_config.h
+dewey.o:	/usr/include/minix/types.h
+dewey.o:	/usr/include/stdarg.h
+dewey.o:	/usr/include/stddef.h
+dewey.o:	/usr/include/stdint.h
+dewey.o:	/usr/include/stdlib.h
+dewey.o:	/usr/include/string.h
+dewey.o:	/usr/include/sys/cdefs.h
+dewey.o:	/usr/include/sys/null.h
+dewey.o:	defs.h
+dewey.o:	dewey.c
+dewey.o:	dewey.h

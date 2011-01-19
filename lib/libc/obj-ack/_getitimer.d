@@ -1,0 +1,24 @@
+
+_getitimer.o:	/usr/include/ansi.h
+_getitimer.o:	/usr/include/errno.h
+_getitimer.o:	/usr/include/lib.h
+_getitimer.o:	/usr/include/limits.h
+_getitimer.o:	/usr/include/machine/interrupt.h
+_getitimer.o:	/usr/include/minix/callnr.h
+_getitimer.o:	/usr/include/minix/com.h
+_getitimer.o:	/usr/include/minix/config.h
+_getitimer.o:	/usr/include/minix/const.h
+_getitimer.o:	/usr/include/minix/dir.h
+_getitimer.o:	/usr/include/minix/ipc.h
+_getitimer.o:	/usr/include/minix/ipcconst.h
+_getitimer.o:	/usr/include/minix/limits.h
+_getitimer.o:	/usr/include/minix/sys_config.h
+_getitimer.o:	/usr/include/minix/type.h
+_getitimer.o:	/usr/include/minix/types.h
+_getitimer.o:	/usr/include/stdint.h
+_getitimer.o:	/usr/include/string.h
+_getitimer.o:	/usr/include/sys/cdefs.h
+_getitimer.o:	/usr/include/sys/null.h
+_getitimer.o:	/usr/include/sys/select.h
+_getitimer.o:	/usr/include/sys/time.h
+_getitimer.o:	/usr/src/lib/libc/posix/_getitimer.c

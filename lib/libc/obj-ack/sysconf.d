@@ -1,0 +1,24 @@
+
+sysconf.o:	/usr/include/ansi.h
+sysconf.o:	/usr/include/errno.h
+sysconf.o:	/usr/include/lib.h
+sysconf.o:	/usr/include/limits.h
+sysconf.o:	/usr/include/machine/interrupt.h
+sysconf.o:	/usr/include/minix/callnr.h
+sysconf.o:	/usr/include/minix/com.h
+sysconf.o:	/usr/include/minix/config.h
+sysconf.o:	/usr/include/minix/const.h
+sysconf.o:	/usr/include/minix/dir.h
+sysconf.o:	/usr/include/minix/ipc.h
+sysconf.o:	/usr/include/minix/ipcconst.h
+sysconf.o:	/usr/include/minix/limits.h
+sysconf.o:	/usr/include/minix/sys_config.h
+sysconf.o:	/usr/include/minix/type.h
+sysconf.o:	/usr/include/minix/types.h
+sysconf.o:	/usr/include/stdint.h
+sysconf.o:	/usr/include/sys/cdefs.h
+sysconf.o:	/usr/include/sys/null.h
+sysconf.o:	/usr/include/sys/ucred.h
+sysconf.o:	/usr/include/time.h
+sysconf.o:	/usr/include/unistd.h
+sysconf.o:	/usr/src/lib/libc/other/sysconf.c

@@ -1,0 +1,21 @@
+
+pass3.o:	/usr/include/ansi.h
+pass3.o:	/usr/include/limits.h
+pass3.o:	/usr/include/minix/dir.h
+pass3.o:	/usr/include/minix/limits.h
+pass3.o:	/usr/include/minix/sys_config.h
+pass3.o:	/usr/include/minix/types.h
+pass3.o:	/usr/include/stddef.h
+pass3.o:	/usr/include/stdint.h
+pass3.o:	/usr/include/stdio.h
+pass3.o:	/usr/include/stdlib.h
+pass3.o:	/usr/include/string.h
+pass3.o:	/usr/include/sys/cdefs.h
+pass3.o:	/usr/include/sys/null.h
+pass3.o:	/usr/include/sys/types.h
+pass3.o:	ansi.h
+pass3.o:	cawf.h
+pass3.o:	cawflib.h
+pass3.o:	pass3.c
+pass3.o:	proto.h
+pass3.o:	regexp.h

@@ -1,0 +1,24 @@
+
+_reboot.o:	/usr/include/ansi.h
+_reboot.o:	/usr/include/errno.h
+_reboot.o:	/usr/include/lib.h
+_reboot.o:	/usr/include/limits.h
+_reboot.o:	/usr/include/machine/interrupt.h
+_reboot.o:	/usr/include/minix/callnr.h
+_reboot.o:	/usr/include/minix/com.h
+_reboot.o:	/usr/include/minix/config.h
+_reboot.o:	/usr/include/minix/const.h
+_reboot.o:	/usr/include/minix/dir.h
+_reboot.o:	/usr/include/minix/ipc.h
+_reboot.o:	/usr/include/minix/ipcconst.h
+_reboot.o:	/usr/include/minix/limits.h
+_reboot.o:	/usr/include/minix/sys_config.h
+_reboot.o:	/usr/include/minix/type.h
+_reboot.o:	/usr/include/minix/types.h
+_reboot.o:	/usr/include/stdarg.h
+_reboot.o:	/usr/include/stdint.h
+_reboot.o:	/usr/include/sys/cdefs.h
+_reboot.o:	/usr/include/sys/null.h
+_reboot.o:	/usr/include/sys/ucred.h
+_reboot.o:	/usr/include/unistd.h
+_reboot.o:	/usr/src/lib/libc/other/_reboot.c

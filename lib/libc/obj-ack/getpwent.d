@@ -1,0 +1,22 @@
+
+getpwent.o:	/usr/include/ansi.h
+getpwent.o:	/usr/include/fcntl.h
+getpwent.o:	/usr/include/limits.h
+getpwent.o:	/usr/include/machine/interrupt.h
+getpwent.o:	/usr/include/minix/config.h
+getpwent.o:	/usr/include/minix/dir.h
+getpwent.o:	/usr/include/minix/limits.h
+getpwent.o:	/usr/include/minix/sys_config.h
+getpwent.o:	/usr/include/minix/type.h
+getpwent.o:	/usr/include/minix/types.h
+getpwent.o:	/usr/include/pwd.h
+getpwent.o:	/usr/include/stddef.h
+getpwent.o:	/usr/include/stdint.h
+getpwent.o:	/usr/include/stdlib.h
+getpwent.o:	/usr/include/string.h
+getpwent.o:	/usr/include/sys/cdefs.h
+getpwent.o:	/usr/include/sys/null.h
+getpwent.o:	/usr/include/sys/types.h
+getpwent.o:	/usr/include/sys/ucred.h
+getpwent.o:	/usr/include/unistd.h
+getpwent.o:	/usr/src/lib/libc/other/getpwent.c

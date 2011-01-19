@@ -1,0 +1,25 @@
+
+extra.o:	/usr/include/a.out.h
+extra.o:	/usr/include/ansi.h
+extra.o:	/usr/include/assert.h
+extra.o:	/usr/include/errno.h
+extra.o:	/usr/include/limits.h
+extra.o:	/usr/include/minix/a.out.h
+extra.o:	/usr/include/minix/dir.h
+extra.o:	/usr/include/minix/limits.h
+extra.o:	/usr/include/minix/sys_config.h
+extra.o:	/usr/include/minix/types.h
+extra.o:	/usr/include/stdarg.h
+extra.o:	/usr/include/stddef.h
+extra.o:	/usr/include/stdint.h
+extra.o:	/usr/include/stdio.h
+extra.o:	/usr/include/stdlib.h
+extra.o:	/usr/include/string.h
+extra.o:	/usr/include/sys/cdefs.h
+extra.o:	/usr/include/sys/null.h
+extra.o:	/usr/include/sys/ptrace.h
+extra.o:	/usr/include/sys/types.h
+extra.o:	db_machdep.h
+extra.o:	ddb.h
+extra.o:	extra.c
+extra.o:	extra.h

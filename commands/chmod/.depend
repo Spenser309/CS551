@@ -1,0 +1,26 @@
+
+chmod.o:	/usr/include/ansi.h
+chmod.o:	/usr/include/dirent.h
+chmod.o:	/usr/include/errno.h
+chmod.o:	/usr/include/limits.h
+chmod.o:	/usr/include/machine/interrupt.h
+chmod.o:	/usr/include/minix/config.h
+chmod.o:	/usr/include/minix/dir.h
+chmod.o:	/usr/include/minix/dirent.h
+chmod.o:	/usr/include/minix/limits.h
+chmod.o:	/usr/include/minix/minlib.h
+chmod.o:	/usr/include/minix/sys_config.h
+chmod.o:	/usr/include/minix/type.h
+chmod.o:	/usr/include/minix/types.h
+chmod.o:	/usr/include/stddef.h
+chmod.o:	/usr/include/stdint.h
+chmod.o:	/usr/include/stdio.h
+chmod.o:	/usr/include/stdlib.h
+chmod.o:	/usr/include/string.h
+chmod.o:	/usr/include/sys/cdefs.h
+chmod.o:	/usr/include/sys/null.h
+chmod.o:	/usr/include/sys/stat.h
+chmod.o:	/usr/include/sys/types.h
+chmod.o:	/usr/include/sys/ucred.h
+chmod.o:	/usr/include/unistd.h
+chmod.o:	chmod.c

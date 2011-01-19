@@ -1,0 +1,20 @@
+
+trees.o:	/usr/include/ansi.h
+trees.o:	/usr/include/limits.h
+trees.o:	/usr/include/minix/dir.h
+trees.o:	/usr/include/minix/limits.h
+trees.o:	/usr/include/minix/sys_config.h
+trees.o:	/usr/include/minix/types.h
+trees.o:	/usr/include/stddef.h
+trees.o:	/usr/include/stdint.h
+trees.o:	/usr/include/stdlib.h
+trees.o:	/usr/include/string.h
+trees.o:	/usr/include/sys/cdefs.h
+trees.o:	/usr/include/sys/null.h
+trees.o:	/usr/include/sys/types.h
+trees.o:	/usr/src/lib/libz/deflate.h
+trees.o:	/usr/src/lib/libz/trees.c
+trees.o:	/usr/src/lib/libz/trees.h
+trees.o:	/usr/src/lib/libz/zconf.h
+trees.o:	/usr/src/lib/libz/zlib.h
+trees.o:	/usr/src/lib/libz/zutil.h

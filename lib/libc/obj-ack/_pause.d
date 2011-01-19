@@ -1,0 +1,23 @@
+
+_pause.o:	/usr/include/ansi.h
+_pause.o:	/usr/include/errno.h
+_pause.o:	/usr/include/lib.h
+_pause.o:	/usr/include/limits.h
+_pause.o:	/usr/include/machine/interrupt.h
+_pause.o:	/usr/include/minix/callnr.h
+_pause.o:	/usr/include/minix/com.h
+_pause.o:	/usr/include/minix/config.h
+_pause.o:	/usr/include/minix/const.h
+_pause.o:	/usr/include/minix/dir.h
+_pause.o:	/usr/include/minix/ipc.h
+_pause.o:	/usr/include/minix/ipcconst.h
+_pause.o:	/usr/include/minix/limits.h
+_pause.o:	/usr/include/minix/sys_config.h
+_pause.o:	/usr/include/minix/type.h
+_pause.o:	/usr/include/minix/types.h
+_pause.o:	/usr/include/stdint.h
+_pause.o:	/usr/include/sys/cdefs.h
+_pause.o:	/usr/include/sys/null.h
+_pause.o:	/usr/include/sys/ucred.h
+_pause.o:	/usr/include/unistd.h
+_pause.o:	/usr/src/lib/libc/posix/_pause.c

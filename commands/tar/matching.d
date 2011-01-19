@@ -1,0 +1,21 @@
+
+matching.o:	/usr/include/ansi.h
+matching.o:	/usr/include/errno.h
+matching.o:	/usr/include/limits.h
+matching.o:	/usr/include/minix/dir.h
+matching.o:	/usr/include/minix/limits.h
+matching.o:	/usr/include/minix/sys_config.h
+matching.o:	/usr/include/minix/types.h
+matching.o:	/usr/include/stddef.h
+matching.o:	/usr/include/stdint.h
+matching.o:	/usr/include/stdlib.h
+matching.o:	/usr/include/string.h
+matching.o:	/usr/include/sys/cdefs.h
+matching.o:	/usr/include/sys/null.h
+matching.o:	/usr/src/commands/tar/config.h
+matching.o:	/usr/src/commands/tar/libarchive_fe/err.h
+matching.o:	/usr/src/commands/tar/libarchive_fe/lafe_platform.h
+matching.o:	/usr/src/commands/tar/libarchive_fe/line_reader.h
+matching.o:	/usr/src/commands/tar/libarchive_fe/matching.c
+matching.o:	/usr/src/commands/tar/libarchive_fe/matching.h
+matching.o:	/usr/src/commands/tar/libarchive_fe/pathmatch.h

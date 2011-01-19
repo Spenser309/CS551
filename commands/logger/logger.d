@@ -1,0 +1,24 @@
+
+logger.o:	/usr/include/ansi.h
+logger.o:	/usr/include/ctype.h
+logger.o:	/usr/include/errno.h
+logger.o:	/usr/include/limits.h
+logger.o:	/usr/include/machine/interrupt.h
+logger.o:	/usr/include/minix/config.h
+logger.o:	/usr/include/minix/dir.h
+logger.o:	/usr/include/minix/limits.h
+logger.o:	/usr/include/minix/sys_config.h
+logger.o:	/usr/include/minix/type.h
+logger.o:	/usr/include/minix/types.h
+logger.o:	/usr/include/stddef.h
+logger.o:	/usr/include/stdint.h
+logger.o:	/usr/include/stdio.h
+logger.o:	/usr/include/stdlib.h
+logger.o:	/usr/include/string.h
+logger.o:	/usr/include/sys/cdefs.h
+logger.o:	/usr/include/sys/null.h
+logger.o:	/usr/include/sys/types.h
+logger.o:	/usr/include/sys/ucred.h
+logger.o:	/usr/include/syslog.h
+logger.o:	/usr/include/unistd.h
+logger.o:	logger.c

@@ -1,0 +1,25 @@
+
+_tcsendbreak.o:	/usr/include/ansi.h
+_tcsendbreak.o:	/usr/include/limits.h
+_tcsendbreak.o:	/usr/include/minix/dir.h
+_tcsendbreak.o:	/usr/include/minix/ioctl.h
+_tcsendbreak.o:	/usr/include/minix/limits.h
+_tcsendbreak.o:	/usr/include/minix/sys_config.h
+_tcsendbreak.o:	/usr/include/minix/types.h
+_tcsendbreak.o:	/usr/include/net/ioctl.h
+_tcsendbreak.o:	/usr/include/stdint.h
+_tcsendbreak.o:	/usr/include/string.h
+_tcsendbreak.o:	/usr/include/sys/cdefs.h
+_tcsendbreak.o:	/usr/include/sys/ioc_cmos.h
+_tcsendbreak.o:	/usr/include/sys/ioc_disk.h
+_tcsendbreak.o:	/usr/include/sys/ioc_file.h
+_tcsendbreak.o:	/usr/include/sys/ioc_memory.h
+_tcsendbreak.o:	/usr/include/sys/ioc_scsi.h
+_tcsendbreak.o:	/usr/include/sys/ioc_sound.h
+_tcsendbreak.o:	/usr/include/sys/ioc_tape.h
+_tcsendbreak.o:	/usr/include/sys/ioc_tty.h
+_tcsendbreak.o:	/usr/include/sys/ioctl.h
+_tcsendbreak.o:	/usr/include/sys/null.h
+_tcsendbreak.o:	/usr/include/sys/un.h
+_tcsendbreak.o:	/usr/include/termios.h
+_tcsendbreak.o:	/usr/src/lib/libc/posix/_tcsendbreak.c

@@ -1,0 +1,25 @@
+
+eval.o:	/usr/include/ansi.h
+eval.o:	/usr/include/ctype.h
+eval.o:	/usr/include/limits.h
+eval.o:	/usr/include/machine/interrupt.h
+eval.o:	/usr/include/minix/config.h
+eval.o:	/usr/include/minix/dir.h
+eval.o:	/usr/include/minix/limits.h
+eval.o:	/usr/include/minix/sys_config.h
+eval.o:	/usr/include/minix/type.h
+eval.o:	/usr/include/minix/types.h
+eval.o:	/usr/include/signal.h
+eval.o:	/usr/include/stddef.h
+eval.o:	/usr/include/stdint.h
+eval.o:	/usr/include/stdio.h
+eval.o:	/usr/include/stdlib.h
+eval.o:	/usr/include/string.h
+eval.o:	/usr/include/sys/cdefs.h
+eval.o:	/usr/include/sys/null.h
+eval.o:	/usr/include/sys/types.h
+eval.o:	/usr/include/sys/ucred.h
+eval.o:	/usr/include/unistd.h
+eval.o:	eval.c
+eval.o:	extr.h
+eval.o:	mdef.h

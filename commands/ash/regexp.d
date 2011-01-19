@@ -1,0 +1,22 @@
+
+regexp.o:	/usr/include/ansi.h
+regexp.o:	/usr/include/limits.h
+regexp.o:	/usr/include/minix/dir.h
+regexp.o:	/usr/include/minix/limits.h
+regexp.o:	/usr/include/minix/sys_config.h
+regexp.o:	/usr/include/minix/types.h
+regexp.o:	/usr/include/stdarg.h
+regexp.o:	/usr/include/stddef.h
+regexp.o:	/usr/include/stdint.h
+regexp.o:	/usr/include/stdlib.h
+regexp.o:	/usr/include/string.h
+regexp.o:	/usr/include/sys/cdefs.h
+regexp.o:	/usr/include/sys/null.h
+regexp.o:	/usr/include/sys/types.h
+regexp.o:	/usr/src/commands/ash/bltin/../mystring.h
+regexp.o:	/usr/src/commands/ash/bltin/../output.h
+regexp.o:	/usr/src/commands/ash/bltin/../shell.h
+regexp.o:	/usr/src/commands/ash/bltin/bltin.h
+regexp.o:	/usr/src/commands/ash/bltin/myregexp.h
+regexp.o:	/usr/src/commands/ash/bltin/regexp.c
+regexp.o:	builtins.h

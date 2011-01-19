@@ -1,0 +1,22 @@
+
+_getcwd.o:	/usr/include/ansi.h
+_getcwd.o:	/usr/include/dirent.h
+_getcwd.o:	/usr/include/errno.h
+_getcwd.o:	/usr/include/limits.h
+_getcwd.o:	/usr/include/machine/interrupt.h
+_getcwd.o:	/usr/include/minix/config.h
+_getcwd.o:	/usr/include/minix/dir.h
+_getcwd.o:	/usr/include/minix/dirent.h
+_getcwd.o:	/usr/include/minix/limits.h
+_getcwd.o:	/usr/include/minix/sys_config.h
+_getcwd.o:	/usr/include/minix/type.h
+_getcwd.o:	/usr/include/minix/types.h
+_getcwd.o:	/usr/include/stdint.h
+_getcwd.o:	/usr/include/string.h
+_getcwd.o:	/usr/include/sys/cdefs.h
+_getcwd.o:	/usr/include/sys/null.h
+_getcwd.o:	/usr/include/sys/stat.h
+_getcwd.o:	/usr/include/sys/types.h
+_getcwd.o:	/usr/include/sys/ucred.h
+_getcwd.o:	/usr/include/unistd.h
+_getcwd.o:	/usr/src/lib/libc/posix/_getcwd.c

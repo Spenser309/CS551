@@ -1,0 +1,19 @@
+
+ecs.o:	/usr/include/ansi.h
+ecs.o:	/usr/include/ctype.h
+ecs.o:	/usr/include/limits.h
+ecs.o:	/usr/include/minix/dir.h
+ecs.o:	/usr/include/minix/limits.h
+ecs.o:	/usr/include/minix/sys_config.h
+ecs.o:	/usr/include/minix/types.h
+ecs.o:	/usr/include/stddef.h
+ecs.o:	/usr/include/stdint.h
+ecs.o:	/usr/include/stdio.h
+ecs.o:	/usr/include/stdlib.h
+ecs.o:	/usr/include/string.h
+ecs.o:	/usr/include/sys/cdefs.h
+ecs.o:	/usr/include/sys/null.h
+ecs.o:	/usr/include/sys/types.h
+ecs.o:	config.h
+ecs.o:	ecs.c
+ecs.o:	flexdef.h

@@ -1,0 +1,26 @@
+
+indent.o:	/usr/include/ansi.h
+indent.o:	/usr/include/ctype.h
+indent.o:	/usr/include/fcntl.h
+indent.o:	/usr/include/limits.h
+indent.o:	/usr/include/machine/interrupt.h
+indent.o:	/usr/include/minix/config.h
+indent.o:	/usr/include/minix/dir.h
+indent.o:	/usr/include/minix/limits.h
+indent.o:	/usr/include/minix/sys_config.h
+indent.o:	/usr/include/minix/type.h
+indent.o:	/usr/include/minix/types.h
+indent.o:	/usr/include/stddef.h
+indent.o:	/usr/include/stdint.h
+indent.o:	/usr/include/stdio.h
+indent.o:	/usr/include/stdlib.h
+indent.o:	/usr/include/string.h
+indent.o:	/usr/include/sys/cdefs.h
+indent.o:	/usr/include/sys/null.h
+indent.o:	/usr/include/sys/types.h
+indent.o:	/usr/include/sys/ucred.h
+indent.o:	/usr/include/unistd.h
+indent.o:	codes.h
+indent.o:	globs.h
+indent.o:	indent.c
+indent.o:	proto.h

@@ -1,0 +1,26 @@
+
+input.o:	/usr/include/ansi.h
+input.o:	/usr/include/ctype.h
+input.o:	/usr/include/fcntl.h
+input.o:	/usr/include/limits.h
+input.o:	/usr/include/machine/interrupt.h
+input.o:	/usr/include/minix/config.h
+input.o:	/usr/include/minix/dir.h
+input.o:	/usr/include/minix/limits.h
+input.o:	/usr/include/minix/sys_config.h
+input.o:	/usr/include/minix/type.h
+input.o:	/usr/include/minix/types.h
+input.o:	/usr/include/stddef.h
+input.o:	/usr/include/stdint.h
+input.o:	/usr/include/stdio.h
+input.o:	/usr/include/stdlib.h
+input.o:	/usr/include/string.h
+input.o:	/usr/include/sys/cdefs.h
+input.o:	/usr/include/sys/null.h
+input.o:	/usr/include/sys/types.h
+input.o:	/usr/include/sys/ucred.h
+input.o:	/usr/include/unistd.h
+input.o:	/usr/src/commands/less/less/defines.h
+input.o:	funcs.h
+input.o:	input.c
+input.o:	less.h

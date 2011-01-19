@@ -1,0 +1,22 @@
+
+loadname.o:	/usr/include/ansi.h
+loadname.o:	/usr/include/errno.h
+loadname.o:	/usr/include/lib.h
+loadname.o:	/usr/include/limits.h
+loadname.o:	/usr/include/machine/interrupt.h
+loadname.o:	/usr/include/minix/callnr.h
+loadname.o:	/usr/include/minix/com.h
+loadname.o:	/usr/include/minix/config.h
+loadname.o:	/usr/include/minix/const.h
+loadname.o:	/usr/include/minix/dir.h
+loadname.o:	/usr/include/minix/ipc.h
+loadname.o:	/usr/include/minix/ipcconst.h
+loadname.o:	/usr/include/minix/limits.h
+loadname.o:	/usr/include/minix/sys_config.h
+loadname.o:	/usr/include/minix/type.h
+loadname.o:	/usr/include/minix/types.h
+loadname.o:	/usr/include/stdint.h
+loadname.o:	/usr/include/string.h
+loadname.o:	/usr/include/sys/cdefs.h
+loadname.o:	/usr/include/sys/null.h
+loadname.o:	/usr/src/lib/libc/other/loadname.c

@@ -1,0 +1,21 @@
+
+syscall.o:	/usr/include/ansi.h
+syscall.o:	/usr/include/errno.h
+syscall.o:	/usr/include/lib.h
+syscall.o:	/usr/include/limits.h
+syscall.o:	/usr/include/machine/interrupt.h
+syscall.o:	/usr/include/minix/callnr.h
+syscall.o:	/usr/include/minix/com.h
+syscall.o:	/usr/include/minix/config.h
+syscall.o:	/usr/include/minix/const.h
+syscall.o:	/usr/include/minix/dir.h
+syscall.o:	/usr/include/minix/ipc.h
+syscall.o:	/usr/include/minix/ipcconst.h
+syscall.o:	/usr/include/minix/limits.h
+syscall.o:	/usr/include/minix/sys_config.h
+syscall.o:	/usr/include/minix/type.h
+syscall.o:	/usr/include/minix/types.h
+syscall.o:	/usr/include/stdint.h
+syscall.o:	/usr/include/sys/cdefs.h
+syscall.o:	/usr/include/sys/null.h
+syscall.o:	/usr/src/lib/libc/other/syscall.c

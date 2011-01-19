@@ -1,0 +1,26 @@
+
+readall.o:	/usr/include/ansi.h
+readall.o:	/usr/include/fcntl.h
+readall.o:	/usr/include/limits.h
+readall.o:	/usr/include/machine/interrupt.h
+readall.o:	/usr/include/minix/config.h
+readall.o:	/usr/include/minix/dir.h
+readall.o:	/usr/include/minix/ioctl.h
+readall.o:	/usr/include/minix/limits.h
+readall.o:	/usr/include/minix/partition.h
+readall.o:	/usr/include/minix/sys_config.h
+readall.o:	/usr/include/minix/type.h
+readall.o:	/usr/include/minix/types.h
+readall.o:	/usr/include/minix/u64.h
+readall.o:	/usr/include/stddef.h
+readall.o:	/usr/include/stdint.h
+readall.o:	/usr/include/stdio.h
+readall.o:	/usr/include/stdlib.h
+readall.o:	/usr/include/sys/cdefs.h
+readall.o:	/usr/include/sys/ioc_disk.h
+readall.o:	/usr/include/sys/null.h
+readall.o:	/usr/include/sys/types.h
+readall.o:	/usr/include/sys/ucred.h
+readall.o:	/usr/include/time.h
+readall.o:	/usr/include/unistd.h
+readall.o:	readall.c

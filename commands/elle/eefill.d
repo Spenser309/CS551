@@ -1,0 +1,27 @@
+
+eefill.o:	/usr/include/ansi.h
+eefill.o:	/usr/include/limits.h
+eefill.o:	/usr/include/machine/interrupt.h
+eefill.o:	/usr/include/minix/config.h
+eefill.o:	/usr/include/minix/dir.h
+eefill.o:	/usr/include/minix/limits.h
+eefill.o:	/usr/include/minix/sys_config.h
+eefill.o:	/usr/include/minix/type.h
+eefill.o:	/usr/include/minix/types.h
+eefill.o:	/usr/include/setjmp.h
+eefill.o:	/usr/include/stdint.h
+eefill.o:	/usr/include/stdio.h
+eefill.o:	/usr/include/string.h
+eefill.o:	/usr/include/sys/cdefs.h
+eefill.o:	/usr/include/sys/null.h
+eefill.o:	/usr/include/sys/types.h
+eefill.o:	/usr/include/sys/ucred.h
+eefill.o:	/usr/include/unistd.h
+eefill.o:	eefidx.h
+eefill.o:	eefill.c
+eefill.o:	eeprof.h
+eefill.o:	eeproto.h
+eefill.o:	eesite.h
+eefill.o:	elle.h
+eefill.o:	sb.h
+eefill.o:	sbproto.h

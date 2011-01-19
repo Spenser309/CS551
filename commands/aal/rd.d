@@ -1,0 +1,24 @@
+
+rd.o:	/usr/include/ansi.h
+rd.o:	/usr/include/fcntl.h
+rd.o:	/usr/include/limits.h
+rd.o:	/usr/include/machine/interrupt.h
+rd.o:	/usr/include/minix/config.h
+rd.o:	/usr/include/minix/dir.h
+rd.o:	/usr/include/minix/limits.h
+rd.o:	/usr/include/minix/sys_config.h
+rd.o:	/usr/include/minix/type.h
+rd.o:	/usr/include/minix/types.h
+rd.o:	/usr/include/stdint.h
+rd.o:	/usr/include/stdio.h
+rd.o:	/usr/include/sys/cdefs.h
+rd.o:	/usr/include/sys/null.h
+rd.o:	/usr/include/sys/types.h
+rd.o:	/usr/include/sys/ucred.h
+rd.o:	/usr/include/unistd.h
+rd.o:	/usr/src/commands/aal/local.h
+rd.o:	object.h
+rd.o:	out.h
+rd.o:	rd.c
+rd.o:	rd.h
+rd.o:	rd_bytes.h

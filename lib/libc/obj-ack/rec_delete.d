@@ -1,0 +1,23 @@
+
+rec_delete.o:	/usr/include/ansi.h
+rec_delete.o:	/usr/include/assert.h
+rec_delete.o:	/usr/include/db.h
+rec_delete.o:	/usr/include/errno.h
+rec_delete.o:	/usr/include/limits.h
+rec_delete.o:	/usr/include/minix/dir.h
+rec_delete.o:	/usr/include/minix/limits.h
+rec_delete.o:	/usr/include/minix/sys_config.h
+rec_delete.o:	/usr/include/minix/types.h
+rec_delete.o:	/usr/include/mpool.h
+rec_delete.o:	/usr/include/stdint.h
+rec_delete.o:	/usr/include/stdio.h
+rec_delete.o:	/usr/include/string.h
+rec_delete.o:	/usr/include/sys/cdefs.h
+rec_delete.o:	/usr/include/sys/null.h
+rec_delete.o:	/usr/include/sys/queue.h
+rec_delete.o:	/usr/include/sys/types.h
+rec_delete.o:	/usr/src/lib/libc/db/recno/../btree/btree.h
+rec_delete.o:	/usr/src/lib/libc/db/recno/../btree/extern.h
+rec_delete.o:	/usr/src/lib/libc/db/recno/extern.h
+rec_delete.o:	/usr/src/lib/libc/db/recno/rec_delete.c
+rec_delete.o:	/usr/src/lib/libc/db/recno/recno.h

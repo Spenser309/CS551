@@ -1,0 +1,26 @@
+
+ch.o:	/usr/include/ansi.h
+ch.o:	/usr/include/ctype.h
+ch.o:	/usr/include/fcntl.h
+ch.o:	/usr/include/limits.h
+ch.o:	/usr/include/machine/interrupt.h
+ch.o:	/usr/include/minix/config.h
+ch.o:	/usr/include/minix/dir.h
+ch.o:	/usr/include/minix/limits.h
+ch.o:	/usr/include/minix/sys_config.h
+ch.o:	/usr/include/minix/type.h
+ch.o:	/usr/include/minix/types.h
+ch.o:	/usr/include/stddef.h
+ch.o:	/usr/include/stdint.h
+ch.o:	/usr/include/stdio.h
+ch.o:	/usr/include/stdlib.h
+ch.o:	/usr/include/string.h
+ch.o:	/usr/include/sys/cdefs.h
+ch.o:	/usr/include/sys/null.h
+ch.o:	/usr/include/sys/types.h
+ch.o:	/usr/include/sys/ucred.h
+ch.o:	/usr/include/unistd.h
+ch.o:	/usr/src/commands/less/less/defines.h
+ch.o:	ch.c
+ch.o:	funcs.h
+ch.o:	less.h

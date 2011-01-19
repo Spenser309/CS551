@@ -1,0 +1,24 @@
+
+dhrystone.o:	/usr/include/ansi.h
+dhrystone.o:	/usr/include/limits.h
+dhrystone.o:	/usr/include/machine/interrupt.h
+dhrystone.o:	/usr/include/minix/config.h
+dhrystone.o:	/usr/include/minix/dir.h
+dhrystone.o:	/usr/include/minix/limits.h
+dhrystone.o:	/usr/include/minix/sys_config.h
+dhrystone.o:	/usr/include/minix/type.h
+dhrystone.o:	/usr/include/minix/types.h
+dhrystone.o:	/usr/include/signal.h
+dhrystone.o:	/usr/include/stddef.h
+dhrystone.o:	/usr/include/stdint.h
+dhrystone.o:	/usr/include/stdio.h
+dhrystone.o:	/usr/include/stdlib.h
+dhrystone.o:	/usr/include/string.h
+dhrystone.o:	/usr/include/sys/cdefs.h
+dhrystone.o:	/usr/include/sys/null.h
+dhrystone.o:	/usr/include/sys/times.h
+dhrystone.o:	/usr/include/sys/types.h
+dhrystone.o:	/usr/include/sys/ucred.h
+dhrystone.o:	/usr/include/time.h
+dhrystone.o:	/usr/include/unistd.h
+dhrystone.o:	dhrystone.c

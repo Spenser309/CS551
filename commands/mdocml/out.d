@@ -1,0 +1,21 @@
+
+out.o:	/usr/include/ansi.h
+out.o:	/usr/include/assert.h
+out.o:	/usr/include/ctype.h
+out.o:	/usr/include/limits.h
+out.o:	/usr/include/minix/dir.h
+out.o:	/usr/include/minix/limits.h
+out.o:	/usr/include/minix/sys_config.h
+out.o:	/usr/include/minix/types.h
+out.o:	/usr/include/stddef.h
+out.o:	/usr/include/stdint.h
+out.o:	/usr/include/stdio.h
+out.o:	/usr/include/stdlib.h
+out.o:	/usr/include/string.h
+out.o:	/usr/include/sys/cdefs.h
+out.o:	/usr/include/sys/null.h
+out.o:	/usr/include/sys/types.h
+out.o:	/usr/include/time.h
+out.o:	config.h
+out.o:	out.c
+out.o:	out.h

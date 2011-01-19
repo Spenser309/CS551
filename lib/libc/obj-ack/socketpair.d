@@ -1,0 +1,23 @@
+
+socketpair.o:	/usr/include/ansi.h
+socketpair.o:	/usr/include/errno.h
+socketpair.o:	/usr/include/fcntl.h
+socketpair.o:	/usr/include/limits.h
+socketpair.o:	/usr/include/minix/dir.h
+socketpair.o:	/usr/include/minix/ioctl.h
+socketpair.o:	/usr/include/minix/limits.h
+socketpair.o:	/usr/include/minix/sys_config.h
+socketpair.o:	/usr/include/minix/types.h
+socketpair.o:	/usr/include/net/gen/socket.h
+socketpair.o:	/usr/include/net/ioctl.h
+socketpair.o:	/usr/include/net/netlib.h
+socketpair.o:	/usr/include/stdint.h
+socketpair.o:	/usr/include/stdio.h
+socketpair.o:	/usr/include/string.h
+socketpair.o:	/usr/include/sys/cdefs.h
+socketpair.o:	/usr/include/sys/null.h
+socketpair.o:	/usr/include/sys/socket.h
+socketpair.o:	/usr/include/sys/stat.h
+socketpair.o:	/usr/include/sys/ucred.h
+socketpair.o:	/usr/include/sys/un.h
+socketpair.o:	/usr/src/lib/libc/ip/socketpair.c

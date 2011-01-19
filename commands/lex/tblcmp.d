@@ -1,0 +1,19 @@
+
+tblcmp.o:	/usr/include/ansi.h
+tblcmp.o:	/usr/include/ctype.h
+tblcmp.o:	/usr/include/limits.h
+tblcmp.o:	/usr/include/minix/dir.h
+tblcmp.o:	/usr/include/minix/limits.h
+tblcmp.o:	/usr/include/minix/sys_config.h
+tblcmp.o:	/usr/include/minix/types.h
+tblcmp.o:	/usr/include/stddef.h
+tblcmp.o:	/usr/include/stdint.h
+tblcmp.o:	/usr/include/stdio.h
+tblcmp.o:	/usr/include/stdlib.h
+tblcmp.o:	/usr/include/string.h
+tblcmp.o:	/usr/include/sys/cdefs.h
+tblcmp.o:	/usr/include/sys/null.h
+tblcmp.o:	/usr/include/sys/types.h
+tblcmp.o:	config.h
+tblcmp.o:	flexdef.h
+tblcmp.o:	tblcmp.c

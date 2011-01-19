@@ -1,0 +1,24 @@
+
+intr.o:	/usr/include/ansi.h
+intr.o:	/usr/include/errno.h
+intr.o:	/usr/include/fcntl.h
+intr.o:	/usr/include/limits.h
+intr.o:	/usr/include/machine/interrupt.h
+intr.o:	/usr/include/minix/config.h
+intr.o:	/usr/include/minix/dir.h
+intr.o:	/usr/include/minix/limits.h
+intr.o:	/usr/include/minix/sys_config.h
+intr.o:	/usr/include/minix/type.h
+intr.o:	/usr/include/minix/types.h
+intr.o:	/usr/include/signal.h
+intr.o:	/usr/include/stddef.h
+intr.o:	/usr/include/stdint.h
+intr.o:	/usr/include/stdio.h
+intr.o:	/usr/include/stdlib.h
+intr.o:	/usr/include/string.h
+intr.o:	/usr/include/sys/cdefs.h
+intr.o:	/usr/include/sys/null.h
+intr.o:	/usr/include/sys/types.h
+intr.o:	/usr/include/sys/ucred.h
+intr.o:	/usr/include/unistd.h
+intr.o:	intr.c

@@ -1,0 +1,19 @@
+
+parse.o:	/usr/include/ansi.h
+parse.o:	/usr/include/assert.h
+parse.o:	/usr/include/limits.h
+parse.o:	/usr/include/minix/dir.h
+parse.o:	/usr/include/minix/limits.h
+parse.o:	/usr/include/minix/sys_config.h
+parse.o:	/usr/include/minix/types.h
+parse.o:	/usr/include/stddef.h
+parse.o:	/usr/include/stdint.h
+parse.o:	/usr/include/stdio.h
+parse.o:	/usr/include/stdlib.h
+parse.o:	/usr/include/string.h
+parse.o:	/usr/include/sys/cdefs.h
+parse.o:	/usr/include/sys/null.h
+parse.o:	awk.h
+parse.o:	awkgram.h
+parse.o:	parse.c
+parse.o:	proto.h

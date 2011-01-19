@@ -1,0 +1,24 @@
+
+filter_fork.o:	/usr/include/ansi.h
+filter_fork.o:	/usr/include/fcntl.h
+filter_fork.o:	/usr/include/inttypes.h
+filter_fork.o:	/usr/include/limits.h
+filter_fork.o:	/usr/include/machine/interrupt.h
+filter_fork.o:	/usr/include/minix/config.h
+filter_fork.o:	/usr/include/minix/dir.h
+filter_fork.o:	/usr/include/minix/limits.h
+filter_fork.o:	/usr/include/minix/sys_config.h
+filter_fork.o:	/usr/include/minix/type.h
+filter_fork.o:	/usr/include/minix/types.h
+filter_fork.o:	/usr/include/stdint.h
+filter_fork.o:	/usr/include/string.h
+filter_fork.o:	/usr/include/sys/cdefs.h
+filter_fork.o:	/usr/include/sys/null.h
+filter_fork.o:	/usr/include/sys/select.h
+filter_fork.o:	/usr/include/sys/time.h
+filter_fork.o:	/usr/include/sys/ucred.h
+filter_fork.o:	/usr/include/unistd.h
+filter_fork.o:	/usr/src/lib/libarchive/archive_platform.h
+filter_fork.o:	/usr/src/lib/libarchive/config.h
+filter_fork.o:	/usr/src/lib/libarchive/filter_fork.c
+filter_fork.o:	/usr/src/lib/libarchive/filter_fork.h

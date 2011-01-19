@@ -1,0 +1,24 @@
+
+mktemp.o:	/usr/include/ansi.h
+mktemp.o:	/usr/include/ctype.h
+mktemp.o:	/usr/include/errno.h
+mktemp.o:	/usr/include/fcntl.h
+mktemp.o:	/usr/include/limits.h
+mktemp.o:	/usr/include/machine/interrupt.h
+mktemp.o:	/usr/include/minix/config.h
+mktemp.o:	/usr/include/minix/dir.h
+mktemp.o:	/usr/include/minix/limits.h
+mktemp.o:	/usr/include/minix/sys_config.h
+mktemp.o:	/usr/include/minix/type.h
+mktemp.o:	/usr/include/minix/types.h
+mktemp.o:	/usr/include/stddef.h
+mktemp.o:	/usr/include/stdint.h
+mktemp.o:	/usr/include/stdio.h
+mktemp.o:	/usr/include/stdlib.h
+mktemp.o:	/usr/include/sys/cdefs.h
+mktemp.o:	/usr/include/sys/null.h
+mktemp.o:	/usr/include/sys/stat.h
+mktemp.o:	/usr/include/sys/types.h
+mktemp.o:	/usr/include/sys/ucred.h
+mktemp.o:	/usr/include/unistd.h
+mktemp.o:	/usr/src/lib/libc/stdio/mktemp.c

@@ -1,0 +1,26 @@
+
+id.o:	/usr/include/ansi.h
+id.o:	/usr/include/err.h
+id.o:	/usr/include/errno.h
+id.o:	/usr/include/grp.h
+id.o:	/usr/include/limits.h
+id.o:	/usr/include/machine/interrupt.h
+id.o:	/usr/include/minix/config.h
+id.o:	/usr/include/minix/dir.h
+id.o:	/usr/include/minix/limits.h
+id.o:	/usr/include/minix/sys_config.h
+id.o:	/usr/include/minix/type.h
+id.o:	/usr/include/minix/types.h
+id.o:	/usr/include/pwd.h
+id.o:	/usr/include/stdarg.h
+id.o:	/usr/include/stddef.h
+id.o:	/usr/include/stdint.h
+id.o:	/usr/include/stdio.h
+id.o:	/usr/include/stdlib.h
+id.o:	/usr/include/string.h
+id.o:	/usr/include/sys/cdefs.h
+id.o:	/usr/include/sys/null.h
+id.o:	/usr/include/sys/param.h
+id.o:	/usr/include/sys/ucred.h
+id.o:	/usr/include/unistd.h
+id.o:	id.c

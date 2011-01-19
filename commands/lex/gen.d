@@ -1,0 +1,19 @@
+
+gen.o:	/usr/include/ansi.h
+gen.o:	/usr/include/ctype.h
+gen.o:	/usr/include/limits.h
+gen.o:	/usr/include/minix/dir.h
+gen.o:	/usr/include/minix/limits.h
+gen.o:	/usr/include/minix/sys_config.h
+gen.o:	/usr/include/minix/types.h
+gen.o:	/usr/include/stddef.h
+gen.o:	/usr/include/stdint.h
+gen.o:	/usr/include/stdio.h
+gen.o:	/usr/include/stdlib.h
+gen.o:	/usr/include/string.h
+gen.o:	/usr/include/sys/cdefs.h
+gen.o:	/usr/include/sys/null.h
+gen.o:	/usr/include/sys/types.h
+gen.o:	config.h
+gen.o:	flexdef.h
+gen.o:	gen.c

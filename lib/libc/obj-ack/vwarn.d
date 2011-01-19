@@ -1,0 +1,19 @@
+
+vwarn.o:	/usr/include/ansi.h
+vwarn.o:	/usr/include/err.h
+vwarn.o:	/usr/include/errno.h
+vwarn.o:	/usr/include/limits.h
+vwarn.o:	/usr/include/minix/dir.h
+vwarn.o:	/usr/include/minix/limits.h
+vwarn.o:	/usr/include/minix/sys_config.h
+vwarn.o:	/usr/include/minix/types.h
+vwarn.o:	/usr/include/stdarg.h
+vwarn.o:	/usr/include/stddef.h
+vwarn.o:	/usr/include/stdint.h
+vwarn.o:	/usr/include/stdio.h
+vwarn.o:	/usr/include/stdlib.h
+vwarn.o:	/usr/include/string.h
+vwarn.o:	/usr/include/sys/cdefs.h
+vwarn.o:	/usr/include/sys/null.h
+vwarn.o:	/usr/src/lib/libc/other/namespace.h
+vwarn.o:	/usr/src/lib/libc/other/vwarn.c

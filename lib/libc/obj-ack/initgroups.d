@@ -1,0 +1,19 @@
+
+initgroups.o:	/usr/include/ansi.h
+initgroups.o:	/usr/include/grp.h
+initgroups.o:	/usr/include/limits.h
+initgroups.o:	/usr/include/machine/interrupt.h
+initgroups.o:	/usr/include/minix/config.h
+initgroups.o:	/usr/include/minix/dir.h
+initgroups.o:	/usr/include/minix/limits.h
+initgroups.o:	/usr/include/minix/sys_config.h
+initgroups.o:	/usr/include/minix/type.h
+initgroups.o:	/usr/include/minix/types.h
+initgroups.o:	/usr/include/stdint.h
+initgroups.o:	/usr/include/string.h
+initgroups.o:	/usr/include/sys/cdefs.h
+initgroups.o:	/usr/include/sys/null.h
+initgroups.o:	/usr/include/sys/param.h
+initgroups.o:	/usr/include/sys/ucred.h
+initgroups.o:	/usr/include/unistd.h
+initgroups.o:	/usr/src/lib/libc/other/initgroups.c

@@ -1,0 +1,23 @@
+
+cmp.o:	/usr/include/ansi.h
+cmp.o:	/usr/include/errno.h
+cmp.o:	/usr/include/fcntl.h
+cmp.o:	/usr/include/limits.h
+cmp.o:	/usr/include/machine/interrupt.h
+cmp.o:	/usr/include/minix/config.h
+cmp.o:	/usr/include/minix/dir.h
+cmp.o:	/usr/include/minix/limits.h
+cmp.o:	/usr/include/minix/sys_config.h
+cmp.o:	/usr/include/minix/type.h
+cmp.o:	/usr/include/minix/types.h
+cmp.o:	/usr/include/stddef.h
+cmp.o:	/usr/include/stdint.h
+cmp.o:	/usr/include/stdio.h
+cmp.o:	/usr/include/stdlib.h
+cmp.o:	/usr/include/string.h
+cmp.o:	/usr/include/sys/cdefs.h
+cmp.o:	/usr/include/sys/null.h
+cmp.o:	/usr/include/sys/types.h
+cmp.o:	/usr/include/sys/ucred.h
+cmp.o:	/usr/include/unistd.h
+cmp.o:	cmp.c

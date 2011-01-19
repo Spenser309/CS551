@@ -1,0 +1,23 @@
+
+_fcntl.o:	/usr/include/ansi.h
+_fcntl.o:	/usr/include/errno.h
+_fcntl.o:	/usr/include/fcntl.h
+_fcntl.o:	/usr/include/lib.h
+_fcntl.o:	/usr/include/limits.h
+_fcntl.o:	/usr/include/machine/interrupt.h
+_fcntl.o:	/usr/include/minix/callnr.h
+_fcntl.o:	/usr/include/minix/com.h
+_fcntl.o:	/usr/include/minix/config.h
+_fcntl.o:	/usr/include/minix/const.h
+_fcntl.o:	/usr/include/minix/dir.h
+_fcntl.o:	/usr/include/minix/ipc.h
+_fcntl.o:	/usr/include/minix/ipcconst.h
+_fcntl.o:	/usr/include/minix/limits.h
+_fcntl.o:	/usr/include/minix/sys_config.h
+_fcntl.o:	/usr/include/minix/type.h
+_fcntl.o:	/usr/include/minix/types.h
+_fcntl.o:	/usr/include/stdarg.h
+_fcntl.o:	/usr/include/stdint.h
+_fcntl.o:	/usr/include/sys/cdefs.h
+_fcntl.o:	/usr/include/sys/null.h
+_fcntl.o:	/usr/src/lib/libc/posix/_fcntl.c

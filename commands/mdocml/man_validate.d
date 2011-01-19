@@ -1,0 +1,22 @@
+
+man_validate.o:	/usr/include/ansi.h
+man_validate.o:	/usr/include/assert.h
+man_validate.o:	/usr/include/ctype.h
+man_validate.o:	/usr/include/errno.h
+man_validate.o:	/usr/include/limits.h
+man_validate.o:	/usr/include/minix/dir.h
+man_validate.o:	/usr/include/minix/limits.h
+man_validate.o:	/usr/include/minix/types.h
+man_validate.o:	/usr/include/stdarg.h
+man_validate.o:	/usr/include/stddef.h
+man_validate.o:	/usr/include/stdlib.h
+man_validate.o:	/usr/include/sys/cdefs.h
+man_validate.o:	/usr/include/sys/null.h
+man_validate.o:	/usr/include/sys/types.h
+man_validate.o:	/usr/include/time.h
+man_validate.o:	config.h
+man_validate.o:	libman.h
+man_validate.o:	libmandoc.h
+man_validate.o:	man.h
+man_validate.o:	man_validate.c
+man_validate.o:	mandoc.h

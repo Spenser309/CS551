@@ -1,0 +1,23 @@
+
+term_ps.o:	/usr/include/ansi.h
+term_ps.o:	/usr/include/assert.h
+term_ps.o:	/usr/include/limits.h
+term_ps.o:	/usr/include/minix/dir.h
+term_ps.o:	/usr/include/minix/limits.h
+term_ps.o:	/usr/include/minix/sys_config.h
+term_ps.o:	/usr/include/minix/types.h
+term_ps.o:	/usr/include/stdarg.h
+term_ps.o:	/usr/include/stddef.h
+term_ps.o:	/usr/include/stdint.h
+term_ps.o:	/usr/include/stdio.h
+term_ps.o:	/usr/include/stdlib.h
+term_ps.o:	/usr/include/string.h
+term_ps.o:	/usr/include/sys/cdefs.h
+term_ps.o:	/usr/include/sys/null.h
+term_ps.o:	/usr/include/sys/param.h
+term_ps.o:	/usr/include/sys/types.h
+term_ps.o:	config.h
+term_ps.o:	main.h
+term_ps.o:	out.h
+term_ps.o:	term.h
+term_ps.o:	term_ps.c

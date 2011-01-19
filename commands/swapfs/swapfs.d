@@ -1,0 +1,24 @@
+
+swapfs.o:	/usr/include/ansi.h
+swapfs.o:	/usr/include/assert.h
+swapfs.o:	/usr/include/fcntl.h
+swapfs.o:	/usr/include/limits.h
+swapfs.o:	/usr/include/machine/interrupt.h
+swapfs.o:	/usr/include/minix/config.h
+swapfs.o:	/usr/include/minix/dir.h
+swapfs.o:	/usr/include/minix/limits.h
+swapfs.o:	/usr/include/minix/sys_config.h
+swapfs.o:	/usr/include/minix/type.h
+swapfs.o:	/usr/include/minix/types.h
+swapfs.o:	/usr/include/stddef.h
+swapfs.o:	/usr/include/stdint.h
+swapfs.o:	/usr/include/stdio.h
+swapfs.o:	/usr/include/stdlib.h
+swapfs.o:	/usr/include/string.h
+swapfs.o:	/usr/include/sys/cdefs.h
+swapfs.o:	/usr/include/sys/null.h
+swapfs.o:	/usr/include/sys/stat.h
+swapfs.o:	/usr/include/sys/types.h
+swapfs.o:	/usr/include/sys/ucred.h
+swapfs.o:	/usr/include/unistd.h
+swapfs.o:	swapfs.c

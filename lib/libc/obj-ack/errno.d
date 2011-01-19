@@ -1,0 +1,21 @@
+
+errno.o:	/usr/include/ansi.h
+errno.o:	/usr/include/errno.h
+errno.o:	/usr/include/lib.h
+errno.o:	/usr/include/limits.h
+errno.o:	/usr/include/machine/interrupt.h
+errno.o:	/usr/include/minix/callnr.h
+errno.o:	/usr/include/minix/com.h
+errno.o:	/usr/include/minix/config.h
+errno.o:	/usr/include/minix/const.h
+errno.o:	/usr/include/minix/dir.h
+errno.o:	/usr/include/minix/ipc.h
+errno.o:	/usr/include/minix/ipcconst.h
+errno.o:	/usr/include/minix/limits.h
+errno.o:	/usr/include/minix/sys_config.h
+errno.o:	/usr/include/minix/type.h
+errno.o:	/usr/include/minix/types.h
+errno.o:	/usr/include/stdint.h
+errno.o:	/usr/include/sys/cdefs.h
+errno.o:	/usr/include/sys/null.h
+errno.o:	/usr/src/lib/libc/other/errno.c

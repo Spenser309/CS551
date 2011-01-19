@@ -1,0 +1,22 @@
+
+signal.o:	/usr/include/ansi.h
+signal.o:	/usr/include/errno.h
+signal.o:	/usr/include/lib.h
+signal.o:	/usr/include/limits.h
+signal.o:	/usr/include/machine/interrupt.h
+signal.o:	/usr/include/minix/callnr.h
+signal.o:	/usr/include/minix/com.h
+signal.o:	/usr/include/minix/config.h
+signal.o:	/usr/include/minix/const.h
+signal.o:	/usr/include/minix/dir.h
+signal.o:	/usr/include/minix/ipc.h
+signal.o:	/usr/include/minix/ipcconst.h
+signal.o:	/usr/include/minix/limits.h
+signal.o:	/usr/include/minix/sys_config.h
+signal.o:	/usr/include/minix/type.h
+signal.o:	/usr/include/minix/types.h
+signal.o:	/usr/include/signal.h
+signal.o:	/usr/include/stdint.h
+signal.o:	/usr/include/sys/cdefs.h
+signal.o:	/usr/include/sys/null.h
+signal.o:	/usr/src/lib/libc/ansi/signal.c

@@ -1,0 +1,25 @@
+
+_tcflow.o:	/usr/include/ansi.h
+_tcflow.o:	/usr/include/limits.h
+_tcflow.o:	/usr/include/minix/dir.h
+_tcflow.o:	/usr/include/minix/ioctl.h
+_tcflow.o:	/usr/include/minix/limits.h
+_tcflow.o:	/usr/include/minix/sys_config.h
+_tcflow.o:	/usr/include/minix/types.h
+_tcflow.o:	/usr/include/net/ioctl.h
+_tcflow.o:	/usr/include/stdint.h
+_tcflow.o:	/usr/include/string.h
+_tcflow.o:	/usr/include/sys/cdefs.h
+_tcflow.o:	/usr/include/sys/ioc_cmos.h
+_tcflow.o:	/usr/include/sys/ioc_disk.h
+_tcflow.o:	/usr/include/sys/ioc_file.h
+_tcflow.o:	/usr/include/sys/ioc_memory.h
+_tcflow.o:	/usr/include/sys/ioc_scsi.h
+_tcflow.o:	/usr/include/sys/ioc_sound.h
+_tcflow.o:	/usr/include/sys/ioc_tape.h
+_tcflow.o:	/usr/include/sys/ioc_tty.h
+_tcflow.o:	/usr/include/sys/ioctl.h
+_tcflow.o:	/usr/include/sys/null.h
+_tcflow.o:	/usr/include/sys/un.h
+_tcflow.o:	/usr/include/termios.h
+_tcflow.o:	/usr/src/lib/libc/posix/_tcflow.c

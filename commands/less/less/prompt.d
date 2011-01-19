@@ -1,0 +1,27 @@
+
+prompt.o:	/usr/include/ansi.h
+prompt.o:	/usr/include/ctype.h
+prompt.o:	/usr/include/fcntl.h
+prompt.o:	/usr/include/limits.h
+prompt.o:	/usr/include/machine/interrupt.h
+prompt.o:	/usr/include/minix/config.h
+prompt.o:	/usr/include/minix/dir.h
+prompt.o:	/usr/include/minix/limits.h
+prompt.o:	/usr/include/minix/sys_config.h
+prompt.o:	/usr/include/minix/type.h
+prompt.o:	/usr/include/minix/types.h
+prompt.o:	/usr/include/stddef.h
+prompt.o:	/usr/include/stdint.h
+prompt.o:	/usr/include/stdio.h
+prompt.o:	/usr/include/stdlib.h
+prompt.o:	/usr/include/string.h
+prompt.o:	/usr/include/sys/cdefs.h
+prompt.o:	/usr/include/sys/null.h
+prompt.o:	/usr/include/sys/types.h
+prompt.o:	/usr/include/sys/ucred.h
+prompt.o:	/usr/include/unistd.h
+prompt.o:	/usr/src/commands/less/less/defines.h
+prompt.o:	funcs.h
+prompt.o:	less.h
+prompt.o:	position.h
+prompt.o:	prompt.c

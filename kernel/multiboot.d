@@ -1,0 +1,21 @@
+
+multiboot.o:	/usr/include/ansi.h
+multiboot.o:	/usr/include/machine/asm.h
+multiboot.o:	/usr/include/machine/interrupt.h
+multiboot.o:	/usr/include/machine/memory.h
+multiboot.o:	/usr/include/minix/bitmap.h
+multiboot.o:	/usr/include/minix/com.h
+multiboot.o:	/usr/include/minix/config.h
+multiboot.o:	/usr/include/minix/const.h
+multiboot.o:	/usr/include/minix/debug.h
+multiboot.o:	/usr/include/minix/sys_config.h
+multiboot.o:	/usr/include/sys/null.h
+multiboot.o:	/usr/src/kernel/arch/i386/include/archconst.h
+multiboot.o:	/usr/src/kernel/arch/i386/multiboot.S
+multiboot.o:	/usr/src/kernel/arch/i386/multiboot.h
+multiboot.o:	/usr/src/kernel/arch/i386/sconst.h
+multiboot.o:	/usr/src/kernel/config.h
+multiboot.o:	/usr/src/kernel/const.h
+multiboot.o:	/usr/src/kernel/debug.h
+multiboot.o:	/usr/src/kernel/kernel.h
+multiboot.o:	/usr/src/kernel/proc.h

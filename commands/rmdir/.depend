@@ -1,0 +1,21 @@
+
+rmdir.o:	/usr/include/ansi.h
+rmdir.o:	/usr/include/errno.h
+rmdir.o:	/usr/include/limits.h
+rmdir.o:	/usr/include/machine/interrupt.h
+rmdir.o:	/usr/include/minix/config.h
+rmdir.o:	/usr/include/minix/dir.h
+rmdir.o:	/usr/include/minix/limits.h
+rmdir.o:	/usr/include/minix/sys_config.h
+rmdir.o:	/usr/include/minix/type.h
+rmdir.o:	/usr/include/minix/types.h
+rmdir.o:	/usr/include/stddef.h
+rmdir.o:	/usr/include/stdint.h
+rmdir.o:	/usr/include/stdlib.h
+rmdir.o:	/usr/include/string.h
+rmdir.o:	/usr/include/sys/cdefs.h
+rmdir.o:	/usr/include/sys/null.h
+rmdir.o:	/usr/include/sys/types.h
+rmdir.o:	/usr/include/sys/ucred.h
+rmdir.o:	/usr/include/unistd.h
+rmdir.o:	rmdir.c

@@ -1,0 +1,23 @@
+
+getoldopt.o:	/usr/include/ansi.h
+getoldopt.o:	/usr/include/limits.h
+getoldopt.o:	/usr/include/machine/interrupt.h
+getoldopt.o:	/usr/include/minix/config.h
+getoldopt.o:	/usr/include/minix/const.h
+getoldopt.o:	/usr/include/minix/dir.h
+getoldopt.o:	/usr/include/minix/limits.h
+getoldopt.o:	/usr/include/minix/sys_config.h
+getoldopt.o:	/usr/include/minix/type.h
+getoldopt.o:	/usr/include/minix/types.h
+getoldopt.o:	/usr/include/stdint.h
+getoldopt.o:	/usr/include/stdio.h
+getoldopt.o:	/usr/include/string.h
+getoldopt.o:	/usr/include/sys/cdefs.h
+getoldopt.o:	/usr/include/sys/null.h
+getoldopt.o:	/usr/include/sys/stat.h
+getoldopt.o:	/usr/include/sys/types.h
+getoldopt.o:	/usr/include/sys/ucred.h
+getoldopt.o:	/usr/include/unistd.h
+getoldopt.o:	extern.h
+getoldopt.o:	getoldopt.c
+getoldopt.o:	pax.h

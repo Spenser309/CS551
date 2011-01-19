@@ -1,0 +1,27 @@
+
+printf.o:	/usr/include/ansi.h
+printf.o:	/usr/include/ctype.h
+printf.o:	/usr/include/err.h
+printf.o:	/usr/include/errno.h
+printf.o:	/usr/include/inttypes.h
+printf.o:	/usr/include/limits.h
+printf.o:	/usr/include/locale.h
+printf.o:	/usr/include/machine/interrupt.h
+printf.o:	/usr/include/minix/config.h
+printf.o:	/usr/include/minix/dir.h
+printf.o:	/usr/include/minix/limits.h
+printf.o:	/usr/include/minix/sys_config.h
+printf.o:	/usr/include/minix/type.h
+printf.o:	/usr/include/minix/types.h
+printf.o:	/usr/include/stdarg.h
+printf.o:	/usr/include/stddef.h
+printf.o:	/usr/include/stdint.h
+printf.o:	/usr/include/stdio.h
+printf.o:	/usr/include/stdlib.h
+printf.o:	/usr/include/string.h
+printf.o:	/usr/include/sys/cdefs.h
+printf.o:	/usr/include/sys/null.h
+printf.o:	/usr/include/sys/types.h
+printf.o:	/usr/include/sys/ucred.h
+printf.o:	/usr/include/unistd.h
+printf.o:	printf.c

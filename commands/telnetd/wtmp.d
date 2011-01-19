@@ -1,0 +1,26 @@
+
+wtmp.o:	/usr/include/ansi.h
+wtmp.o:	/usr/include/errno.h
+wtmp.o:	/usr/include/fcntl.h
+wtmp.o:	/usr/include/limits.h
+wtmp.o:	/usr/include/machine/interrupt.h
+wtmp.o:	/usr/include/minix/config.h
+wtmp.o:	/usr/include/minix/dir.h
+wtmp.o:	/usr/include/minix/limits.h
+wtmp.o:	/usr/include/minix/sys_config.h
+wtmp.o:	/usr/include/minix/type.h
+wtmp.o:	/usr/include/minix/types.h
+wtmp.o:	/usr/include/stddef.h
+wtmp.o:	/usr/include/stdint.h
+wtmp.o:	/usr/include/stdio.h
+wtmp.o:	/usr/include/stdlib.h
+wtmp.o:	/usr/include/string.h
+wtmp.o:	/usr/include/sys/cdefs.h
+wtmp.o:	/usr/include/sys/null.h
+wtmp.o:	/usr/include/sys/types.h
+wtmp.o:	/usr/include/sys/ucred.h
+wtmp.o:	/usr/include/time.h
+wtmp.o:	/usr/include/unistd.h
+wtmp.o:	/usr/include/utmp.h
+wtmp.o:	telnetd.h
+wtmp.o:	wtmp.c

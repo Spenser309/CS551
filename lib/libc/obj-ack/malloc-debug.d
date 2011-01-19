@@ -1,0 +1,24 @@
+
+malloc-debug.o:	/usr/include/ansi.h
+malloc-debug.o:	/usr/include/assert.h
+malloc-debug.o:	/usr/include/limits.h
+malloc-debug.o:	/usr/include/machine/interrupt.h
+malloc-debug.o:	/usr/include/machine/vm.h
+malloc-debug.o:	/usr/include/minix/config.h
+malloc-debug.o:	/usr/include/minix/dir.h
+malloc-debug.o:	/usr/include/minix/limits.h
+malloc-debug.o:	/usr/include/minix/minlib.h
+malloc-debug.o:	/usr/include/minix/sys_config.h
+malloc-debug.o:	/usr/include/minix/type.h
+malloc-debug.o:	/usr/include/minix/types.h
+malloc-debug.o:	/usr/include/minix/u64.h
+malloc-debug.o:	/usr/include/stddef.h
+malloc-debug.o:	/usr/include/stdint.h
+malloc-debug.o:	/usr/include/stdlib.h
+malloc-debug.o:	/usr/include/string.h
+malloc-debug.o:	/usr/include/sys/cdefs.h
+malloc-debug.o:	/usr/include/sys/mman.h
+malloc-debug.o:	/usr/include/sys/null.h
+malloc-debug.o:	/usr/include/sys/types.h
+malloc-debug.o:	/usr/src/lib/libc/ansi/malloc-debug.c
+malloc-debug.o:	/usr/src/lib/libc/ansi/malloc-debug.h

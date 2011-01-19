@@ -1,0 +1,22 @@
+
+pass2.o:	/usr/include/ansi.h
+pass2.o:	/usr/include/ctype.h
+pass2.o:	/usr/include/limits.h
+pass2.o:	/usr/include/minix/dir.h
+pass2.o:	/usr/include/minix/limits.h
+pass2.o:	/usr/include/minix/sys_config.h
+pass2.o:	/usr/include/minix/types.h
+pass2.o:	/usr/include/stddef.h
+pass2.o:	/usr/include/stdint.h
+pass2.o:	/usr/include/stdio.h
+pass2.o:	/usr/include/stdlib.h
+pass2.o:	/usr/include/string.h
+pass2.o:	/usr/include/sys/cdefs.h
+pass2.o:	/usr/include/sys/null.h
+pass2.o:	/usr/include/sys/types.h
+pass2.o:	ansi.h
+pass2.o:	cawf.h
+pass2.o:	cawflib.h
+pass2.o:	pass2.c
+pass2.o:	proto.h
+pass2.o:	regexp.h

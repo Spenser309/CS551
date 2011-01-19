@@ -1,0 +1,26 @@
+
+gzread.o:	/usr/include/ansi.h
+gzread.o:	/usr/include/errno.h
+gzread.o:	/usr/include/fcntl.h
+gzread.o:	/usr/include/limits.h
+gzread.o:	/usr/include/machine/interrupt.h
+gzread.o:	/usr/include/minix/config.h
+gzread.o:	/usr/include/minix/dir.h
+gzread.o:	/usr/include/minix/limits.h
+gzread.o:	/usr/include/minix/sys_config.h
+gzread.o:	/usr/include/minix/type.h
+gzread.o:	/usr/include/minix/types.h
+gzread.o:	/usr/include/stddef.h
+gzread.o:	/usr/include/stdint.h
+gzread.o:	/usr/include/stdio.h
+gzread.o:	/usr/include/stdlib.h
+gzread.o:	/usr/include/string.h
+gzread.o:	/usr/include/sys/cdefs.h
+gzread.o:	/usr/include/sys/null.h
+gzread.o:	/usr/include/sys/types.h
+gzread.o:	/usr/include/sys/ucred.h
+gzread.o:	/usr/include/unistd.h
+gzread.o:	/usr/src/lib/libz/gzguts.h
+gzread.o:	/usr/src/lib/libz/gzread.c
+gzread.o:	/usr/src/lib/libz/zconf.h
+gzread.o:	/usr/src/lib/libz/zlib.h
