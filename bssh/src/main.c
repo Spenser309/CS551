@@ -3,212 +3,330 @@
  * Creation: 1/27/2011
  *
  * Changelog:
- *    01-27-2011 - Initial Creation
- *
- */ 
- 
+ *    01-27-2011 - Initial Creation.
+ *    02-06-2011 - Rewrite based on select.
+ *    02-07-2011 - Implement processes.
+ *    02-08-2011 - Feature Complete.
+ */
+
+#define _POSIX_SOURCE // From http://osdir.com/ml/minix3/2011-01/msg00227.html. 
+
+#include <sys/types.h>
+#include <sys/select.h>
+#include <sys/wait.h>
+
+#include <fcntl.h>
+#include <signal.h>
+#include <errno.h>
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
-#include <signal.h>
 #include <string.h>
+#include <strings.h>
 
-#define UPDATE  1
-#define PASS    0
-#define FAIL   -1
+#include "cmd.h"
+#include "env.h"
 
-#define TRUE  1
-#define FALSE 0
+#define TRUE  (0)
+#define FALSE (-1)
 
-/* env_entry is an entry in the environment array.   
- */
-typedef struct {
-   char* key;   // Variable name
-   char* value; // variable value
-} env_entry;
+#define PASS (0)
+#define FAIL (-1)
 
-env_entry *env; // envrionmental variables.
-
-/* getline - Reads a line of text from the file descriptor and returns a pointer
+/* my_getline - Reads a line of text from the file descriptor and returns a pointer
  *    to the line with the trailing '\n' character.
  *
  * Variables:
- *    fd - file descriptor to read from.  Use STDIN_FILENO for stdin.
+ *    fd - file descriptor to read from.
  *    line - pointer to a line of text.  It will be allocated by this function but
  *       should be freed by the user.
- *  
+ *
  * Return:
  *    PASS - On success.
- *    FAIL - On failure to allocate neccessary memory.
+ *    FAIL - On failure to allocate necessary memory.
  */
-int getline(FILE *fd, char** line);
+int my_getline(FILE *fd, char** line);
 
-/* env_write - updates or adds a value to the environment with the value specified.
+/* interpret_line - Interpret a line of code.
  *
  * Variables:
- *    key - The name of the variable to be updated or added.
- *    value - The value that the variable should have.
+ *    line - A line of code to execute.
  *
  * Return:
- *    PASS - when added to env and allocated all memory successfully.
- *    FAIL - on failure to allocate memory
- *    UPDATE - when updated entry to env and allocated all memory successfully.
- */
-int env_write(const char* key, const char* value);
-
-/* env_read - reads a value from the environment.
+ *    The return code of the various programs with a nonzero return code being an error.
  *
- * Variables:
- *    key - The name of the variable to be read.
- *    value - The value of the variable.
- *
- * Return:
- *    PASS - when variable was found
- *    FAIL - When variable was not found.
- */
-int env_read(const char* key, char** value);
-
-/* exec_profile - 
- */
-int exec_profile(const char* filename);
-
-/* interpret_line - 
  */
 int interpret_line(char* line);
 
-/* sigint_handdler - this is the signal handler for the C-c console input.
+/* prompt_for_quit - altered by signal handler for quitting the program.
  */
-void sigint_handler() {
-       sigset_t mask_set;	/* used to set a signal masking set. */
-    sigset_t old_set;	/* used to store the old mask set.   */
-    
-   signal(SIGINT, sigint_handler);
-   /* mask any further signals while we're inside the handler. */
-   sigfillset(&mask_set);
-   sigprocmask(SIG_SETMASK, &mask_set, &old_set);
-   
-   char response;
-   
-   //while(fgetc(stdin) != EOF); // Flush the input buffer.
-   
-   printf("Are you sure(y/n)?\n");
-   response = fgetc(stdin);
+volatile static sig_atomic_t prompt_for_quit = 0;
 
-   
-   if (response == 'y' || response == 'Y') {
-      printf("Thank You come again!\n");
-      exit(PASS);
-   }
-
+/* sigint_handler - this is the signal handler for the C-c console input.
+ */
+void sigint_handler(int signum) {
+   prompt_for_quit = ! prompt_for_quit; // Ask to quit.
 }
 
-
-int main(int argc, char **argv) {
-
-   int done = 0;
-   int success = FAIL;
-   char* homedir;
-   char* line = NULL; // Define a line buffer.
+/* setup_sighandler - setup SIGINT signal handler.
+ *
+ * Variables:
+ *
+ * Return:
+ *    PASS - successfully installed.
+ *    FAIL - failed to install.
+ */
+int setup_sighandler() {
+   sigset_t sigint_set;
    
-   // Control Ctl-C signal
-   signal(SIGINT, sigint_handler);
+   sigfillset(&sigint_set);
+   sigdelset(&sigint_set, SIGINT);
    
-   // Execute a profile Script
-   //success = exec_profile("/root/.profile");
-
+   struct sigaction sigint_actions;
    
-   if(!success) {
-      env_write("HOME","/");
-      env_write("PROMPT","SETPROMPT-$#");
-   }
- 
-   // Change to home directory or default.
-   env_read("HOME", &line);
-   success = chdir("/");
-   free(line); // Line was allocated on env_read so free here.
-
-
-   if(success == 1) {
-      printf("FATAL: Could not set home directory\n");
-      exit(1);
-   }
-            
-   do {
-      // Retrieve and print the prompt
-      env_read("PROMPT", &line);
-      printf("%s", line);
-      free(line); // Line was allocated with env_read so free here.
-
-      // Get the users command.
-      getline(stdin, &line);
-      printf("%s", line);
-      // interpret_line(line);
-      free(line); // Line was allocated on getline so free here.
-   } while(!done);
+   sigint_actions.sa_handler = sigint_handler;
+   sigint_actions.sa_mask    = sigint_set;
+   sigint_actions.sa_flags   = 0; 
+   
+   /* Control Ctl-C signal */
+   sigaction(SIGINT, &sigint_actions, NULL);
    
    return 0;
 }
 
+int main() {
+   fd_set fdset;
+   char *line;
 
-// Helper functions.
-
-int getline(FILE *fd, char** line) {
- 
-   int lsize = 80; // initial line length
-   int lindex = 0; // index
+   FD_ZERO(&fdset);
+   FD_SET(STDIN_FILENO, &fdset);
    
-   (*line) = malloc(sizeof(char)*lsize); // Line of text
+   env_write("PROMPT=PROMPT# ");
+   env_write("HOME=/root/");
+   env_write("PATH=/usr/bin:/bin");
+
+   setup_sighandler();
+   
+   for(;;) {
+
+	  env_read("PROMPT", &line);
+      printf("%s", line);
+      fflush(stdout);
+      
+      // select returns if input is available or a signal occured.
+      select(1, &fdset, NULL, NULL, NULL);
+      
+      if( prompt_for_quit == 1 ) {
+         printf("Are you sure?(y/n)\n");
+         
+         if(fgetc(stdin) == 'y') {
+            break;
+         } else {
+            prompt_for_quit = 0; // reset prompt.
+            while(fgetc(stdin) != '\n'); // Because we are in canonical input mode this will clear the buffer.
+            continue;
+         }
+      }
+      
+      my_getline(stdin, &line);
+      expand_line(&line);
+      interpret_line(line);
+
+
+      free(line);
+   }
+   
+   env_free();
+   alias_free();
+
+   // printf("Thank you for using the basic simple shell!\n");
+   
+   return 0;
+}
+
+/* split_line - Splits a string into an array of elements without whitespace. 
+ *
+ * Variables:
+ *    line - string of text to be split.
+ *    elements - array of elements to store the result in.
+ *
+ * Return:
+ *    number of elements found in the string.
+ */
+char** split_line(char* line, int* num_elements) {
+
+   char** elements = NULL;
+   
+   int    element = 0;
+   int    start = 0;
+   
+   int double_open = 0; // open and closed status.
+   int single_open = 0; // open and closed status.
+   
+   for(int i=0; i < strlen(line); i++) {
+      
+      if( line[i] == '\"') {
+         double_open = ! double_open;
+      }
+      
+      if( line[i] == '\'') {
+         single_open = ! single_open;
+      }
+      
+      if( double_open == 0 && single_open == 0 && 
+         (line[i] == ' ' || line[i] == '\n' || line[i] == '\t')) {
+
+         elements = realloc(elements, sizeof(char*)*(element+1));
+         elements[element] = malloc(sizeof(char)*(i-start+1));
+         
+         if(elements == NULL || elements[element] == NULL) {
+            printf("ERROR: Out of memory\n");
+            exit(EXIT_FAILURE);
+         }
+         
+         memcpy(&elements[element][0], &line[start], i-start);
+         elements[element][i-start] = '\0';
+         
+         while(i < strlen(line) && 
+               (line[i] == ' ' || line[i] == '\n' || line[i] == '\t') ) {
+            i++; // Fast forward to the next non-whitespace character.
+         }
+         
+         start = i;
+         element++;
+      }
+   }
+   
+   *num_elements = element;
+   
+   // Good debugging info
+   /* for(int j=0; j < element; j++) {
+      printf("elements[%i] = \"%s\"\n", j, elements[j]);
+   }*/
+
+   return elements;
+}
+
+int interpret_line(char* line) {
+
+   cmd* commands_head = cmd_init();
+   cmd* command = commands_head;
+   
+   int num_elements;
+   char** elements = split_line(line, &num_elements);
+   
+   int element  = 0;
+   int variable = 0;
+
+   int fds[2] = {STDIN_FILENO, STDOUT_FILENO};
+
+   while(element < num_elements) {
+      
+      while( element < num_elements && strcmp(elements[element], "|") 
+                                    && strcmp(elements[element], "<") 
+                                    && strcmp(elements[element], ">")  ) {
+         command->argv = realloc(command->argv, sizeof(char*)*(variable+1));
+         command->argv[variable] = elements[element];
+
+         element++;
+         variable++;
+      }
+
+      /*for(int j=0; j < variable; j++) {
+         printf("argv[%i] = %s\n", j, command->argv[j]);
+      }*/
+
+      if(element < num_elements && strcmp(elements[element], ">") == 0) {
+         printf("Redirect STDOUT\n");
+         element++;
+         
+         if(element < num_elements) {
+         command->fd_out = open(elements[element], O_WRONLY);
+
+         element++;
+         } else {
+            printf("ERROR: missing filename\n");
+            exit(EXIT_FAILURE);
+         }
+      }
+      
+      if(element < num_elements && strcmp(elements[element], "<") == 0) {
+         printf("Redirect STDIN\n");
+         element++;
+         
+         if(element < num_elements) {
+         command->fd_in = open(elements[element], O_RDONLY);
+         element++;
+         } else {
+            printf("ERROR: missing filename\n");
+            exit(EXIT_FAILURE);
+         }
+      }
+      
+      if(element < num_elements && strcmp(elements[element], "|") == 0) {
+
+         pipe(fds);
+         command->fd_out = fds[1];
+         command = cmd_add(commands_head);
+         command->fd_in = fds[0];
+
+         element++;
+         variable = 0;
+      }
+   }
+
+   if( strcmp(commands_head->argv[0], "exit") == 0) {
+      exit(EXIT_SUCCESS);
+      //return EXIT;
+   } else if(strcmp(commands_head->argv[0], "export") == 0) {
+      printf("Writing env var\n");
+      env_write(commands_head->argv[1]);
+   } else if(strcmp(commands_head->argv[0], "alias") == 0) {
+      printf("Writing alias\n");
+      alias_write(commands_head->argv[1]);
+   } else {
+      cmd_exec(commands_head);
+   }
+
+   for(int k = 0; k < num_elements; k++) {
+      free(elements[k]);
+   }
+   free(elements);
+
+   cmd_free(commands_head);
+   
+   return 0;
+}
+
+int my_getline(FILE *fd, char** line) {
+   
+   int lsize = 80; /* initial line length */
+   int lindex = 0; /* index */
+   
+   (*line) = calloc(sizeof(char), lsize); /* Line of text */
 
    if(*line == NULL) {
       printf("FATAL: Could not allocate memory for the line\n");
-      return FAIL;
+      return -1;
    }
    
    do { 
       (*line)[lindex] = fgetc(fd);
       
-      lindex++; // Always one ahead
+      lindex++; /* Always one ahead */
       
-      if (lindex >= lsize) { // Check if we should allocate a larger line buffer.
+      if (lindex >= lsize) { /* Check if we should allocate a larger line buffer. */
          lsize += 10;
          (*line) = realloc(*line, sizeof(char) * lsize);
          
          if( *line == NULL) {
             printf("FATAL: Could not reallocate memory for the line\n");
             free(*line);
-            return FAIL;
+            return -1;
          }
       }
    } while ((*line)[lindex-1] != '\n');
    
-   return PASS;
+   return 0;
 }
 
-int env_write(const char* key, const char* value) {
-   static int env_index = 0;
-   /*
-   int i;
-   
-   for(i = 0; i < env_index; i++) {
-      if(strcmp(env[i].key, key)) {
-         env[i].value = value;
-         return UPDATE;
-      } 
-   }
-   
-   env_index++;
-   
-   // Allocate some more memory
-   // Add the entry.
-   
-   env[env_index].key = key;
-   env[env_index].value = value; 
-   */
-   return PASS;
-}
-
-int env_read(const char* key, char** value) {
-   *value = malloc(sizeof(char)*20);
-   strcpy(*value,"prompt# ");
-   return PASS;
-}
