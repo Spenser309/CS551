@@ -2,7 +2,7 @@
  * cmd.c
  *
  *  Created on: Feb 7, 2011
- *      Author: spenser
+ *      Author: Spenser Gilliland
  */
 
 #include <stdio.h>
@@ -53,9 +53,9 @@ void cmd_free(cmd* head) {
 }
 
 int cmd_exec(cmd* head) {
-   char* path = NULL;
+   char* path  = NULL;
    char* token = NULL;
-   char* try = NULL;
+   char* try   = NULL;
 
 
    while(head != NULL) {
@@ -84,10 +84,12 @@ int cmd_exec(cmd* head) {
         	 token = strtok(path, ":");
         	 while(token != NULL) {
         		// printf("Trying %s\n", token);
-        		 try = malloc(sizeof(char)*(strlen(token)+strlen(head->argv[0])));
+        		 try = malloc(sizeof(char)*(strlen(token)+strlen(head->argv[0])+2));
+        		 try[0] = '\0';
         		 strcat(try, token);
         		 strcat(try, "/");
         		 strcat(try, head->argv[0]);
+
         		 execve(try, head->argv, my_envp);
         		 token = strtok(NULL, ":");
         		 free(try);

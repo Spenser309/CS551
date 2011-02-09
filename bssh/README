@@ -1,0 +1,26 @@
+
+-- bssh : basic simple shell --
+
+This is the source code for the basic simple shell (bssh).  The bssh was written
+to meet the requirements of project one for the CS551 class.
+
+To compile:
+   make clean all
+   
+To execute:
+   ./bssh
+
+To run tests:
+   make test
+   
+To test check the performance of process vs threads:
+   at the bssh prompt
+   to test threads:
+   # time tst/pvst threads
+   to test process:
+   # time tst/pvst process
+   
+The bssh has a few limitations compared to other shells.  
+1. Does not allow redirection of stderr.
+2. Does not allow subshells (IE: $(command))
+3. Does not allow the use of shell commands and executable commands to be intermixed on a single line.

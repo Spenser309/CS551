@@ -1,6 +1,8 @@
-/* main.c - A basic simple shell.
+/*
+ * main.c - A basic simple shell.
  *
- * Creation: 1/27/2011
+ *  Created on: Feb 7, 2011
+ *      Author: Spenser Gilliland
  *
  * Changelog:
  *    01-27-2011 - Initial Creation.
@@ -65,7 +67,7 @@ volatile static sig_atomic_t prompt_for_quit = 0;
 /* sigint_handler - this is the signal handler for the C-c console input.
  */
 void sigint_handler(int signum) {
-   prompt_for_quit = ! prompt_for_quit; // Ask to quit.
+   prompt_for_quit = 1; // Ask to quit.
 }
 
 /* setup_sighandler - setup SIGINT signal handler.
@@ -95,15 +97,37 @@ int setup_sighandler() {
 }
 
 int main() {
+   FILE* profile;
+
    fd_set fdset;
    char *line;
+
+   // my_aliases = malloc(sizeof(char*));
+   my_envp    = malloc(sizeof(char*));
 
    FD_ZERO(&fdset);
    FD_SET(STDIN_FILENO, &fdset);
    
+   /* Do some default environmental variables) */
    env_write("PROMPT=PROMPT# ");
    env_write("HOME=/root/");
    env_write("PATH=/usr/bin:/bin");
+
+   profile = fopen(".profile", "r");
+
+   if (profile != NULL) {
+	   while(my_getline(profile , &line) == 0) {
+		   //printf("Original: %s \n", line);
+		   expand_aliases(&line);
+		   //printf("Aliases: %s \n", line);
+		   expand_env(&line);
+		   //printf("Envvars: %s \n", line);
+
+		   interpret_line(line);
+	   }
+   } else {
+	   printf("WARNING: .profile file unavailable\n");
+   }
 
    setup_sighandler();
    
@@ -129,7 +153,12 @@ int main() {
       }
       
       my_getline(stdin, &line);
-      expand_line(&line);
+      //printf("Original: %s \n", line);
+      expand_aliases(&line);
+      //printf("Aliases: %s \n", line);
+      expand_env(&line);
+      //printf("Envvars: %s \n", line);
+
       interpret_line(line);
 
 
@@ -164,12 +193,15 @@ char** split_line(char* line, int* num_elements) {
    int single_open = 0; // open and closed status.
    
    for(int i=0; i < strlen(line); i++) {
+      // printf("line[%i] = %c\n", i, line[i]);
       
       if( line[i] == '\"') {
+    	 // printf("double\n");
          double_open = ! double_open;
       }
       
       if( line[i] == '\'') {
+    	 // printf("single\n");
          single_open = ! single_open;
       }
       
@@ -187,12 +219,12 @@ char** split_line(char* line, int* num_elements) {
          memcpy(&elements[element][0], &line[start], i-start);
          elements[element][i-start] = '\0';
          
-         while(i < strlen(line) && 
-               (line[i] == ' ' || line[i] == '\n' || line[i] == '\t') ) {
+         while(i < strlen(line)-1 &&
+               (line[i+1] == ' ' || line[i+1] == '\n' || line[i+1] == '\t') ) {
             i++; // Fast forward to the next non-whitespace character.
          }
          
-         start = i;
+         start = i+1;
          element++;
       }
    }
@@ -200,7 +232,7 @@ char** split_line(char* line, int* num_elements) {
    *num_elements = element;
    
    // Good debugging info
-   /* for(int j=0; j < element; j++) {
+   /*for(int j=0; j < element; j++) {
       printf("elements[%i] = \"%s\"\n", j, elements[j]);
    }*/
 
@@ -225,41 +257,46 @@ int interpret_line(char* line) {
       while( element < num_elements && strcmp(elements[element], "|") 
                                     && strcmp(elements[element], "<") 
                                     && strcmp(elements[element], ">")  ) {
-         command->argv = realloc(command->argv, sizeof(char*)*(variable+1));
+         command->argv = realloc(command->argv, sizeof(char*)*(variable+2));
          command->argv[variable] = elements[element];
+         command->argv[variable+1] = NULL;
 
          element++;
          variable++;
       }
 
-      /*for(int j=0; j < variable; j++) {
+      /* for(int j=0; j < variable; j++) {
          printf("argv[%i] = %s\n", j, command->argv[j]);
-      }*/
+      } */
 
       if(element < num_elements && strcmp(elements[element], ">") == 0) {
-         printf("Redirect STDOUT\n");
+         //printf("Redirect STDOUT\n");
          element++;
          
          if(element < num_elements) {
-         command->fd_out = open(elements[element], O_WRONLY);
-
+         command->fd_out = open(elements[element], O_WRONLY | O_CREAT);
+         
+         if(command->fd_out < 0) {
+            printf("ERROR: Could not open file\n");
+            command->fd_out = STDOUT_FILENO;
+         }
+         
          element++;
          } else {
             printf("ERROR: missing filename\n");
-            exit(EXIT_FAILURE);
          }
       }
       
       if(element < num_elements && strcmp(elements[element], "<") == 0) {
-         printf("Redirect STDIN\n");
+         //printf("Redirect STDIN\n");
          element++;
          
          if(element < num_elements) {
          command->fd_in = open(elements[element], O_RDONLY);
+
          element++;
          } else {
             printf("ERROR: missing filename\n");
-            exit(EXIT_FAILURE);
          }
       }
       
@@ -276,14 +313,23 @@ int interpret_line(char* line) {
    }
 
    if( strcmp(commands_head->argv[0], "exit") == 0) {
-      exit(EXIT_SUCCESS);
-      //return EXIT;
+	  if(commands_head->next == NULL) {
+	      exit(EXIT_SUCCESS);
+	  } else {
+		  printf("ERROR: shell commands cannot be combined with any other commands.\n");
+	  }
    } else if(strcmp(commands_head->argv[0], "export") == 0) {
-      printf("Writing env var\n");
-      env_write(commands_head->argv[1]);
+	  if(commands_head->next == NULL) {
+          env_write(commands_head->argv[1]);
+	  } else {
+		  printf("ERROR: shell commands cannot be combined with any other commands.\n");
+	  }
    } else if(strcmp(commands_head->argv[0], "alias") == 0) {
-      printf("Writing alias\n");
-      alias_write(commands_head->argv[1]);
+	  if(commands_head->next == NULL) {
+	      alias_write(commands_head->argv[1]);
+	  } else {
+		  printf("ERROR: shell commands cannot be combined with any other commands.\n");
+	  }
    } else {
       cmd_exec(commands_head);
    }
@@ -325,8 +371,11 @@ int my_getline(FILE *fd, char** line) {
             return -1;
          }
       }
-   } while ((*line)[lindex-1] != '\n');
+   } while ((*line)[lindex-1] != '\n' && (*line)[lindex-1] != EOF);
    
-   return 0;
+   if((*line)[lindex-1] == '\n')
+	   return 0;
+   else
+	   return -1;
 }
 

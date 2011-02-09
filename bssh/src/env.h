@@ -2,7 +2,7 @@
  * env.h
  *
  *  Created on: Feb 7, 2011
- *      Author: spenser
+ *      Author: Spenser Gilliland
  */
 
 #ifndef ENV_H_
@@ -22,7 +22,7 @@ extern char** my_aliases;
  *    FAIL - on failure to allocate memory
  *    UPDATE - when updated entry to env and allocated all memory successfully.
  */
-int env_write(const char* value);
+int env_write(char* value);
 
 /* env_read - reads a value from the environment.
  *
@@ -34,7 +34,7 @@ int env_write(const char* value);
  *    PASS - when variable was found
  *    FAIL - When variable was not found.
  */
-int env_read(const char* key, char** value);
+int env_read(char* key, char** value);
 
 /* alias_write - add alias to environment.
  *
@@ -44,9 +44,9 @@ int env_read(const char* key, char** value);
  * Return:
  *
  */
-int alias_write(const char* value);
+int alias_write(char* value);
 
-/* expand_line - expand all aliases and environmental variables.
+/* expand_aliases - expand all aliases.
  *
  * Variables:
  *    line - Line of text to expand
@@ -55,7 +55,18 @@ int alias_write(const char* value);
  *    PASS - successfully expanded.
  *    FAIL - failure to expand.
  */
-int expand_line(char** line);
+int expand_aliases(char** line);
+
+/* expand_env - expand all environmental variables.
+ *
+ * Variables:
+ *    line - Line of text to expand
+ *
+ * Return:
+ *    PASS - successfully expanded.
+ *    FAIL - failure to expand.
+ */
+int expand_env(char** line);
 
 /* env_free - free all env vars.
  *

@@ -2,7 +2,7 @@
  * cmd.h
  *
  *  Created on: Feb 7, 2011
- *      Author: spenser
+ *      Author: Spenser Gilliland
  */
 
 #ifndef CMD_H_
