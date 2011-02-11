@@ -125,7 +125,7 @@ int expand_aliases(char** line) {
     	found = strstr(*line, token);
 
     	if(found != NULL) {
-    		printf("Found string in command updating command\n");
+    		//printf("Found string in command updating command\n");
     		value = &my_aliases[a][equal_loc+1];
     		newline_size = strlen(*line)+strlen(value)-strlen(token);
     		newline = malloc(sizeof(char)*(newline_size+1));
@@ -170,7 +170,7 @@ int expand_env(char** line) {
     	found = strstr(*line, token);
 
     	if(found != NULL) {
-    		printf("Found string in command updating command\n");
+    		//printf("Found string in command updating command\n");
     		value = &my_envp[a][equal_loc+1];
     		newline_size = strlen(*line)+strlen(value)-strlen(token);
     		newline = malloc(sizeof(char)*(newline_size+1));

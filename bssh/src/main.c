@@ -105,13 +105,15 @@ int main() {
    // my_aliases = malloc(sizeof(char*));
    my_envp    = malloc(sizeof(char*));
 
+   // Setup for select system call.
    FD_ZERO(&fdset);
    FD_SET(STDIN_FILENO, &fdset);
    
-   /* Do some default environmental variables) */
+   /* Do some default environmental variables */
    env_write("PROMPT=PROMPT# ");
    env_write("HOME=/root/");
    env_write("PATH=/usr/bin:/bin");
+
 
    profile = fopen(".profile", "r");
 
@@ -133,7 +135,7 @@ int main() {
    
    for(;;) {
 
-	  env_read("PROMPT", &line);
+	   env_read("PROMPT", &line);
       printf("%s", line);
       fflush(stdout);
       
@@ -158,9 +160,8 @@ int main() {
       //printf("Aliases: %s \n", line);
       expand_env(&line);
       //printf("Envvars: %s \n", line);
-
+      
       interpret_line(line);
-
 
       free(line);
    }
@@ -185,9 +186,11 @@ int main() {
 char** split_line(char* line, int* num_elements) {
 
    char** elements = NULL;
+   char*  quote = NULL;
    
    int    element = 0;
    int    start = 0;
+   int    p = 0;
    
    int double_open = 0; // open and closed status.
    int single_open = 0; // open and closed status.
@@ -226,6 +229,22 @@ char** split_line(char* line, int* num_elements) {
          
          start = i+1;
          element++;
+      }
+   }
+   
+   // Bad looking code but this removes the quotes that may be present.
+   for(int i=0; i < element; i++) {
+      if((quote = strpbrk(elements[i], "\"\'")) != NULL) {
+         p = 0;
+         for(int j=0; j < strlen(elements[i])+1; j++) {
+            if(elements[i][j] == '\'' || elements[i][j] == '\"') {
+               elements[i][p] = elements[i][j];
+            } else {
+               elements[i][p] = elements[i][j];
+               p++;
+            }  
+         }
+         elements[i] = realloc(elements[i], sizeof(char)*(p+1));
       }
    }
    
