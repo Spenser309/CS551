@@ -1,1 +1,5 @@
 *.o
+*.gz
+*.bz2
+obj-gnu/
+*.dat
